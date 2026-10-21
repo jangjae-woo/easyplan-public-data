@@ -23,10 +23,12 @@ jobs:
       - name: Refresh MICHELIN public listing
         run: node michelin.mjs --run
       - run: node refresh.mjs
+      - name: Refresh official restaurant menus
+        run: node restaurant-menus.mjs --run
       - name: Store latest public snapshots
         run: |
           git config user.name 'easyplan-data-bot'
           git config user.email 'easyplan-data-bot@users.noreply.github.com'
-          git add data.json status.json sources
+          git add data.json status.json sources restaurant-menus.json
           git diff --cached --quiet || git commit -m 'Refresh official public sources'
           git push
