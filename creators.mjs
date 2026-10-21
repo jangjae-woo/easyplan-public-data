@@ -1,0 +1,30 @@
+import fs from 'node:fs/promises';
+import {createHash} from 'node:crypto';
+const names={sung:'성시경',youngja:'이영자',choiza:'최자',poongja:'풍자'};
+export function videoMeta(html,expected){
+ const m=html.match(/var ytInitialPlayerResponse\s*=\s*(\{.*?\});/);if(!m)throw Error('영상 응답 확인 실패');
+ const r=JSON.parse(m[1]),v=r.videoDetails;if(!v||v.channelId!==expected)throw Error('영상 채널 불일치 또는 비공개');
+ return {id:v.videoId,title:v.title,channel:v.author,channelId:v.channelId,published:r.microformat?.playerMicroformatRenderer?.publishDate||'',thumbnail:v.thumbnail?.thumbnails?.at(-1)?.url||'',sponsor:/광고|제작\s*지원|협찬|홍보/.test(v.shortDescription||'')?'영상 설명에 광고·홍보 관련 표기 있음':'협찬 여부 미확인',checkedAt:new Date().toISOString(),status:'ok'};
+}
+export function region(address){const a={전북특별자치도:'전북',전라북도:'전북',강원특별자치도:'강원',충청북도:'충북',충청남도:'충남',전라남도:'전남',경상북도:'경북',경상남도:'경남'};return a[address.split(' ')[0]]||address.slice(0,2);}
+export function buildPlaces(seeds,videos){const items=new Map();for(const p of seeds){const v=videos[p.videoId];if(!names[p.creator]||!v||v.channelId!==p.channelId)continue;const id='creator-'+createHash('sha256').update(p.title+'|'+p.address).digest('hex').slice(0,16);let item=items.get(id);if(!item){item={id,itemType:'creatorplace',title:p.title,region:region(p.address),address:p.address,addressUrl:p.addressUrl,addressCheckedAt:p.addressCheckedAt,category:'영상 속 맛집',priceText:'현재 메뉴 가격 확인',dateLabel:'영상 방문 기록 · 영업일 별도 확인',visits:[],url:'https://www.youtube.com/watch?v='+p.videoId,summary:p.menu?'영상 속 음식: '+p.menu:'원본 영상에서 음식과 공간을 살펴보세요.',menu:p.menu||'',conditions:['영상의 방문 이력이며 현재 영업·맛·가격을 보장하지 않습니다.'],ended:false};items.set(id,item);}
+ item.visits.push({creator:p.creator,creatorName:names[p.creator],videoId:v.id,title:v.title,channel:v.channel,published:v.published?.slice(0,10),url:'https://www.youtube.com/watch?v='+v.id+(p.seconds?'&t='+p.seconds+'s':''),thumbnail:v.thumbnail,sponsor:v.sponsor||'협찬 여부 미확인',checkedAt:v.checkedAt,status:v.status,evidence:p.evidence});}return [...items.values()];}
+async function run(){
+ const seeds=JSON.parse(await fs.readFile('creator-seeds.json')),videos=JSON.parse(await fs.readFile('creator-videos.json')),now=new Date().toISOString();
+ // Store compact metadata only; never publish full video descriptions.
+ for(const v of Object.values(videos)){v.sponsor??=/광고|제작\s*지원|협찬|홍보/.test(v.description||'')?'영상 설명에 광고·홍보 관련 표기 있음':'협찬 여부 미확인';delete v.description;delete v.url;delete v.creator;}
+ const refs=[...new Map([...seeds.places,...seeds.camps].map(p=>[p.videoId,p])).values()];let ok=0,attempted=0,blocked=false;
+ // Rotate a small daily batch. Stop immediately on a challenge; never bypass it.
+ const due=refs.filter(p=>Date.now()-Date.parse(videos[p.videoId]?.checkedAt||0)>7*86400000).sort((a,b)=>(videos[a.videoId]?.checkedAt||'').localeCompare(videos[b.videoId]?.checkedAt||'')).slice(0,12);
+ if(!process.argv.includes('--seed'))for(const p of due){attempted++;try{const r=await fetch('https://www.youtube.com/watch?v='+p.videoId,{signal:AbortSignal.timeout(15000)});const html=await r.text();if(r.status===429||/captcha-form|unusual traffic/i.test(html)){blocked=true;throw Error('자동 조회 일시 제한');}if(!r.ok)throw Error();videos[p.videoId]=videoMeta(html,p.channelId);ok++;}catch{if(videos[p.videoId])videos[p.videoId]={...videos[p.videoId],status:'error',lastAttempt:now};}if(blocked)break;await new Promise(r=>setTimeout(r,2500));}
+ else ok=refs.length;
+ const data=JSON.parse(await fs.readFile('data.json')),old=data.sources.find(s=>s.id==='creator-dining');
+ const source={id:'creator-dining',name:'원본 영상 · 인물별 방문 식당',url:'https://www.youtube.com/',note:'방문 영상과 주소 출처를 함께 제공합니다. 새 영상은 장소 확인 후 반영합니다.',status:blocked?'error':attempted&&ok<attempted?'partial':old?.status==='error'&&!attempted?'error':'ok',lastAttempt:now,lastSuccess:ok?now:old?.lastSuccess,items:buildPlaces(seeds.places,videos),refreshNote:blocked?'자동 조회 일시 제한 · 마지막 확인 자료 유지':'일일 소량 재확인 · 주소는 별도 검토'};
+ data.sources=data.sources.filter(s=>s.id!==source.id);data.sources.push(source);
+ const camp=data.sources.find(s=>s.id==='camping');if(camp){for(const p of camp.items)delete p.creatorVisits;for(const ref of seeds.camps){const p=camp.items.find(x=>x.id===ref.placeId),v=videos[ref.videoId];if(!p||!v||v.channelId!==ref.channelId||p.address!==ref.address)continue;(p.creatorVisits??=[]).push({creatorName:ref.creator,channelId:ref.channelId,title:v.title,url:'https://www.youtube.com/watch?v='+v.id,published:v.published?.slice(0,10),status:v.status,checkedAt:v.checkedAt,evidence:ref.evidence});}await fs.writeFile('sources/camping.json',JSON.stringify(camp));}
+ await fs.writeFile('creator-videos.json',JSON.stringify(videos,null,2));await fs.writeFile('sources/creator-dining.json',JSON.stringify(source));await fs.writeFile('data.json',JSON.stringify(data));
+ // New uploads are leads, not verified restaurant/campsite records.
+ if(!process.argv.includes('--seed')&&!blocked){let previous={candidates:[]};try{previous=JSON.parse(await fs.readFile('creator-review-queue.json'));}catch{}const candidates=previous.candidates.filter(c=>c.videoId&&!videos[c.videoId]);for(const channelId of new Set(refs.map(r=>r.channelId))){try{const r=await fetch('https://www.youtube.com/feeds/videos.xml?channel_id='+channelId,{signal:AbortSignal.timeout(10000)});if(!r.ok)throw Error();const xml=await r.text();for(const m of xml.matchAll(/<yt:videoId>([^<]+)<\/yt:videoId>/g))if(!videos[m[1]]&&!candidates.some(c=>c.videoId===m[1]))candidates.push({videoId:m[1],channelId,url:'https://www.youtube.com/watch?v='+m[1],status:'장소·출연자 확인 대기'});}catch{candidates.push({channelId,status:'새 영상 조회 실패'});}}await fs.writeFile('creator-review-queue.json',JSON.stringify({checkedAt:now,candidates},null,2));}
+ console.log('creator places',source.items.length,'videos refreshed',ok,'/',refs.length,'camps',camp?.items.filter(p=>p.creatorVisits?.length).length);
+}
+if(process.argv.includes('--run')||process.argv.includes('--seed'))await run();
