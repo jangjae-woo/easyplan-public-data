@@ -1,6 +1,6 @@
 import fs from 'node:fs/promises';
 import {createHash} from 'node:crypto';
-const names={sung:'성시경',youngja:'이영자',choiza:'최자',poongja:'풍자'};
+const names={"sung":"성시경","youngja":"이영자","choiza":"최자","poongja":"풍자","dongyeop":"신동엽","hwasa":"화사","jiyeon":"임지연","bibi":"비비","psy":"싸이","seojoon":"박서준","jaehoon":"이재훈","jungwoo":"하정우","jihoon":"주지훈","jungseok":"조정석","mithra":"미쓰라","gaeko":"개코","scoups":"에스쿱스","mingyu":"민규"};
 export function videoMeta(html,expected){
  const m=html.match(/var ytInitialPlayerResponse\s*=\s*(\{.*?\});/);if(!m)throw Error('영상 응답 확인 실패');
  const r=JSON.parse(m[1]),v=r.videoDetails;if(!v||v.channelId!==expected)throw Error('영상 채널 불일치 또는 비공개');
@@ -8,7 +8,7 @@ export function videoMeta(html,expected){
 }
 export function region(address){const a={전북특별자치도:'전북',전라북도:'전북',강원특별자치도:'강원',충청북도:'충북',충청남도:'충남',전라남도:'전남',경상북도:'경북',경상남도:'경남'};return a[address.split(' ')[0]]||address.slice(0,2);}
 export function buildPlaces(seeds,videos){const items=new Map();for(const p of seeds){const v=videos[p.videoId];if(!names[p.creator]||!v||v.channelId!==p.channelId)continue;const id='creator-'+createHash('sha256').update(p.title+'|'+p.address).digest('hex').slice(0,16);let item=items.get(id);if(!item){item={id,itemType:'creatorplace',title:p.title,region:region(p.address),address:p.address,addressUrl:p.addressUrl,addressCheckedAt:p.addressCheckedAt,category:'영상 속 맛집',priceText:'현재 메뉴 가격 확인',dateLabel:'영상 방문 기록 · 영업일 별도 확인',visits:[],url:'https://www.youtube.com/watch?v='+p.videoId,summary:p.menu?'영상 속 음식: '+p.menu:'원본 영상에서 음식과 공간을 살펴보세요.',menu:p.menu||'',conditions:['영상의 방문 이력이며 현재 영업·맛·가격을 보장하지 않습니다.'],ended:false};items.set(id,item);}
- item.visits.push({creator:p.creator,creatorName:names[p.creator],videoId:v.id,title:v.title,channel:v.channel,published:v.published?.slice(0,10),url:'https://www.youtube.com/watch?v='+v.id+(p.seconds?'&t='+p.seconds+'s':''),thumbnail:v.thumbnail,sponsor:v.sponsor||'협찬 여부 미확인',checkedAt:v.checkedAt,status:v.status,evidence:p.evidence});}return [...items.values()];}
+ item.visits.push({creator:p.creator,creatorName:names[p.creator],visitRole:p.visitRole||'host',videoId:v.id,title:v.title,channel:v.channel,published:v.published?.slice(0,10),url:'https://www.youtube.com/watch?v='+v.id+(p.seconds?'&t='+p.seconds+'s':''),thumbnail:v.thumbnail,sponsor:v.sponsor||'협찬 여부 미확인',checkedAt:v.checkedAt,status:v.status,evidence:p.evidence});}return [...items.values()];}
 async function run(){
  const seeds=JSON.parse(await fs.readFile('creator-seeds.json')),videos=JSON.parse(await fs.readFile('creator-videos.json')),now=new Date().toISOString();
  // Store compact metadata only; never publish full video descriptions.
