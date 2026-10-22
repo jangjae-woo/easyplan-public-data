@@ -7,6 +7,7 @@ if(source){
  await Promise.all(Array.from({length:2},async()=>{while(cursor<source.items.length){const p=source.items[cursor++];
   if(p.linksCheckedAt&&Date.now()-Date.parse(p.linksCheckedAt)<7*86400000)continue;
   for(const e of p.evidence){try{const r=await fetch(e.url,{signal:AbortSignal.timeout(10000)});const body=await r.text();e.linkStatus=r.ok&&body.length>500&&!/captcha|access denied|verify you are human/i.test(body)?'reachable':'unavailable';}catch{e.linkStatus='unavailable';}}
+  if(p.photo){try{const r=await fetch(p.photo.url,{method:'HEAD',signal:AbortSignal.timeout(10000)});p.photo.status=r.ok&&r.headers.get('content-type')?.startsWith('image/')?'ok':'error';}catch{p.photo.status='error';}p.photo.lastAttempt=now;}
   p.linksCheckedAt=now;p.linkHealth=p.evidence.every(e=>e.linkStatus==='reachable')?'ok':'partial';
  }}));
  source.catalogUpdatedAt=now;source.lastAttempt=now;
