@@ -1,5 +1,5 @@
 {
-  "checkedAt": "2026-10-21T18:04:44.347Z",
+  "checkedAt": "2026-10-22T00:03:18.691Z",
   "excluded": [
     {
       "id": "7767",
@@ -746,20 +746,20 @@
       "url": "https://gocamping.or.kr/bsite/camp/info/read.do?c_no=6832"
     },
     {
-      "id": "982",
-      "title": "룰루랄라 체험 캠핑장",
-      "address": "경상북도 영덕군 창수면 오서로 471",
-      "registered": true,
-      "closed": true,
-      "url": "https://gocamping.or.kr/bsite/camp/info/read.do?c_no=982"
-    },
-    {
       "id": "3477",
       "title": "오름집",
       "address": "제주특별자치도 서귀포시 보목동 보목포로65번길 6",
       "registered": true,
       "closed": true,
       "url": "https://gocamping.or.kr/bsite/camp/info/read.do?c_no=3477"
+    },
+    {
+      "id": "982",
+      "title": "룰루랄라 체험 캠핑장",
+      "address": "경상북도 영덕군 창수면 오서로 471",
+      "registered": true,
+      "closed": true,
+      "url": "https://gocamping.or.kr/bsite/camp/info/read.do?c_no=982"
     },
     {
       "id": "7476",
@@ -1250,20 +1250,20 @@
       "url": "https://gocamping.or.kr/bsite/camp/info/read.do?c_no=7383"
     },
     {
-      "id": "3213",
-      "title": "팜스퀘어 하늘타리",
-      "address": "경기도 여주시 금사면 금품2로 835-64",
-      "registered": true,
-      "closed": true,
-      "url": "https://gocamping.or.kr/bsite/camp/info/read.do?c_no=3213"
-    },
-    {
       "id": "2729",
       "title": "제주파인비치 카라반",
       "address": "제주특별자치도 서귀포시 남원읍 태위로 976-10",
       "registered": true,
       "closed": true,
       "url": "https://gocamping.or.kr/bsite/camp/info/read.do?c_no=2729"
+    },
+    {
+      "id": "3213",
+      "title": "팜스퀘어 하늘타리",
+      "address": "경기도 여주시 금사면 금품2로 835-64",
+      "registered": true,
+      "closed": true,
+      "url": "https://gocamping.or.kr/bsite/camp/info/read.do?c_no=3213"
     },
     {
       "id": "2695",
@@ -1378,20 +1378,20 @@
       "url": "https://gocamping.or.kr/bsite/camp/info/read.do?c_no=3203"
     },
     {
-      "id": "7523",
-      "title": "와우키즈랜드 야영장",
-      "address": "충청북도 청주시 청원구 내수읍 내수로 457",
-      "registered": true,
-      "closed": true,
-      "url": "https://gocamping.or.kr/bsite/camp/info/read.do?c_no=7523"
-    },
-    {
       "id": "548",
       "title": "나봄야영장",
       "address": "전북특별자치도 장수군 천천면 남양리 299-2",
       "registered": true,
       "closed": true,
       "url": "https://gocamping.or.kr/bsite/camp/info/read.do?c_no=548"
+    },
+    {
+      "id": "7523",
+      "title": "와우키즈랜드 야영장",
+      "address": "충청북도 청주시 청원구 내수읍 내수로 457",
+      "registered": true,
+      "closed": true,
+      "url": "https://gocamping.or.kr/bsite/camp/info/read.do?c_no=7523"
     },
     {
       "id": "7414",
@@ -1874,20 +1874,20 @@
       "url": "https://gocamping.or.kr/bsite/camp/info/read.do?c_no=100354"
     },
     {
-      "id": "100085",
-      "title": "큰빛내 야영장",
-      "address": "경상북도 울진군 금강송면 소광리 127-3",
-      "registered": true,
-      "closed": true,
-      "url": "https://gocamping.or.kr/bsite/camp/info/read.do?c_no=100085"
-    },
-    {
       "id": "100698",
       "title": "법수치오토캠핑장",
       "address": "강원특별자치도 양양군 현북면 법수치길 965",
       "registered": true,
       "closed": true,
       "url": "https://gocamping.or.kr/bsite/camp/info/read.do?c_no=100698"
+    },
+    {
+      "id": "100085",
+      "title": "큰빛내 야영장",
+      "address": "경상북도 울진군 금강송면 소광리 127-3",
+      "registered": true,
+      "closed": true,
+      "url": "https://gocamping.or.kr/bsite/camp/info/read.do?c_no=100085"
     },
     {
       "id": "101318",
@@ -2442,20 +2442,20 @@
       "url": "https://gocamping.or.kr/bsite/camp/info/read.do?c_no=102277"
     },
     {
-      "id": "102279",
-      "title": "아산별곡캠핑장",
-      "address": "충청남도 서산시 지곡면 도성로 62",
-      "registered": true,
-      "closed": true,
-      "url": "https://gocamping.or.kr/bsite/camp/info/read.do?c_no=102279"
-    },
-    {
       "id": "102318",
       "title": "야미숲캠핑장",
       "address": "경기도 포천시 영북면 금곡동로 111",
       "registered": true,
       "closed": true,
       "url": "https://gocamping.or.kr/bsite/camp/info/read.do?c_no=102318"
+    },
+    {
+      "id": "102279",
+      "title": "아산별곡캠핑장",
+      "address": "충청남도 서산시 지곡면 도성로 62",
+      "registered": true,
+      "closed": true,
+      "url": "https://gocamping.or.kr/bsite/camp/info/read.do?c_no=102279"
     },
     {
       "id": "102255",
