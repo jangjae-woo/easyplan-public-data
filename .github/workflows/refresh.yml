@@ -28,6 +28,8 @@ jobs:
         run: node camping.mjs --run && node camping-operators.mjs
       - name: Check creator videos and collect new upload leads
         run: node creators.mjs --run
+      - name: Check curated dining source links
+        run: node dining-picks.mjs
       - run: node refresh.mjs
       - name: Refresh official restaurant menus
         run: node restaurant-menus.mjs --run
