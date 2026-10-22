@@ -1,0 +1,2324 @@
+{
+  "checkedAt": "2026-10-22T09:57:52.598Z",
+  "checked": 78,
+  "added": 78,
+  "items": [
+    {
+      "id": "pick-oct22-z5T1DopFKhEy",
+      "title": "동남풍 영주",
+      "address": "경북 영주시 번영로173번길 13 1층",
+      "photo": {
+        "url": "https://d2uja84sd90jmv.cloudfront.net/posts/raLKL0tia8r5DlLsY-sq0Q/ms.jpg?updated=-62167392000",
+        "sourceUrl": "https://polle.com/place/3lWuUd/%EB%8F%99%EB%82%A8%ED%92%8D",
+        "sourceLabel": "뽈레",
+        "sourceName": "[동남풍] 영주동 고깃집 | 뽈레 Polle",
+        "sourceAddress": "경북 영주시 번영로173번길 13",
+        "matchedAddress": "경북 영주시 번영로173번길 13 1층",
+        "kind": "review-preview",
+        "rightsStatus": "permission-not-confirmed",
+        "caption": "동남풍 영주 · 방문자 사진 미리보기",
+        "status": "ok",
+        "checkedAt": "2026-10-22T09:55:52.214Z",
+        "identityVerifiedAt": "2026-10-22T09:57:52.076Z"
+      },
+      "checkedSources": [
+        {
+          "url": "https://www.diningcode.com/profile.php?rid=z5T1DopFKhEy",
+          "status": 200,
+          "name": "동남풍한우식당",
+          "address": "경상북도 영주시 번영로173번길 13",
+          "address2": "경상북도 영주시 영주동 330-14"
+        },
+        {
+          "url": "https://polle.com/place/3lWuUd/%EB%8F%99%EB%82%A8%ED%92%8D",
+          "status": 200,
+          "name": "[동남풍] 영주동 고깃집 | 뽈레 Polle",
+          "address": "경북 영주시 번영로173번길 13"
+        }
+      ]
+    },
+    {
+      "id": "pick-oct22-sLGq6iKOUdGa",
+      "title": "화랑식당 함평",
+      "address": "전남 함평군 함평읍 시장길 96",
+      "photo": {
+        "url": "https://d12zq4w4guyljn.cloudfront.net/750_750_20261004022038_photo2_8e768cbd3c12.webp?v=1",
+        "sourceUrl": "https://www.diningcode.com/profile.php?rid=sLGq6iKOUdGa",
+        "sourceLabel": "다이닝코드",
+        "sourceName": "화랑식당",
+        "sourceAddress": "전라남도 함평군 함평읍 시장길 96",
+        "matchedAddress": "전남 함평군 함평읍 시장길 96",
+        "kind": "review-preview",
+        "rightsStatus": "permission-not-confirmed",
+        "caption": "화랑식당 함평 · 방문자 사진 미리보기",
+        "status": "ok",
+        "checkedAt": "2026-10-22T09:55:52.214Z",
+        "identityVerifiedAt": "2026-10-22T09:57:52.078Z"
+      },
+      "checkedSources": [
+        {
+          "url": "https://www.diningcode.com/profile.php?rid=sLGq6iKOUdGa",
+          "status": 200,
+          "name": "화랑식당",
+          "address": "전라남도 함평군 함평읍 시장길 96",
+          "address2": "전라남도 함평군 함평읍 기각리 982-34"
+        },
+        {
+          "url": "https://polle.com/place/16svlx/%ED%99%94%EB%9E%91%EC%8B%9D%EB%8B%B9",
+          "status": 200,
+          "name": "[화랑식당] 함평읍 한식 | 뽈레 Polle",
+          "address": "전남광주 함평군 함평읍 시장길 96"
+        }
+      ]
+    },
+    {
+      "id": "pick-oct22-v82FQWSLzHEK",
+      "title": "부평양곱창 1호점",
+      "address": "부산 중구 부평2길 17",
+      "photo": {
+        "url": "https://d12zq4w4guyljn.cloudfront.net/750_750_20260925064908_photo1_715a8060a217.webp",
+        "sourceUrl": "https://www.diningcode.com/profile.php?rid=v82FQWSLzHEK",
+        "sourceLabel": "다이닝코드",
+        "sourceName": "부평양곱창 1호점",
+        "sourceAddress": "부산광역시 중구 부평2길 17",
+        "matchedAddress": "부산 중구 부평2길 17",
+        "kind": "review-preview",
+        "rightsStatus": "permission-not-confirmed",
+        "caption": "부평양곱창 1호점 · 방문자 사진 미리보기",
+        "status": "ok",
+        "checkedAt": "2026-10-22T09:55:52.214Z",
+        "identityVerifiedAt": "2026-10-22T09:57:52.078Z"
+      },
+      "checkedSources": [
+        {
+          "url": "https://www.diningcode.com/profile.php?rid=v82FQWSLzHEK",
+          "status": 200,
+          "name": "부평양곱창 1호점",
+          "address": "부산광역시 중구 부평2길 17",
+          "address2": "부산광역시 중구 부평동2가 24-2"
+        },
+        {
+          "url": "https://polle.com/place/5cBo0n/%EB%B6%80%ED%8F%89%EC%96%91%EA%B3%B1%EC%B0%BD",
+          "status": 200,
+          "name": "[부평양곱창] 부평동2가 곱창류 | 뽈레 Polle",
+          "address": "부산 중구 부평2길 17"
+        }
+      ]
+    },
+    {
+      "id": "pick-oct22-Gu4YBX6c5Z1n",
+      "title": "양산왕돼지국밥 부산재송",
+      "address": "부산 해운대구 재반로 70 1층",
+      "photo": {
+        "url": "https://d12zq4w4guyljn.cloudfront.net/750_750_20260809121355_photo1_bedbe5754a64.webp",
+        "sourceUrl": "https://www.diningcode.com/profile.php?rid=Gu4YBX6c5Z1n",
+        "sourceLabel": "다이닝코드",
+        "sourceName": "양산왕돼지국밥",
+        "sourceAddress": "부산광역시 해운대구 재반로 70 양산왕돼지국밥,보쌈",
+        "matchedAddress": "부산 해운대구 재반로 70 1층",
+        "kind": "review-preview",
+        "rightsStatus": "permission-not-confirmed",
+        "caption": "양산왕돼지국밥 부산재송 · 방문자 사진 미리보기",
+        "status": "ok",
+        "checkedAt": "2026-10-22T09:56:50.105Z",
+        "identityVerifiedAt": "2026-10-22T09:57:52.078Z"
+      },
+      "checkedSources": [
+        {
+          "url": "https://www.diningcode.com/profile.php?rid=Gu4YBX6c5Z1n",
+          "status": 200,
+          "name": "양산왕돼지국밥",
+          "address": "부산광역시 해운대구 재반로 70 양산왕돼지국밥,보쌈",
+          "address2": "부산광역시 해운대구 재송동 1118-7"
+        },
+        {
+          "url": "https://polle.com/place/5Dk8gG/%EC%96%91%EC%82%B0%EC%99%95%EB%8F%BC%EC%A7%80%EA%B5%AD%EB%B0%A5",
+          "status": 200,
+          "name": "[양산 왕돼지 국밥] 재송동 돼지국밥 | 뽈레 Polle",
+          "address": "부산 해운대구 재반로 70"
+        }
+      ]
+    },
+    {
+      "id": "pick-oct22-rWzcwMfL7iag",
+      "title": "해성막창집 해운대본점",
+      "address": "부산 해운대구 중동1로19번길 29 1층",
+      "photo": {
+        "url": "https://d12zq4w4guyljn.cloudfront.net/750_750_20260907061855_photo1_ec456fd8ae0d.webp",
+        "sourceUrl": "https://www.diningcode.com/profile.php?rid=rWzcwMfL7iag",
+        "sourceLabel": "다이닝코드",
+        "sourceName": "해성막창집 본점",
+        "sourceAddress": "부산광역시 해운대구 중동1로19번길 29",
+        "matchedAddress": "부산 해운대구 중동1로19번길 29 1층",
+        "kind": "review-preview",
+        "rightsStatus": "permission-not-confirmed",
+        "caption": "해성막창집 해운대본점 · 방문자 사진 미리보기",
+        "status": "ok",
+        "checkedAt": "2026-10-22T09:55:52.214Z",
+        "identityVerifiedAt": "2026-10-22T09:57:52.078Z"
+      },
+      "checkedSources": [
+        {
+          "url": "https://www.diningcode.com/profile.php?rid=rWzcwMfL7iag",
+          "status": 200,
+          "name": "해성막창집 본점",
+          "address": "부산광역시 해운대구 중동1로19번길 29",
+          "address2": "부산광역시 해운대구 중동 1378-10"
+        },
+        {
+          "url": "https://polle.com/place/31hqFu/%ED%95%B4%EC%84%B1%EB%A7%89%EC%B0%BD%EC%A7%91",
+          "status": 200,
+          "name": "[해성막창집 본점] 해운대 곱창류 | 뽈레 Polle",
+          "address": "부산 해운대구 중동1로19번길 29"
+        }
+      ]
+    },
+    {
+      "id": "pick-oct22-ewwSvdQBnSXA",
+      "title": "서울곱창 광주송정",
+      "address": "광주 광산구 송정로15번길 71 1층",
+      "photo": {
+        "url": "https://d12zq4w4guyljn.cloudfront.net/750_750_20261021124901_photo1_68d1c5bf458f.webp",
+        "sourceUrl": "https://www.diningcode.com/profile.php?rid=ewwSvdQBnSXA",
+        "sourceLabel": "다이닝코드",
+        "sourceName": "원조 서울곱창",
+        "sourceAddress": "광주광역시 광산구 송정로15번길 71",
+        "matchedAddress": "광주 광산구 송정로15번길 71 1층",
+        "kind": "review-preview",
+        "rightsStatus": "permission-not-confirmed",
+        "caption": "서울곱창 광주송정 · 방문자 사진 미리보기",
+        "status": "ok",
+        "checkedAt": "2026-10-22T09:55:52.214Z",
+        "identityVerifiedAt": "2026-10-22T09:57:52.078Z"
+      },
+      "checkedSources": [
+        {
+          "url": "https://www.diningcode.com/profile.php?rid=ewwSvdQBnSXA",
+          "status": 200,
+          "name": "원조 서울곱창",
+          "address": "광주광역시 광산구 송정로15번길 71",
+          "address2": "광주광역시 광산구 송정동 820-5"
+        },
+        {
+          "url": "https://polle.com/place/4mYurV/%EC%84%9C%EC%9A%B8%EA%B3%B1%EC%B0%BD",
+          "status": 200,
+          "name": "[서울곱창] 송정동 곱창류 | 뽈레 Polle",
+          "address": "전남광주 광산구 송정로15번길 71"
+        }
+      ]
+    },
+    {
+      "id": "pick-oct22-rUxk0jXoEVVM",
+      "title": "김태주선산곱창 구미본점",
+      "address": "경북 구미시 송원서로 77 1층",
+      "photo": {
+        "url": "https://d12zq4w4guyljn.cloudfront.net/750_750_20261011024409457_photo_68eaabbd3b73.webp",
+        "sourceUrl": "https://www.diningcode.com/profile.php?rid=rUxk0jXoEVVM",
+        "sourceLabel": "다이닝코드",
+        "sourceName": "김태주 선산곱창 구미본점",
+        "sourceAddress": "경상북도 구미시 송원서로 77 ,",
+        "matchedAddress": "경북 구미시 송원서로 77 1층",
+        "kind": "review-preview",
+        "rightsStatus": "permission-not-confirmed",
+        "caption": "김태주선산곱창 구미본점 · 방문자 사진 미리보기",
+        "status": "ok",
+        "checkedAt": "2026-10-22T09:56:50.106Z",
+        "identityVerifiedAt": "2026-10-22T09:57:52.078Z"
+      },
+      "checkedSources": [
+        {
+          "url": "https://www.diningcode.com/profile.php?rid=rUxk0jXoEVVM",
+          "status": 200,
+          "name": "김태주 선산곱창 구미본점",
+          "address": "경상북도 구미시 송원서로 77 ,",
+          "address2": "경상북도 구미시 원평동 1037-68"
+        },
+        {
+          "url": "https://polle.com/place/1PjXGh/%EA%B9%80%ED%83%9C%EC%A3%BC%EC%84%A0%EC%82%B0%EA%B3%B1%EC%B0%BD",
+          "status": 200,
+          "name": "[김태주 선산곱창 구미본점] 원평동 곱창전골 | 뽈레 Polle",
+          "address": "경북 구미시 송원서로 77"
+        }
+      ]
+    },
+    {
+      "id": "pick-oct22-EoLlx7v1vAIK",
+      "title": "홍천 한우사랑말식당",
+      "address": "강원특별자치도 홍천군 북방면 홍천로 13-5",
+      "photo": {
+        "url": "https://d12zq4w4guyljn.cloudfront.net/750_750_20260718032434_photo1_0c4a3020ed31.webp",
+        "sourceUrl": "https://www.diningcode.com/profile.php?rid=EoLlx7v1vAIK",
+        "sourceLabel": "다이닝코드",
+        "sourceName": "홍천 한우사랑말식당",
+        "sourceAddress": "강원도 홍천군 북방면 홍천로 13-5",
+        "matchedAddress": "강원특별자치도 홍천군 북방면 홍천로 13-5",
+        "kind": "review-preview",
+        "rightsStatus": "permission-not-confirmed",
+        "caption": "홍천 한우사랑말식당 · 방문자 사진 미리보기",
+        "status": "ok",
+        "checkedAt": "2026-10-22T09:55:52.214Z",
+        "identityVerifiedAt": "2026-10-22T09:57:52.078Z"
+      },
+      "checkedSources": [
+        {
+          "url": "https://www.diningcode.com/profile.php?rid=EoLlx7v1vAIK",
+          "status": 200,
+          "name": "홍천 한우사랑말식당",
+          "address": "강원도 홍천군 북방면 홍천로 13-5",
+          "address2": "강원도 홍천군 북방면 상화계리 329-5"
+        },
+        {
+          "url": "https://polle.com/place/4vVfhe/%ED%99%8D%EC%B2%9C",
+          "status": 200,
+          "name": "[홍천 사랑말 한우 식당 정육점] 북방면 고깃집 | 뽈레 Polle",
+          "address": "강원 홍천군 북방면 홍천로 13-5"
+        }
+      ]
+    },
+    {
+      "id": "pick-oct22-P9LgAXGnDBbK",
+      "title": "갑을식당 함양",
+      "address": "경남 함양군 함양읍 함양로 1104-1",
+      "photo": {
+        "url": "https://d12zq4w4guyljn.cloudfront.net/750_750_20260729072240885_photo_70444273f0b0.webp",
+        "sourceUrl": "https://www.diningcode.com/profile.php?rid=P9LgAXGnDBbK",
+        "sourceLabel": "다이닝코드",
+        "sourceName": "갑을식당",
+        "sourceAddress": "경상남도 함양군 함양읍 함양로 1104-1",
+        "matchedAddress": "경남 함양군 함양읍 함양로 1104-1",
+        "kind": "review-preview",
+        "rightsStatus": "permission-not-confirmed",
+        "caption": "갑을식당 함양 · 방문자 사진 미리보기",
+        "status": "ok",
+        "checkedAt": "2026-10-22T09:55:52.214Z",
+        "identityVerifiedAt": "2026-10-22T09:57:52.078Z"
+      },
+      "checkedSources": [
+        {
+          "url": "https://www.diningcode.com/profile.php?rid=P9LgAXGnDBbK",
+          "status": 200,
+          "name": "갑을식당",
+          "address": "경상남도 함양군 함양읍 함양로 1104-1",
+          "address2": "경상남도 함양군 함양읍 용평리 743-9"
+        }
+      ]
+    },
+    {
+      "id": "pick-regional-K0yvR5cu07Z1",
+      "title": "필동면옥",
+      "address": "서울특별시 중구 필동3가 1-5",
+      "photo": {
+        "url": "https://d12zq4w4guyljn.cloudfront.net/750_750_20260914055255_photo1_0b2ea42c4f94.webp",
+        "sourceUrl": "https://www.diningcode.com/profile.php?rid=K0yvR5cu07Z1",
+        "sourceLabel": "다이닝코드",
+        "sourceName": "필동면옥",
+        "sourceAddress": "서울특별시 중구 서애로 26",
+        "matchedAddress": "서울특별시 중구 필동3가 1-5",
+        "kind": "review-preview",
+        "rightsStatus": "permission-not-confirmed",
+        "caption": "필동면옥 · 방문자 사진 미리보기",
+        "status": "ok",
+        "checkedAt": "2026-10-22T09:55:52.214Z",
+        "identityVerifiedAt": "2026-10-22T09:57:52.078Z"
+      },
+      "checkedSources": [
+        {
+          "url": "https://www.diningcode.com/profile.php?rid=K0yvR5cu07Z1",
+          "status": 200,
+          "name": "필동면옥",
+          "address": "서울특별시 중구 서애로 26",
+          "address2": "서울특별시 중구 필동3가 1-5"
+        },
+        {
+          "url": "https://www.tabling.co.kr/place/6762812966de5f0698ee0941",
+          "status": 200,
+          "name": "필동면옥 - 테이블링",
+          "address": "서울 중구 서애로 26"
+        }
+      ]
+    },
+    {
+      "id": "pick-regional-FMGj8hDNbC1r",
+      "title": "을지면옥",
+      "address": "서울특별시 종로구 낙원동 55-1",
+      "photo": {
+        "url": "https://d12zq4w4guyljn.cloudfront.net/750_750_20261018043317_photo1_23173dbda7ce.webp",
+        "sourceUrl": "https://www.diningcode.com/profile.php?rid=FMGj8hDNbC1r",
+        "sourceLabel": "다이닝코드",
+        "sourceName": "을지면옥",
+        "sourceAddress": "서울특별시 종로구 삼일대로30길 12",
+        "matchedAddress": "서울특별시 종로구 낙원동 55-1",
+        "kind": "review-preview",
+        "rightsStatus": "permission-not-confirmed",
+        "caption": "을지면옥 · 방문자 사진 미리보기",
+        "status": "ok",
+        "checkedAt": "2026-10-22T09:55:52.214Z",
+        "identityVerifiedAt": "2026-10-22T09:57:52.078Z"
+      },
+      "checkedSources": [
+        {
+          "url": "https://www.diningcode.com/profile.php?rid=FMGj8hDNbC1r",
+          "status": 200,
+          "name": "을지면옥",
+          "address": "서울특별시 종로구 삼일대로30길 12",
+          "address2": "서울특별시 종로구 낙원동 55-1"
+        },
+        {
+          "url": "https://www.tabling.co.kr/place/677ccaa266de5f06987ba619",
+          "status": 200,
+          "name": "을지면옥 - 테이블링",
+          "address": "서울 종로구 삼일대로30길 12"
+        }
+      ]
+    },
+    {
+      "id": "pick-regional-EVzrnAfglaQx",
+      "title": "평양면옥 의정부본점",
+      "address": "경기도 의정부시 의정부동 385",
+      "photo": {
+        "url": "https://d12zq4w4guyljn.cloudfront.net/750_750_20260918093315_photo2_3b97ee56c0a0.webp",
+        "sourceUrl": "https://www.diningcode.com/profile.php?rid=EVzrnAfglaQx",
+        "sourceLabel": "다이닝코드",
+        "sourceName": "평양면옥",
+        "sourceAddress": "경기도 의정부시 평화로439번길 7",
+        "matchedAddress": "경기도 의정부시 의정부동 385",
+        "kind": "review-preview",
+        "rightsStatus": "permission-not-confirmed",
+        "caption": "평양면옥 의정부본점 · 방문자 사진 미리보기",
+        "status": "ok",
+        "checkedAt": "2026-10-22T09:55:52.214Z",
+        "identityVerifiedAt": "2026-10-22T09:57:52.078Z"
+      },
+      "checkedSources": [
+        {
+          "url": "https://www.diningcode.com/profile.php?rid=EVzrnAfglaQx",
+          "status": 200,
+          "name": "평양면옥",
+          "address": "경기도 의정부시 평화로439번길 7",
+          "address2": "경기도 의정부시 의정부동 385"
+        },
+        {
+          "url": "https://polle.com/place/2aZi3C/평양면옥",
+          "status": 200,
+          "name": "[평양면옥 의정부본점] 의정부동 평양냉면 | 뽈레 Polle",
+          "address": "경기 의정부시 평화로439번길 7"
+        }
+      ]
+    },
+    {
+      "id": "pick-regional-jYKppLiH5gkN",
+      "title": "명화식육식당",
+      "address": "광주광역시 광산구 명화동 225-1",
+      "photo": {
+        "url": "https://d12zq4w4guyljn.cloudfront.net/750_750_20260827011439_photo1_1c198f7f6936.webp",
+        "sourceUrl": "https://www.diningcode.com/profile.php?rid=jYKppLiH5gkN",
+        "sourceLabel": "다이닝코드",
+        "sourceName": "명화 식육식당",
+        "sourceAddress": "광주광역시 광산구 평동로 421",
+        "matchedAddress": "광주광역시 광산구 명화동 225-1",
+        "kind": "review-preview",
+        "rightsStatus": "permission-not-confirmed",
+        "caption": "명화식육식당 · 방문자 사진 미리보기",
+        "status": "ok",
+        "checkedAt": "2026-10-22T09:55:52.214Z",
+        "identityVerifiedAt": "2026-10-22T09:57:52.078Z"
+      },
+      "checkedSources": [
+        {
+          "url": "https://www.diningcode.com/profile.php?rid=jYKppLiH5gkN",
+          "status": 200,
+          "name": "명화 식육식당",
+          "address": "광주광역시 광산구 평동로 421",
+          "address2": "광주광역시 광산구 명화동 225-1"
+        }
+      ]
+    },
+    {
+      "id": "pick-regional-4rCiI47fLDtq",
+      "title": "부강옥 세종부강본점",
+      "address": "세종시 부강면 문곡리 1069-1",
+      "photo": {
+        "url": "https://d12zq4w4guyljn.cloudfront.net/750_750_20260406020159_photo1_172b41b9d6a5.webp",
+        "sourceUrl": "https://www.diningcode.com/profile.php?rid=4rCiI47fLDtq",
+        "sourceLabel": "다이닝코드",
+        "sourceName": "부강옥 세종부강본점",
+        "sourceAddress": "세종특별자치시 부강면 부강외천로 103 1층 부강옥",
+        "matchedAddress": "세종시 부강면 문곡리 1069-1",
+        "kind": "review-preview",
+        "rightsStatus": "permission-not-confirmed",
+        "caption": "부강옥 세종부강본점 · 방문자 사진 미리보기",
+        "status": "ok",
+        "checkedAt": "2026-10-22T09:55:52.214Z",
+        "identityVerifiedAt": "2026-10-22T09:57:52.078Z"
+      },
+      "checkedSources": [
+        {
+          "url": "https://www.diningcode.com/profile.php?rid=4rCiI47fLDtq",
+          "status": 200,
+          "name": "부강옥 세종부강본점",
+          "address": "세종특별자치시 부강면 부강외천로 103 1층 부강옥",
+          "address2": "세종시 부강면 문곡리 1069-1"
+        }
+      ]
+    },
+    {
+      "id": "pick-regional-unTQ776AEJyz",
+      "title": "을밀대 본점",
+      "address": "서울특별시 마포구 염리동 147-6",
+      "photo": {
+        "url": "https://polle-image.tabling.co.kr/posts/oyI2Fc_XazA0JcQfjqA-ig.jpg",
+        "sourceUrl": "https://www.tabling.co.kr/place/6762812966de5f0698ee097c",
+        "sourceLabel": "테이블링",
+        "sourceName": "을밀대 본점 - 테이블링",
+        "sourceAddress": "서울 마포구 숭문길 24",
+        "matchedAddress": "서울특별시 마포구 염리동 147-6",
+        "kind": "review-preview",
+        "rightsStatus": "permission-not-confirmed",
+        "caption": "을밀대 본점 · 방문자 사진 미리보기",
+        "status": "ok",
+        "checkedAt": "2026-10-22T09:55:52.214Z",
+        "identityVerifiedAt": "2026-10-22T09:57:52.078Z"
+      },
+      "checkedSources": [
+        {
+          "url": "https://www.diningcode.com/profile.php?rid=unTQ776AEJyz",
+          "status": 200,
+          "name": "을밀대 본점",
+          "address": "서울특별시 마포구 숭문길 24",
+          "address2": "서울특별시 마포구 염리동 147-6"
+        },
+        {
+          "url": "https://www.tabling.co.kr/place/6762812966de5f0698ee097c",
+          "status": 200,
+          "name": "을밀대 본점 - 테이블링",
+          "address": "서울 마포구 숭문길 24"
+        }
+      ]
+    },
+    {
+      "id": "pick-regional-LLxOoK0VOe2k",
+      "title": "정인면옥 여의도본점",
+      "address": "서울특별시 영등포구 여의도동 13-1",
+      "photo": {
+        "url": "https://d12zq4w4guyljn.cloudfront.net/750_750_20261015053111_photo1_cf29d72e9886.webp",
+        "sourceUrl": "https://www.diningcode.com/profile.php?rid=LLxOoK0VOe2k",
+        "sourceLabel": "다이닝코드",
+        "sourceName": "정인면옥",
+        "sourceAddress": "서울특별시 영등포구 국회대로76길 10 기독교침례회총회빌딩 1층",
+        "matchedAddress": "서울특별시 영등포구 여의도동 13-1",
+        "kind": "review-preview",
+        "rightsStatus": "permission-not-confirmed",
+        "caption": "정인면옥 여의도본점 · 방문자 사진 미리보기",
+        "status": "ok",
+        "checkedAt": "2026-10-22T09:55:52.214Z",
+        "identityVerifiedAt": "2026-10-22T09:57:52.078Z"
+      },
+      "checkedSources": [
+        {
+          "url": "https://www.diningcode.com/profile.php?rid=LLxOoK0VOe2k",
+          "status": 200,
+          "name": "정인면옥",
+          "address": "서울특별시 영등포구 국회대로76길 10 기독교침례회총회빌딩 1층",
+          "address2": "서울특별시 영등포구 여의도동 13-1"
+        },
+        {
+          "url": "https://polle.com/place/1ByA6U/정인면옥",
+          "status": 200,
+          "name": "[정인면옥 본점] 여의도 평양냉면 | 뽈레 Polle",
+          "address": "서울 영등포구 국회대로76길 10"
+        }
+      ]
+    },
+    {
+      "id": "pick-regional-1tyMubx2B6La",
+      "title": "진미식당 황등",
+      "address": "전라북도 익산시 황등면 황등리 902-11",
+      "photo": {
+        "url": "https://d12zq4w4guyljn.cloudfront.net/750_750_20261008020213_photo1_6883ec65ce26.webp",
+        "sourceUrl": "https://www.diningcode.com/profile.php?rid=1tyMubx2B6La",
+        "sourceLabel": "다이닝코드",
+        "sourceName": "진미식당",
+        "sourceAddress": "전라북도 익산시 황등면 황등로 158",
+        "matchedAddress": "전라북도 익산시 황등면 황등리 902-11",
+        "kind": "review-preview",
+        "rightsStatus": "permission-not-confirmed",
+        "caption": "진미식당 황등 · 방문자 사진 미리보기",
+        "status": "ok",
+        "checkedAt": "2026-10-22T09:55:52.214Z",
+        "identityVerifiedAt": "2026-10-22T09:57:52.078Z"
+      },
+      "checkedSources": [
+        {
+          "url": "https://www.diningcode.com/profile.php?rid=1tyMubx2B6La",
+          "status": 200,
+          "name": "진미식당",
+          "address": "전라북도 익산시 황등면 황등로 158",
+          "address2": "전라북도 익산시 황등면 황등리 902-11"
+        }
+      ]
+    },
+    {
+      "id": "pick-regional-yJWYroWneBZz",
+      "title": "농민백암순대 본점",
+      "address": "서울특별시 강남구 대치동 896-33",
+      "photo": {
+        "url": "https://d12zq4w4guyljn.cloudfront.net/750_750_20261017031052466_photo_0caf5de8a3e4.webp",
+        "sourceUrl": "https://www.diningcode.com/profile.php?rid=yJWYroWneBZz",
+        "sourceLabel": "다이닝코드",
+        "sourceName": "농민백암순대 본점",
+        "sourceAddress": "서울특별시 강남구 선릉로86길 40-4",
+        "matchedAddress": "서울특별시 강남구 대치동 896-33",
+        "kind": "review-preview",
+        "rightsStatus": "permission-not-confirmed",
+        "caption": "농민백암순대 본점 · 방문자 사진 미리보기",
+        "status": "ok",
+        "checkedAt": "2026-10-22T09:55:52.214Z",
+        "identityVerifiedAt": "2026-10-22T09:57:52.078Z"
+      },
+      "checkedSources": [
+        {
+          "url": "https://www.diningcode.com/profile.php?rid=yJWYroWneBZz",
+          "status": 200,
+          "name": "농민백암순대 본점",
+          "address": "서울특별시 강남구 선릉로86길 40-4",
+          "address2": "서울특별시 강남구 대치동 896-33"
+        },
+        {
+          "url": "https://www.tabling.co.kr/place/6762812966de5f0698ee094d",
+          "status": 200,
+          "name": "농민백암순대 본점 - 테이블링",
+          "address": "서울 강남구 선릉로86길 40-4"
+        }
+      ]
+    },
+    {
+      "id": "pick-regional-oYILMagpuxpN",
+      "title": "나진국밥",
+      "address": "전라남도 여수시 화양면 화양로 1391 1층",
+      "photo": {
+        "url": "https://d12zq4w4guyljn.cloudfront.net/750_750_20260302103019_photo1_ffa907c32be3.webp",
+        "sourceUrl": "https://www.diningcode.com/profile.php?rid=oYILMagpuxpN",
+        "sourceLabel": "다이닝코드",
+        "sourceName": "나진국밥",
+        "sourceAddress": "전라남도 여수시 화양면 화양로 1391 나진국밥",
+        "matchedAddress": "전라남도 여수시 화양면 화양로 1391 1층",
+        "kind": "review-preview",
+        "rightsStatus": "permission-not-confirmed",
+        "caption": "나진국밥 · 방문자 사진 미리보기",
+        "status": "ok",
+        "checkedAt": "2026-10-22T09:56:50.106Z",
+        "identityVerifiedAt": "2026-10-22T09:57:52.078Z"
+      },
+      "checkedSources": [
+        {
+          "url": "https://www.diningcode.com/profile.php?rid=oYILMagpuxpN",
+          "status": 200,
+          "name": "나진국밥",
+          "address": "전라남도 여수시 화양면 화양로 1391 나진국밥",
+          "address2": "전라남도 여수시 화양면 나진리 430-4"
+        },
+        {
+          "url": "https://www.tabling.co.kr/restaurant/4752",
+          "status": 200,
+          "name": "나진국밥 - 테이블링",
+          "address": "전남광주통합특별시 여수시 화양면 화양로 1391 1층"
+        }
+      ]
+    },
+    {
+      "id": "pick-regional-bU86YrsRCMcb",
+      "title": "진주집 여의도",
+      "address": "서울특별시 영등포구 여의도동 36-2",
+      "photo": {
+        "url": "https://d12zq4w4guyljn.cloudfront.net/750_750_20260908084908844_photo_83f109372972.webp",
+        "sourceUrl": "https://www.diningcode.com/profile.php?rid=bU86YrsRCMcb",
+        "sourceLabel": "다이닝코드",
+        "sourceName": "진주집",
+        "sourceAddress": "서울특별시 영등포구 국제금융로6길 33 지하 1층",
+        "matchedAddress": "서울특별시 영등포구 여의도동 36-2",
+        "kind": "review-preview",
+        "rightsStatus": "permission-not-confirmed",
+        "caption": "진주집 여의도 · 방문자 사진 미리보기",
+        "status": "ok",
+        "checkedAt": "2026-10-22T09:55:52.214Z",
+        "identityVerifiedAt": "2026-10-22T09:57:52.078Z"
+      },
+      "checkedSources": [
+        {
+          "url": "https://www.diningcode.com/profile.php?rid=bU86YrsRCMcb",
+          "status": 200,
+          "name": "진주집",
+          "address": "서울특별시 영등포구 국제금융로6길 33 지하 1층",
+          "address2": "서울특별시 영등포구 여의도동 36-2"
+        },
+        {
+          "url": "https://polle.com/place/32VERr/진주집",
+          "status": 200,
+          "name": "[진주집] 여의도 콩국수 | 뽈레 Polle",
+          "address": "서울 영등포구 국제금융로6길 33"
+        }
+      ]
+    },
+    {
+      "id": "pick-regional-DDEqbX1zfbX8",
+      "title": "중앙탑막국수",
+      "address": "충북 충주시 중앙탑면 탑평리 41",
+      "photo": {
+        "url": "https://d12zq4w4guyljn.cloudfront.net/750_750_20261022011314_photo1_c8663e76bbd5.webp",
+        "sourceUrl": "https://www.diningcode.com/profile.php?rid=DDEqbX1zfbX8",
+        "sourceLabel": "다이닝코드",
+        "sourceName": "중앙탑막국수",
+        "sourceAddress": "충청북도 충주시 중앙탑면 중앙탑길 109",
+        "matchedAddress": "충북 충주시 중앙탑면 탑평리 41",
+        "kind": "review-preview",
+        "rightsStatus": "permission-not-confirmed",
+        "caption": "중앙탑막국수 · 방문자 사진 미리보기",
+        "status": "ok",
+        "checkedAt": "2026-10-22T09:55:52.214Z",
+        "identityVerifiedAt": "2026-10-22T09:57:52.078Z"
+      },
+      "checkedSources": [
+        {
+          "url": "https://www.diningcode.com/profile.php?rid=DDEqbX1zfbX8",
+          "status": 200,
+          "name": "중앙탑막국수",
+          "address": "충청북도 충주시 중앙탑면 중앙탑길 109",
+          "address2": "충북 충주시 중앙탑면 탑평리 41"
+        }
+      ]
+    },
+    {
+      "id": "pick-regional-Cr9J91gdeE25",
+      "title": "장터식당 목포본점",
+      "address": "전라남도 목포시 중동1가 1-17 장터식당",
+      "photo": {
+        "url": "https://d12zq4w4guyljn.cloudfront.net/750_750_20260823012625584_photo_471c8a7e8560.webp",
+        "sourceUrl": "https://www.diningcode.com/profile.php?rid=Cr9J91gdeE25",
+        "sourceLabel": "다이닝코드",
+        "sourceName": "장터식당",
+        "sourceAddress": "전라남도 목포시 영산로40번길 23 장터식당",
+        "matchedAddress": "전라남도 목포시 중동1가 1-17 장터식당",
+        "kind": "review-preview",
+        "rightsStatus": "permission-not-confirmed",
+        "caption": "장터식당 목포본점 · 방문자 사진 미리보기",
+        "status": "ok",
+        "checkedAt": "2026-10-22T09:55:52.214Z",
+        "identityVerifiedAt": "2026-10-22T09:57:52.078Z"
+      },
+      "checkedSources": [
+        {
+          "url": "https://www.diningcode.com/profile.php?rid=Cr9J91gdeE25",
+          "status": 200,
+          "name": "장터식당",
+          "address": "전라남도 목포시 영산로40번길 23 장터식당",
+          "address2": "전라남도 목포시 중동1가 1-17 장터식당"
+        },
+        {
+          "url": "https://www.tabling.co.kr/place/677ccaf166de5f06987c4cd3",
+          "status": 200,
+          "name": "장터 - 테이블링",
+          "address": "전남광주 목포시 영산로40번길 23"
+        }
+      ]
+    },
+    {
+      "id": "pick-regional-BLfolWMZ4ChX",
+      "title": "평남식당 포항",
+      "address": "경상북도 포항시 북구 죽도동 2-358",
+      "photo": {
+        "url": "https://d12zq4w4guyljn.cloudfront.net/750_750_20260922015637_photo1_3c6f73eb140a.webp",
+        "sourceUrl": "https://www.diningcode.com/profile.php?rid=BLfolWMZ4ChX",
+        "sourceLabel": "다이닝코드",
+        "sourceName": "평남식당",
+        "sourceAddress": "경상북도 포항시 북구 죽도시장3길 9-16",
+        "matchedAddress": "경상북도 포항시 북구 죽도동 2-358",
+        "kind": "review-preview",
+        "rightsStatus": "permission-not-confirmed",
+        "caption": "평남식당 포항 · 방문자 사진 미리보기",
+        "status": "ok",
+        "checkedAt": "2026-10-22T09:55:52.214Z",
+        "identityVerifiedAt": "2026-10-22T09:57:52.078Z"
+      },
+      "checkedSources": [
+        {
+          "url": "https://www.diningcode.com/profile.php?rid=BLfolWMZ4ChX",
+          "status": 200,
+          "name": "평남식당",
+          "address": "경상북도 포항시 북구 죽도시장3길 9-16",
+          "address2": "경상북도 포항시 북구 죽도동 2-358"
+        },
+        {
+          "url": "https://polle.com/place/1aH78g/평남식당",
+          "status": 200,
+          "name": "[평남식당] 죽도동 곰탕 | 뽈레 Polle",
+          "address": "경북 포항시 북구 죽도시장3길 9-16"
+        }
+      ]
+    },
+    {
+      "id": "pick-regional-b0NqU4AdQrA1",
+      "title": "하연옥 진주본점",
+      "address": "경상남도 진주시 이현동 1191",
+      "photo": {
+        "url": "https://d2uja84sd90jmv.cloudfront.net/posts/osoVyjO0Ik6uKgX9QFh1yg/ms.jpg?updated=-62167392000",
+        "sourceUrl": "https://polle.com/place/35jEo9/하연옥",
+        "sourceLabel": "뽈레",
+        "sourceName": "[하연옥 본점] 이현동 한식 | 뽈레 Polle",
+        "sourceAddress": "경남 진주시 진주대로 1317-20",
+        "matchedAddress": "경상남도 진주시 이현동 1191",
+        "kind": "review-preview",
+        "rightsStatus": "permission-not-confirmed",
+        "caption": "하연옥 진주본점 · 방문자 사진 미리보기",
+        "status": "ok",
+        "checkedAt": "2026-10-22T09:55:52.214Z",
+        "identityVerifiedAt": "2026-10-22T09:57:52.078Z"
+      },
+      "checkedSources": [
+        {
+          "url": "https://www.diningcode.com/profile.php?rid=b0NqU4AdQrA1",
+          "status": 200,
+          "name": "하연옥 본점",
+          "address": "경상남도 진주시 진주대로 1317-20",
+          "address2": "경상남도 진주시 이현동 1191"
+        },
+        {
+          "url": "https://polle.com/place/35jEo9/하연옥",
+          "status": 200,
+          "name": "[하연옥 본점] 이현동 한식 | 뽈레 Polle",
+          "address": "경남 진주시 진주대로 1317-20"
+        }
+      ]
+    },
+    {
+      "id": "pick-regional-o34riMfbdkjR",
+      "title": "태화장 대전 정동",
+      "address": "대전 동구 정동 36-32",
+      "photo": {
+        "url": "https://d12zq4w4guyljn.cloudfront.net/750_750_20260920045843_photo1_719fdd8cf372.webp",
+        "sourceUrl": "https://www.diningcode.com/profile.php?rid=o34riMfbdkjR",
+        "sourceLabel": "다이닝코드",
+        "sourceName": "태화장",
+        "sourceAddress": "대전광역시 동구 중앙로203번길 78 태화장",
+        "matchedAddress": "대전 동구 정동 36-32",
+        "kind": "review-preview",
+        "rightsStatus": "permission-not-confirmed",
+        "caption": "태화장 대전 정동 · 방문자 사진 미리보기",
+        "status": "ok",
+        "checkedAt": "2026-10-22T09:55:52.214Z",
+        "identityVerifiedAt": "2026-10-22T09:57:52.078Z"
+      },
+      "checkedSources": [
+        {
+          "url": "https://www.diningcode.com/profile.php?rid=o34riMfbdkjR",
+          "status": 200,
+          "name": "태화장",
+          "address": "대전광역시 동구 중앙로203번길 78 태화장",
+          "address2": "대전 동구 정동 36-32"
+        }
+      ]
+    },
+    {
+      "id": "pick-regional-dYlu9F6xG5MY",
+      "title": "재기돼지국밥 영도",
+      "address": "부산광역시 영도구 남항동1가 171-10",
+      "photo": {
+        "url": "https://d12zq4w4guyljn.cloudfront.net/750_750_20260930104752417_photo_a1f8ba23b5d8.webp",
+        "sourceUrl": "https://www.diningcode.com/profile.php?rid=dYlu9F6xG5MY",
+        "sourceLabel": "다이닝코드",
+        "sourceName": "재기돼지국밥",
+        "sourceAddress": "부산광역시 영도구 절영로49번길 25",
+        "matchedAddress": "부산광역시 영도구 남항동1가 171-10",
+        "kind": "review-preview",
+        "rightsStatus": "permission-not-confirmed",
+        "caption": "재기돼지국밥 영도 · 방문자 사진 미리보기",
+        "status": "ok",
+        "checkedAt": "2026-10-22T09:55:52.214Z",
+        "identityVerifiedAt": "2026-10-22T09:57:52.078Z"
+      },
+      "checkedSources": [
+        {
+          "url": "https://www.diningcode.com/profile.php?rid=dYlu9F6xG5MY",
+          "status": 200,
+          "name": "재기돼지국밥",
+          "address": "부산광역시 영도구 절영로49번길 25",
+          "address2": "부산광역시 영도구 남항동1가 171-10"
+        }
+      ]
+    },
+    {
+      "id": "pick-regional-psNfm8UHtXLL",
+      "title": "이화찹쌀순대 도원",
+      "address": "인천광역시 중구 도원동 67-3",
+      "photo": {
+        "url": "https://d12zq4w4guyljn.cloudfront.net/750_750_20260703031008833_photo_952e7db5dc89.webp",
+        "sourceUrl": "https://www.diningcode.com/profile.php?rid=psNfm8UHtXLL",
+        "sourceLabel": "다이닝코드",
+        "sourceName": "이화찹쌀순대",
+        "sourceAddress": "인천광역시 중구 인중로26번길 25 인중로26번길25",
+        "matchedAddress": "인천광역시 중구 도원동 67-3",
+        "kind": "review-preview",
+        "rightsStatus": "permission-not-confirmed",
+        "caption": "이화찹쌀순대 도원 · 방문자 사진 미리보기",
+        "status": "ok",
+        "checkedAt": "2026-10-22T09:55:52.214Z",
+        "identityVerifiedAt": "2026-10-22T09:57:52.078Z"
+      },
+      "checkedSources": [
+        {
+          "url": "https://www.diningcode.com/profile.php?rid=psNfm8UHtXLL",
+          "status": 200,
+          "name": "이화찹쌀순대",
+          "address": "인천광역시 중구 인중로26번길 25 인중로26번길25",
+          "address2": "인천광역시 중구 도원동 67-3"
+        }
+      ]
+    },
+    {
+      "id": "pick-regional-HXq15tUyTGxP",
+      "title": "한일옥 군산",
+      "address": "전라북도 군산시 신창동 2-1",
+      "photo": {
+        "url": "https://d12zq4w4guyljn.cloudfront.net/750_750_20260924073802773_photo_fc9c2021d80d.webp",
+        "sourceUrl": "https://www.diningcode.com/profile.php?rid=HXq15tUyTGxP",
+        "sourceLabel": "다이닝코드",
+        "sourceName": "한일옥",
+        "sourceAddress": "전라북도 군산시 구영3길 63",
+        "matchedAddress": "전라북도 군산시 신창동 2-1",
+        "kind": "review-preview",
+        "rightsStatus": "permission-not-confirmed",
+        "caption": "한일옥 군산 · 방문자 사진 미리보기",
+        "status": "ok",
+        "checkedAt": "2026-10-22T09:55:52.214Z",
+        "identityVerifiedAt": "2026-10-22T09:57:52.078Z"
+      },
+      "checkedSources": [
+        {
+          "url": "https://www.diningcode.com/profile.php?rid=HXq15tUyTGxP",
+          "status": 200,
+          "name": "한일옥",
+          "address": "전라북도 군산시 구영3길 63",
+          "address2": "전라북도 군산시 신창동 2-1"
+        }
+      ]
+    },
+    {
+      "id": "pick-regional-sNnu1tR0V7rJ",
+      "title": "장원막국수 홍천본점",
+      "address": "강원도 홍천군 홍천읍 상오안리 214",
+      "photo": {
+        "url": "https://d12zq4w4guyljn.cloudfront.net/750_750_20260401082326790_photo_4fceeae73135.webp",
+        "sourceUrl": "https://www.diningcode.com/profile.php?rid=sNnu1tR0V7rJ",
+        "sourceLabel": "다이닝코드",
+        "sourceName": "장원막국수 본점",
+        "sourceAddress": "강원도 홍천군 홍천읍 상오안길 62",
+        "matchedAddress": "강원도 홍천군 홍천읍 상오안리 214",
+        "kind": "review-preview",
+        "rightsStatus": "permission-not-confirmed",
+        "caption": "장원막국수 홍천본점 · 방문자 사진 미리보기",
+        "status": "ok",
+        "checkedAt": "2026-10-22T09:55:52.214Z",
+        "identityVerifiedAt": "2026-10-22T09:57:52.078Z"
+      },
+      "checkedSources": [
+        {
+          "url": "https://www.diningcode.com/profile.php?rid=sNnu1tR0V7rJ",
+          "status": 200,
+          "name": "장원막국수 본점",
+          "address": "강원도 홍천군 홍천읍 상오안길 62",
+          "address2": "강원도 홍천군 홍천읍 상오안리 214"
+        }
+      ]
+    },
+    {
+      "id": "pick-regional-ngyDX65jbi1M",
+      "title": "각지불",
+      "address": "제주특별자치도 제주시 조천읍 교래리 217",
+      "photo": {
+        "url": "https://d12zq4w4guyljn.cloudfront.net/750_750_20260929111104536_photo_52d0e2fe1873.webp",
+        "sourceUrl": "https://www.diningcode.com/profile.php?rid=ngyDX65jbi1M",
+        "sourceLabel": "다이닝코드",
+        "sourceName": "각지불",
+        "sourceAddress": "제주특별자치도 제주시 조천읍 남조로 1751",
+        "matchedAddress": "제주특별자치도 제주시 조천읍 교래리 217",
+        "kind": "review-preview",
+        "rightsStatus": "permission-not-confirmed",
+        "caption": "각지불 · 방문자 사진 미리보기",
+        "status": "ok",
+        "checkedAt": "2026-10-22T09:55:52.214Z",
+        "identityVerifiedAt": "2026-10-22T09:57:52.078Z"
+      },
+      "checkedSources": [
+        {
+          "url": "https://www.diningcode.com/profile.php?rid=ngyDX65jbi1M",
+          "status": 200,
+          "name": "각지불",
+          "address": "제주특별자치도 제주시 조천읍 남조로 1751",
+          "address2": "제주특별자치도 제주시 조천읍 교래리 217"
+        }
+      ]
+    },
+    {
+      "id": "pick-regional-5BoySkjSqB9K",
+      "title": "청화집 병천",
+      "address": "충청남도 천안시 동남구 병천면 병천리 167-6",
+      "photo": {
+        "url": "https://d12zq4w4guyljn.cloudfront.net/750_750_20260125072143_photo1_719f75d5d6ae.webp",
+        "sourceUrl": "https://www.diningcode.com/profile.php?rid=5BoySkjSqB9K",
+        "sourceLabel": "다이닝코드",
+        "sourceName": "청화집",
+        "sourceAddress": "충청남도 천안시 동남구 병천면 충절로 1749",
+        "matchedAddress": "충청남도 천안시 동남구 병천면 병천리 167-6",
+        "kind": "review-preview",
+        "rightsStatus": "permission-not-confirmed",
+        "caption": "청화집 병천 · 방문자 사진 미리보기",
+        "status": "ok",
+        "checkedAt": "2026-10-22T09:55:52.214Z",
+        "identityVerifiedAt": "2026-10-22T09:57:52.078Z"
+      },
+      "checkedSources": [
+        {
+          "url": "https://www.diningcode.com/profile.php?rid=5BoySkjSqB9K",
+          "status": 200,
+          "name": "청화집",
+          "address": "충청남도 천안시 동남구 병천면 충절로 1749",
+          "address2": "충청남도 천안시 동남구 병천면 병천리 167-6"
+        }
+      ]
+    },
+    {
+      "id": "pick-regional-rgsTWoDK2FRO",
+      "title": "동원집 충무로",
+      "address": "서울특별시 중구 초동 158-14",
+      "photo": {
+        "url": "https://d12zq4w4guyljn.cloudfront.net/750_750_20260902091625_photo1_2e6b526c2058.webp?v=1",
+        "sourceUrl": "https://www.diningcode.com/profile.php?rid=rgsTWoDK2FRO",
+        "sourceLabel": "다이닝코드",
+        "sourceName": "동원집",
+        "sourceAddress": "서울특별시 중구 퇴계로27길 48 1층 동원집",
+        "matchedAddress": "서울특별시 중구 초동 158-14",
+        "kind": "review-preview",
+        "rightsStatus": "permission-not-confirmed",
+        "caption": "동원집 충무로 · 방문자 사진 미리보기",
+        "status": "ok",
+        "checkedAt": "2026-10-22T09:55:52.214Z",
+        "identityVerifiedAt": "2026-10-22T09:57:52.078Z"
+      },
+      "checkedSources": [
+        {
+          "url": "https://www.diningcode.com/profile.php?rid=rgsTWoDK2FRO",
+          "status": 200,
+          "name": "동원집",
+          "address": "서울특별시 중구 퇴계로27길 48 1층 동원집",
+          "address2": "서울특별시 중구 초동 158-14"
+        }
+      ]
+    },
+    {
+      "id": "pick-menu-YxF37sEnd6vh",
+      "title": "왕거미식당",
+      "address": "대구시 중구 동인동4가 179",
+      "photo": {
+        "url": "https://d12zq4w4guyljn.cloudfront.net/750_750_20260601102644_photo1_d3a7e775fc01.webp",
+        "sourceUrl": "https://www.diningcode.com/profile.php?rid=YxF37sEnd6vh",
+        "sourceLabel": "다이닝코드",
+        "sourceName": "왕거미식당",
+        "sourceAddress": "대구광역시 중구 국채보상로 696-8",
+        "matchedAddress": "대구시 중구 동인동4가 179",
+        "kind": "review-preview",
+        "rightsStatus": "permission-not-confirmed",
+        "caption": "왕거미식당 · 방문자 사진 미리보기",
+        "status": "ok",
+        "checkedAt": "2026-10-22T09:55:52.214Z",
+        "identityVerifiedAt": "2026-10-22T09:57:52.078Z"
+      },
+      "checkedSources": [
+        {
+          "url": "https://www.diningcode.com/profile.php?rid=YxF37sEnd6vh",
+          "status": 200,
+          "name": "왕거미식당",
+          "address": "대구광역시 중구 국채보상로 696-8",
+          "address2": "대구시 중구 동인동4가 179"
+        }
+      ]
+    },
+    {
+      "id": "pick-regional-Ak8MrOwtTveG",
+      "title": "합천일류돼지국밥 부산사상",
+      "address": "부산광역시 사상구 괘법동 565-6",
+      "photo": {
+        "url": "https://d12zq4w4guyljn.cloudfront.net/300_300_20261009040048720_photo_5cf5d75db9a7.webp",
+        "sourceUrl": "https://www.diningcode.com/profile.php?rid=Ak8MrOwtTveG",
+        "sourceLabel": "다이닝코드",
+        "sourceName": "합천일류돼지국밥",
+        "sourceAddress": "부산광역시 사상구 광장로 34 윌로펌프",
+        "matchedAddress": "부산광역시 사상구 괘법동 565-6",
+        "kind": "review-preview",
+        "rightsStatus": "permission-not-confirmed",
+        "caption": "합천일류돼지국밥 부산사상 · 방문자 사진 미리보기",
+        "status": "ok",
+        "checkedAt": "2026-10-22T09:55:52.214Z",
+        "identityVerifiedAt": "2026-10-22T09:57:52.078Z"
+      },
+      "checkedSources": [
+        {
+          "url": "https://www.diningcode.com/profile.php?rid=Ak8MrOwtTveG",
+          "status": 200,
+          "name": "합천일류돼지국밥",
+          "address": "부산광역시 사상구 광장로 34 윌로펌프",
+          "address2": "부산광역시 사상구 괘법동 565-6"
+        }
+      ]
+    },
+    {
+      "id": "pick-regional-empyTto0IKjD",
+      "title": "동래밀면 본점",
+      "address": "부산광역시 동래구 수안동 9-33",
+      "photo": {
+        "url": "https://d12zq4w4guyljn.cloudfront.net/750_750_20260927084415117_photo_f76b422cd508.webp",
+        "sourceUrl": "https://www.diningcode.com/profile.php?rid=empyTto0IKjD",
+        "sourceLabel": "다이닝코드",
+        "sourceName": "동래밀면",
+        "sourceAddress": "부산광역시 동래구 명륜로 47",
+        "matchedAddress": "부산광역시 동래구 수안동 9-33",
+        "kind": "review-preview",
+        "rightsStatus": "permission-not-confirmed",
+        "caption": "동래밀면 본점 · 방문자 사진 미리보기",
+        "status": "ok",
+        "checkedAt": "2026-10-22T09:55:52.214Z",
+        "identityVerifiedAt": "2026-10-22T09:57:52.078Z"
+      },
+      "checkedSources": [
+        {
+          "url": "https://www.diningcode.com/profile.php?rid=empyTto0IKjD",
+          "status": 200,
+          "name": "동래밀면",
+          "address": "부산광역시 동래구 명륜로 47",
+          "address2": "부산광역시 동래구 수안동 9-33"
+        },
+        {
+          "url": "https://polle.com/place/22iNjF/동래밀면",
+          "status": 200,
+          "name": "[동래밀면 본점] 수안동 밀면 | 뽈레 Polle",
+          "address": "부산 동래구 명륜로 47"
+        }
+      ]
+    },
+    {
+      "id": "pick-regional-oErf53RwTU7n",
+      "title": "벌집칼국수 강릉",
+      "address": "강원도 강릉시 임당동 60-2",
+      "photo": {
+        "url": "https://d12zq4w4guyljn.cloudfront.net/750_750_20260905034651498_photo_cce92adee2ad.webp",
+        "sourceUrl": "https://www.diningcode.com/profile.php?rid=oErf53RwTU7n",
+        "sourceLabel": "다이닝코드",
+        "sourceName": "벌집칼국수",
+        "sourceAddress": "강원도 강릉시 경강로2069번길 15",
+        "matchedAddress": "강원도 강릉시 임당동 60-2",
+        "kind": "review-preview",
+        "rightsStatus": "permission-not-confirmed",
+        "caption": "벌집칼국수 강릉 · 방문자 사진 미리보기",
+        "status": "ok",
+        "checkedAt": "2026-10-22T09:55:52.214Z",
+        "identityVerifiedAt": "2026-10-22T09:57:52.078Z"
+      },
+      "checkedSources": [
+        {
+          "url": "https://www.diningcode.com/profile.php?rid=oErf53RwTU7n",
+          "status": 200,
+          "name": "벌집칼국수",
+          "address": "강원도 강릉시 경강로2069번길 15",
+          "address2": "강원도 강릉시 임당동 60-2"
+        },
+        {
+          "url": "https://polle.com/place/1Nesfx/벌집",
+          "status": 200,
+          "name": "[벌집] 임당동 칼국수 | 뽈레 Polle",
+          "address": "강원 강릉시 경강로2069번길 15"
+        }
+      ]
+    },
+    {
+      "id": "pick-menu-tEGl1U1eJ3zh",
+      "title": "대원식당",
+      "address": "전라남도 순천시 장천동 35-11",
+      "photo": {
+        "url": "https://d12zq4w4guyljn.cloudfront.net/750_750_20241104051118_photo1_1ab0c5d6e7de.webp",
+        "sourceUrl": "https://www.diningcode.com/profile.php?rid=tEGl1U1eJ3zh",
+        "sourceLabel": "다이닝코드",
+        "sourceName": "대원식당",
+        "sourceAddress": "전라남도 순천시 장천2길 30-29 대원식당",
+        "matchedAddress": "전라남도 순천시 장천동 35-11",
+        "kind": "review-preview",
+        "rightsStatus": "permission-not-confirmed",
+        "caption": "대원식당 · 방문자 사진 미리보기",
+        "status": "ok",
+        "checkedAt": "2026-10-22T09:55:52.214Z",
+        "identityVerifiedAt": "2026-10-22T09:57:52.078Z"
+      },
+      "checkedSources": [
+        {
+          "url": "https://www.diningcode.com/profile.php?rid=tEGl1U1eJ3zh",
+          "status": 200,
+          "name": "대원식당",
+          "address": "전라남도 순천시 장천2길 30-29 대원식당",
+          "address2": "전라남도 순천시 장천동 35-11"
+        }
+      ]
+    },
+    {
+      "id": "pick-menu-UcsoelCV2tid",
+      "title": "대정양곱창 본관",
+      "address": "부산광역시 중구 부평동2가 26-1",
+      "photo": {
+        "url": "https://d12zq4w4guyljn.cloudfront.net/750_750_20260804080857487_photo_2ce4086c90a6.webp",
+        "sourceUrl": "https://www.diningcode.com/profile.php?rid=UcsoelCV2tid",
+        "sourceLabel": "다이닝코드",
+        "sourceName": "대정양곱창",
+        "sourceAddress": "부산광역시 중구 중구로23번길 31",
+        "matchedAddress": "부산광역시 중구 부평동2가 26-1",
+        "kind": "review-preview",
+        "rightsStatus": "permission-not-confirmed",
+        "caption": "대정양곱창 본관 · 방문자 사진 미리보기",
+        "status": "ok",
+        "checkedAt": "2026-10-22T09:55:52.214Z",
+        "identityVerifiedAt": "2026-10-22T09:57:52.078Z"
+      },
+      "checkedSources": [
+        {
+          "url": "https://www.diningcode.com/profile.php?rid=UcsoelCV2tid",
+          "status": 200,
+          "name": "대정양곱창",
+          "address": "부산광역시 중구 중구로23번길 31",
+          "address2": "부산광역시 중구 부평동2가 26-1"
+        }
+      ]
+    },
+    {
+      "id": "pick-menu-ZbFh5TIUOTJJ",
+      "title": "부일갈매기",
+      "address": "서울특별시 송파구 잠실동 242-22",
+      "photo": {
+        "url": "https://d12zq4w4guyljn.cloudfront.net/750_750_20260606100006_photo1_favHrqinbple.webp",
+        "sourceUrl": "https://www.diningcode.com/profile.php?rid=ZbFh5TIUOTJJ",
+        "sourceLabel": "다이닝코드",
+        "sourceName": "부일갈매기",
+        "sourceAddress": "서울특별시 송파구 삼전로13길 4",
+        "matchedAddress": "서울특별시 송파구 잠실동 242-22",
+        "kind": "review-preview",
+        "rightsStatus": "permission-not-confirmed",
+        "caption": "부일갈매기 · 방문자 사진 미리보기",
+        "status": "ok",
+        "checkedAt": "2026-10-22T09:55:52.214Z",
+        "identityVerifiedAt": "2026-10-22T09:57:52.078Z"
+      },
+      "checkedSources": [
+        {
+          "url": "https://www.diningcode.com/profile.php?rid=ZbFh5TIUOTJJ",
+          "status": 200,
+          "name": "부일갈매기",
+          "address": "서울특별시 송파구 삼전로13길 4",
+          "address2": "서울특별시 송파구 잠실동 242-22"
+        }
+      ]
+    },
+    {
+      "id": "pick-menu-VT9sxn0135MR",
+      "title": "진미평양냉면",
+      "address": "서울특별시 강남구 논현동 115-10",
+      "photo": {
+        "url": "https://d12zq4w4guyljn.cloudfront.net/750_750_20261013054847643_photo_a0fababd222c.webp",
+        "sourceUrl": "https://www.diningcode.com/profile.php?rid=VT9sxn0135MR",
+        "sourceLabel": "다이닝코드",
+        "sourceName": "진미평양냉면",
+        "sourceAddress": "서울특별시 강남구 학동로 305-3",
+        "matchedAddress": "서울특별시 강남구 논현동 115-10",
+        "kind": "review-preview",
+        "rightsStatus": "permission-not-confirmed",
+        "caption": "진미평양냉면 · 방문자 사진 미리보기",
+        "status": "ok",
+        "checkedAt": "2026-10-22T09:55:52.214Z",
+        "identityVerifiedAt": "2026-10-22T09:57:52.078Z"
+      },
+      "checkedSources": [
+        {
+          "url": "https://www.diningcode.com/profile.php?rid=VT9sxn0135MR",
+          "status": 200,
+          "name": "진미평양냉면",
+          "address": "서울특별시 강남구 학동로 305-3",
+          "address2": "서울특별시 강남구 논현동 115-10"
+        }
+      ]
+    },
+    {
+      "id": "pick-menu-Zgiia39H9B8u",
+      "title": "진미막국수",
+      "address": "강원도 속초시 청호동 1346-8",
+      "photo": {
+        "url": "https://d12zq4w4guyljn.cloudfront.net/750_750_20260130110139987_photo_8c6f2f68fd92.webp",
+        "sourceUrl": "https://www.diningcode.com/profile.php?rid=Zgiia39H9B8u",
+        "sourceLabel": "다이닝코드",
+        "sourceName": "진미막국수",
+        "sourceAddress": "강원도 속초시 설악금강대교로 46-1",
+        "matchedAddress": "강원도 속초시 청호동 1346-8",
+        "kind": "review-preview",
+        "rightsStatus": "permission-not-confirmed",
+        "caption": "진미막국수 · 방문자 사진 미리보기",
+        "status": "ok",
+        "checkedAt": "2026-10-22T09:55:52.215Z",
+        "identityVerifiedAt": "2026-10-22T09:57:52.078Z"
+      },
+      "checkedSources": [
+        {
+          "url": "https://www.diningcode.com/profile.php?rid=Zgiia39H9B8u",
+          "status": 200,
+          "name": "진미막국수",
+          "address": "강원도 속초시 설악금강대교로 46-1",
+          "address2": "강원도 속초시 청호동 1346-8"
+        }
+      ]
+    },
+    {
+      "id": "pick-menu-5bjI2dvflu5V",
+      "title": "진미집 전주본점",
+      "address": "전라북도 전주시 완산구 서노송동 655-24",
+      "photo": {
+        "url": "https://d12zq4w4guyljn.cloudfront.net/750_750_20260721103205737_photo_890993d367f4.webp",
+        "sourceUrl": "https://www.diningcode.com/profile.php?rid=5bjI2dvflu5V",
+        "sourceLabel": "다이닝코드",
+        "sourceName": "진미집",
+        "sourceAddress": "전라북도 전주시 완산구 노송여울2길 106",
+        "matchedAddress": "전라북도 전주시 완산구 서노송동 655-24",
+        "kind": "review-preview",
+        "rightsStatus": "permission-not-confirmed",
+        "caption": "진미집 전주본점 · 방문자 사진 미리보기",
+        "status": "ok",
+        "checkedAt": "2026-10-22T09:55:52.215Z",
+        "identityVerifiedAt": "2026-10-22T09:57:52.078Z"
+      },
+      "checkedSources": [
+        {
+          "url": "https://www.diningcode.com/profile.php?rid=5bjI2dvflu5V",
+          "status": 200,
+          "name": "진미집",
+          "address": "전라북도 전주시 완산구 노송여울2길 106",
+          "address2": "전라북도 전주시 완산구 서노송동 655-24"
+        }
+      ]
+    },
+    {
+      "id": "pick-menu-a01n6JvT7Ajg",
+      "title": "두꺼비식당 제천본점",
+      "address": "충청북도 제천시 중앙로2가 72-7",
+      "photo": {
+        "url": "https://d12zq4w4guyljn.cloudfront.net/750_750_20260917015126_photo2_e46b018aa81e.webp",
+        "sourceUrl": "https://www.diningcode.com/profile.php?rid=a01n6JvT7Ajg",
+        "sourceLabel": "다이닝코드",
+        "sourceName": "두꺼비식당",
+        "sourceAddress": "충청북도 제천시 의림대로20길 21",
+        "matchedAddress": "충청북도 제천시 중앙로2가 72-7",
+        "kind": "review-preview",
+        "rightsStatus": "permission-not-confirmed",
+        "caption": "두꺼비식당 제천본점 · 방문자 사진 미리보기",
+        "status": "ok",
+        "checkedAt": "2026-10-22T09:55:52.215Z",
+        "identityVerifiedAt": "2026-10-22T09:57:52.078Z"
+      },
+      "checkedSources": [
+        {
+          "url": "https://www.diningcode.com/profile.php?rid=a01n6JvT7Ajg",
+          "status": 200,
+          "name": "두꺼비식당",
+          "address": "충청북도 제천시 의림대로20길 21",
+          "address2": "충청북도 제천시 중앙로2가 72-7"
+        }
+      ]
+    },
+    {
+      "id": "pick-menu-fD0jzFntuhnt",
+      "title": "함양집 울산달동점",
+      "address": "울산광역시 남구 달동 1263-13",
+      "photo": {
+        "url": "https://d12zq4w4guyljn.cloudfront.net/750_750_20260214064203_photo1_58a920152bdd.webp",
+        "sourceUrl": "https://www.diningcode.com/profile.php?rid=fD0jzFntuhnt",
+        "sourceLabel": "다이닝코드",
+        "sourceName": "함양집",
+        "sourceAddress": "울산광역시 남구 삼산로228번길 19",
+        "matchedAddress": "울산광역시 남구 달동 1263-13",
+        "kind": "review-preview",
+        "rightsStatus": "permission-not-confirmed",
+        "caption": "함양집 울산달동점 · 방문자 사진 미리보기",
+        "status": "ok",
+        "checkedAt": "2026-10-22T09:55:52.215Z",
+        "identityVerifiedAt": "2026-10-22T09:57:52.078Z"
+      },
+      "checkedSources": [
+        {
+          "url": "https://www.diningcode.com/profile.php?rid=fD0jzFntuhnt",
+          "status": 200,
+          "name": "함양집",
+          "address": "울산광역시 남구 삼산로228번길 19",
+          "address2": "울산광역시 남구 달동 1263-13"
+        }
+      ]
+    },
+    {
+      "id": "pick-menu-WBk1OECOMPsT",
+      "title": "선경준치횟집",
+      "address": "전라남도 목포시 온금동 186",
+      "photo": {
+        "url": "https://d12zq4w4guyljn.cloudfront.net/750_750_20250713064835_photo1_0c355c4fe535.webp",
+        "sourceUrl": "https://www.diningcode.com/profile.php?rid=WBk1OECOMPsT",
+        "sourceLabel": "다이닝코드",
+        "sourceName": "선경준치횟집",
+        "sourceAddress": "전라남도 목포시 해안로57번길 2",
+        "matchedAddress": "전라남도 목포시 온금동 186",
+        "kind": "review-preview",
+        "rightsStatus": "permission-not-confirmed",
+        "caption": "선경준치횟집 · 방문자 사진 미리보기",
+        "status": "ok",
+        "checkedAt": "2026-10-22T09:55:52.215Z",
+        "identityVerifiedAt": "2026-10-22T09:57:52.078Z"
+      },
+      "checkedSources": [
+        {
+          "url": "https://www.diningcode.com/profile.php?rid=WBk1OECOMPsT",
+          "status": 200,
+          "name": "선경준치횟집",
+          "address": "전라남도 목포시 해안로57번길 2",
+          "address2": "전라남도 목포시 온금동 186"
+        }
+      ]
+    },
+    {
+      "id": "pick-menu-t0BXPm8GKPtD",
+      "title": "화정떡갈비",
+      "address": "광주광역시 광산구 송정동 830-7",
+      "photo": {
+        "url": "https://d12zq4w4guyljn.cloudfront.net/750_750_20261010030422715_photo_28bef9377b09.webp",
+        "sourceUrl": "https://www.diningcode.com/profile.php?rid=t0BXPm8GKPtD",
+        "sourceLabel": "다이닝코드",
+        "sourceName": "화정떡갈비",
+        "sourceAddress": "광주광역시 광산구 광산로29번길 6 화정떡갈비",
+        "matchedAddress": "광주광역시 광산구 송정동 830-7",
+        "kind": "review-preview",
+        "rightsStatus": "permission-not-confirmed",
+        "caption": "화정떡갈비 · 방문자 사진 미리보기",
+        "status": "ok",
+        "checkedAt": "2026-10-22T09:55:52.215Z",
+        "identityVerifiedAt": "2026-10-22T09:57:52.078Z"
+      },
+      "checkedSources": [
+        {
+          "url": "https://www.diningcode.com/profile.php?rid=t0BXPm8GKPtD",
+          "status": 200,
+          "name": "화정떡갈비",
+          "address": "광주광역시 광산구 광산로29번길 6 화정떡갈비",
+          "address2": "광주광역시 광산구 송정동 830-7"
+        }
+      ]
+    },
+    {
+      "id": "pick-menu-IyEWFMiXd2nG",
+      "title": "고기리막국수",
+      "address": "경기도 용인시 수지구 고기동 593-4",
+      "photo": {
+        "url": "https://d12zq4w4guyljn.cloudfront.net/750_750_20261016010852_photo1_af11b4a966ea.webp",
+        "sourceUrl": "https://www.diningcode.com/profile.php?rid=IyEWFMiXd2nG",
+        "sourceLabel": "다이닝코드",
+        "sourceName": "고기리막국수",
+        "sourceAddress": "경기도 용인시 수지구 이종무로 157",
+        "matchedAddress": "경기도 용인시 수지구 고기동 593-4",
+        "kind": "review-preview",
+        "rightsStatus": "permission-not-confirmed",
+        "caption": "고기리막국수 · 방문자 사진 미리보기",
+        "status": "ok",
+        "checkedAt": "2026-10-22T09:55:52.215Z",
+        "identityVerifiedAt": "2026-10-22T09:57:52.078Z"
+      },
+      "checkedSources": [
+        {
+          "url": "https://www.diningcode.com/profile.php?rid=IyEWFMiXd2nG",
+          "status": 200,
+          "name": "고기리막국수",
+          "address": "경기도 용인시 수지구 이종무로 157",
+          "address2": "경기도 용인시 수지구 고기동 593-4"
+        }
+      ]
+    },
+    {
+      "id": "pick-menu-TjHHaWq8Ylqt",
+      "title": "우래옥 본점",
+      "address": "서울특별시 중구 주교동 118-1",
+      "photo": {
+        "url": "https://d12zq4w4guyljn.cloudfront.net/750_750_20261008121950_photo1_88a069a9355b.webp",
+        "sourceUrl": "https://www.diningcode.com/profile.php?rid=TjHHaWq8Ylqt",
+        "sourceLabel": "다이닝코드",
+        "sourceName": "우래옥 본점",
+        "sourceAddress": "서울특별시 중구 창경궁로 62-29",
+        "matchedAddress": "서울특별시 중구 주교동 118-1",
+        "kind": "review-preview",
+        "rightsStatus": "permission-not-confirmed",
+        "caption": "우래옥 본점 · 방문자 사진 미리보기",
+        "status": "ok",
+        "checkedAt": "2026-10-22T09:55:52.215Z",
+        "identityVerifiedAt": "2026-10-22T09:57:52.078Z"
+      },
+      "checkedSources": [
+        {
+          "url": "https://www.diningcode.com/profile.php?rid=TjHHaWq8Ylqt",
+          "status": 200,
+          "name": "우래옥 본점",
+          "address": "서울특별시 중구 창경궁로 62-29",
+          "address2": "서울특별시 중구 주교동 118-1"
+        }
+      ]
+    },
+    {
+      "id": "pick-menu-E55qlHIVVscR",
+      "title": "김희선 몸국",
+      "address": "제주특별자치도 제주시 용담삼동 1129-2",
+      "photo": {
+        "url": "https://d12zq4w4guyljn.cloudfront.net/750_750_20260401102010647_photo_7bb2401a5f1a.webp",
+        "sourceUrl": "https://www.diningcode.com/profile.php?rid=E55qlHIVVscR",
+        "sourceLabel": "다이닝코드",
+        "sourceName": "김희선 몸국",
+        "sourceAddress": "제주특별자치도 제주시 어영길 45-6",
+        "matchedAddress": "제주특별자치도 제주시 용담삼동 1129-2",
+        "kind": "review-preview",
+        "rightsStatus": "permission-not-confirmed",
+        "caption": "김희선 몸국 · 방문자 사진 미리보기",
+        "status": "ok",
+        "checkedAt": "2026-10-22T09:55:52.215Z",
+        "identityVerifiedAt": "2026-10-22T09:57:52.078Z"
+      },
+      "checkedSources": [
+        {
+          "url": "https://www.diningcode.com/profile.php?rid=E55qlHIVVscR",
+          "status": 200,
+          "name": "김희선 몸국",
+          "address": "제주특별자치도 제주시 어영길 45-6",
+          "address2": "제주특별자치도 제주시 용담삼동 1129-2"
+        }
+      ]
+    },
+    {
+      "id": "pick-menu-HbozEvefFft2",
+      "title": "태평소국밥 유성문화원로점",
+      "address": "대전광역시 유성구 봉명동 676-3",
+      "photo": {
+        "url": "https://d12zq4w4guyljn.cloudfront.net/750_750_20261015074058_photo1_4295f2ac4ab2.webp",
+        "sourceUrl": "https://www.diningcode.com/profile.php?rid=HbozEvefFft2",
+        "sourceLabel": "다이닝코드",
+        "sourceName": "태평소국밥",
+        "sourceAddress": "대전광역시 유성구 문화원로 140",
+        "matchedAddress": "대전광역시 유성구 봉명동 676-3",
+        "kind": "review-preview",
+        "rightsStatus": "permission-not-confirmed",
+        "caption": "태평소국밥 유성문화원로점 · 방문자 사진 미리보기",
+        "status": "ok",
+        "checkedAt": "2026-10-22T09:55:52.215Z",
+        "identityVerifiedAt": "2026-10-22T09:57:52.078Z"
+      },
+      "checkedSources": [
+        {
+          "url": "https://www.diningcode.com/profile.php?rid=HbozEvefFft2",
+          "status": 200,
+          "name": "태평소국밥",
+          "address": "대전광역시 유성구 문화원로 140",
+          "address2": "대전광역시 유성구 봉명동 676-3"
+        }
+      ]
+    },
+    {
+      "id": "pick-menu-4m3vJlRUH61H",
+      "title": "황해해물칼국수 1호점",
+      "address": "인천광역시 중구 덕교동 128-15",
+      "photo": {
+        "url": "https://d12zq4w4guyljn.cloudfront.net/750_750_20260809014152586_photo_1cd3fb17f061.webp",
+        "sourceUrl": "https://www.diningcode.com/profile.php?rid=4m3vJlRUH61H",
+        "sourceLabel": "다이닝코드",
+        "sourceName": "황해해물칼국수 1호점",
+        "sourceAddress": "인천광역시 중구 마시란로 24",
+        "matchedAddress": "인천광역시 중구 덕교동 128-15",
+        "kind": "review-preview",
+        "rightsStatus": "permission-not-confirmed",
+        "caption": "황해해물칼국수 1호점 · 방문자 사진 미리보기",
+        "status": "ok",
+        "checkedAt": "2026-10-22T09:55:52.215Z",
+        "identityVerifiedAt": "2026-10-22T09:57:52.078Z"
+      },
+      "checkedSources": [
+        {
+          "url": "https://www.diningcode.com/profile.php?rid=4m3vJlRUH61H",
+          "status": 200,
+          "name": "황해해물칼국수 1호점",
+          "address": "인천광역시 중구 마시란로 24",
+          "address2": "인천광역시 중구 덕교동 128-15"
+        }
+      ]
+    },
+    {
+      "id": "pick-menu-YytRslqGWFia",
+      "title": "금암피순대",
+      "address": "전라북도 전주시 덕진구 금암동 729-3",
+      "photo": {
+        "url": "https://d12zq4w4guyljn.cloudfront.net/300_300_20260608082328_photo1_122e6044c13e.webp",
+        "sourceUrl": "https://www.diningcode.com/profile.php?rid=YytRslqGWFia",
+        "sourceLabel": "다이닝코드",
+        "sourceName": "금암피순대",
+        "sourceAddress": "전라북도 전주시 덕진구 기린대로 400-61",
+        "matchedAddress": "전라북도 전주시 덕진구 금암동 729-3",
+        "kind": "review-preview",
+        "rightsStatus": "permission-not-confirmed",
+        "caption": "금암피순대 · 방문자 사진 미리보기",
+        "status": "ok",
+        "checkedAt": "2026-10-22T09:55:52.215Z",
+        "identityVerifiedAt": "2026-10-22T09:57:52.078Z"
+      },
+      "checkedSources": [
+        {
+          "url": "https://www.diningcode.com/profile.php?rid=YytRslqGWFia",
+          "status": 200,
+          "name": "금암피순대",
+          "address": "전라북도 전주시 덕진구 기린대로 400-61",
+          "address2": "전라북도 전주시 덕진구 금암동 729-3"
+        }
+      ]
+    },
+    {
+      "id": "pick-menu-NLidPz9LfOB6",
+      "title": "미성복어",
+      "address": "대구시 수성구 상동 12-7",
+      "photo": {
+        "url": "https://d12zq4w4guyljn.cloudfront.net/750_750_20260613080628_photo1_52139d034f9a.webp",
+        "sourceUrl": "https://www.diningcode.com/profile.php?rid=NLidPz9LfOB6",
+        "sourceLabel": "다이닝코드",
+        "sourceName": "미성복어",
+        "sourceAddress": "대구광역시 수성구 들안로 87 미성복어불고기",
+        "matchedAddress": "대구시 수성구 상동 12-7",
+        "kind": "review-preview",
+        "rightsStatus": "permission-not-confirmed",
+        "caption": "미성복어 · 방문자 사진 미리보기",
+        "status": "ok",
+        "checkedAt": "2026-10-22T09:55:52.215Z",
+        "identityVerifiedAt": "2026-10-22T09:57:52.079Z"
+      },
+      "checkedSources": [
+        {
+          "url": "https://www.diningcode.com/profile.php?rid=NLidPz9LfOB6",
+          "status": 200,
+          "name": "미성복어",
+          "address": "대구광역시 수성구 들안로 87 미성복어불고기",
+          "address2": "대구시 수성구 상동 12-7"
+        }
+      ]
+    },
+    {
+      "id": "pick-hapcheon",
+      "title": "합천국밥집 용호동",
+      "address": "부산 남구 용호로 235",
+      "photo": {
+        "url": "https://d12zq4w4guyljn.cloudfront.net/750_750_20261018030249547_photo_b49cf0863840.webp",
+        "sourceUrl": "https://www.diningcode.com/profile.php?rid=5rr1t7JcgLAR",
+        "sourceLabel": "다이닝코드",
+        "sourceName": "합천국밥집",
+        "sourceAddress": "부산광역시 남구 용호로 235",
+        "matchedAddress": "부산 남구 용호로 235",
+        "kind": "review-preview",
+        "rightsStatus": "permission-not-confirmed",
+        "caption": "합천국밥집 용호동 · 방문자 사진 미리보기",
+        "status": "ok",
+        "checkedAt": "2026-10-22T09:55:52.215Z",
+        "identityVerifiedAt": "2026-10-22T09:57:52.079Z"
+      },
+      "checkedSources": [
+        {
+          "url": "https://www.diningcode.com/profile.php?rid=5rr1t7JcgLAR",
+          "status": 200,
+          "name": "합천국밥집",
+          "address": "부산광역시 남구 용호로 235",
+          "address2": "부산광역시 남구 용호동 554-3"
+        }
+      ]
+    },
+    {
+      "id": "pick-menu-oULwcSCJQsOC",
+      "title": "봉용불고기",
+      "address": "충청북도 청주시 청원구 우암동 131-4",
+      "photo": {
+        "url": "https://d12zq4w4guyljn.cloudfront.net/750_750_20261014112400_photo1_e1f061b0951c.webp",
+        "sourceUrl": "https://www.diningcode.com/profile.php?rid=oULwcSCJQsOC",
+        "sourceLabel": "다이닝코드",
+        "sourceName": "봉용불고기",
+        "sourceAddress": "충청북도 청주시 청원구 중앙로 108",
+        "matchedAddress": "충청북도 청주시 청원구 우암동 131-4",
+        "kind": "review-preview",
+        "rightsStatus": "permission-not-confirmed",
+        "caption": "봉용불고기 · 방문자 사진 미리보기",
+        "status": "ok",
+        "checkedAt": "2026-10-22T09:55:52.215Z",
+        "identityVerifiedAt": "2026-10-22T09:57:52.078Z"
+      },
+      "checkedSources": [
+        {
+          "url": "https://www.diningcode.com/profile.php?rid=oULwcSCJQsOC",
+          "status": 200,
+          "name": "봉용불고기",
+          "address": "충청북도 청주시 청원구 중앙로 108",
+          "address2": "충청북도 청주시 청원구 우암동 131-4"
+        }
+      ]
+    },
+    {
+      "id": "pick-menu-U3U6yEcQWsya",
+      "title": "까치둥지",
+      "address": "강원도 원주시 단구동 500-1",
+      "photo": {
+        "url": "https://d12zq4w4guyljn.cloudfront.net/750_750_20260919063220_photo1_1558f0381a10.webp",
+        "sourceUrl": "https://www.diningcode.com/profile.php?rid=U3U6yEcQWsya",
+        "sourceLabel": "다이닝코드",
+        "sourceName": "까치둥지",
+        "sourceAddress": "강원도 원주시 치악로 1731",
+        "matchedAddress": "강원도 원주시 단구동 500-1",
+        "kind": "review-preview",
+        "rightsStatus": "permission-not-confirmed",
+        "caption": "까치둥지 · 방문자 사진 미리보기",
+        "status": "ok",
+        "checkedAt": "2026-10-22T09:55:52.215Z",
+        "identityVerifiedAt": "2026-10-22T09:57:52.079Z"
+      },
+      "checkedSources": [
+        {
+          "url": "https://www.diningcode.com/profile.php?rid=U3U6yEcQWsya",
+          "status": 200,
+          "name": "까치둥지",
+          "address": "강원도 원주시 치악로 1731",
+          "address2": "강원도 원주시 단구동 500-1"
+        }
+      ]
+    },
+    {
+      "id": "pick-hyundaiok",
+      "title": "현대옥 남부시장점",
+      "address": "전북특별자치도 전주시 완산구 풍남문2길 63",
+      "photo": {
+        "url": "https://polle-image.tabling.co.kr/posts/XwlZDpSbQmEBxzn9ZaeKUg.jpg",
+        "sourceUrl": "https://www.tabling.co.kr/place/677cc96c66de5f06987907ab",
+        "sourceLabel": "테이블링",
+        "sourceName": "현대옥 남부시장점 - 테이블링",
+        "sourceAddress": "전북 전주시 완산구 풍남문2길 63",
+        "matchedAddress": "전북특별자치도 전주시 완산구 풍남문2길 63",
+        "kind": "review-preview",
+        "rightsStatus": "permission-not-confirmed",
+        "caption": "현대옥 남부시장점 · 방문자 사진 미리보기",
+        "status": "ok",
+        "checkedAt": "2026-10-22T09:55:52.215Z",
+        "identityVerifiedAt": "2026-10-22T09:57:52.079Z"
+      },
+      "checkedSources": [
+        {
+          "url": "https://www.tabling.co.kr/place/677cc96c66de5f06987907ab",
+          "status": 200,
+          "name": "현대옥 남부시장점 - 테이블링",
+          "address": "전북 전주시 완산구 풍남문2길 63"
+        }
+      ]
+    },
+    {
+      "id": "pick-ossi",
+      "title": "오씨칼국수 대전역점",
+      "address": "대전 동구 중앙로204번길 75",
+      "photo": {
+        "url": "https://d12zq4w4guyljn.cloudfront.net/750_750_20260913114721_photo1_f2118216b477.webp",
+        "sourceUrl": "https://www.diningcode.com/profile.php?rid=NOjo2nQyDfqU",
+        "sourceLabel": "다이닝코드",
+        "sourceName": "오씨칼국수 대전역점",
+        "sourceAddress": "대전광역시 동구 중앙로204번길 75 갑을회관",
+        "matchedAddress": "대전 동구 중앙로204번길 75",
+        "kind": "review-preview",
+        "rightsStatus": "permission-not-confirmed",
+        "caption": "오씨칼국수 대전역점 · 방문자 사진 미리보기",
+        "status": "ok",
+        "checkedAt": "2026-10-22T09:55:52.215Z",
+        "identityVerifiedAt": "2026-10-22T09:57:52.079Z"
+      },
+      "checkedSources": [
+        {
+          "url": "https://www.diningcode.com/profile.php?rid=NOjo2nQyDfqU",
+          "status": 200,
+          "name": "오씨칼국수 대전역점",
+          "address": "대전광역시 동구 중앙로204번길 75 갑을회관",
+          "address2": "대전광역시 동구 원동 41-3"
+        }
+      ]
+    },
+    {
+      "id": "pick-woojin",
+      "title": "우진해장국 본관",
+      "address": "제주특별자치도 제주시 서사로 11",
+      "photo": {
+        "url": "https://polle-image.tabling.co.kr/posts/vfCGkcRaznl1L30OqleKoQ.jpg",
+        "sourceUrl": "https://www.tabling.co.kr/place/6762812966de5f0698ee08c3",
+        "sourceLabel": "테이블링",
+        "sourceName": "우진 해장국 - 테이블링",
+        "sourceAddress": "제주 제주시 서사로 11",
+        "matchedAddress": "제주특별자치도 제주시 서사로 11",
+        "kind": "review-preview",
+        "rightsStatus": "permission-not-confirmed",
+        "caption": "우진해장국 본관 · 방문자 사진 미리보기",
+        "status": "ok",
+        "checkedAt": "2026-10-22T09:55:52.215Z",
+        "identityVerifiedAt": "2026-10-22T09:57:52.079Z"
+      },
+      "checkedSources": [
+        {
+          "url": "https://www.tabling.co.kr/place/6762812966de5f0698ee08c3",
+          "status": 200,
+          "name": "우진 해장국 - 테이블링",
+          "address": "제주 제주시 서사로 11"
+        }
+      ]
+    },
+    {
+      "id": "pick-songjeong",
+      "title": "송정떡갈비 1호점",
+      "address": "광주 광산구 광산로29번길 1",
+      "photo": {
+        "url": "https://polle-image.tabling.co.kr/posts/puUu3SEHBjGHkhuE8QjWqQ.jpg",
+        "sourceUrl": "https://www.tabling.co.kr/place/677ccb3f66de5f06987ce9de",
+        "sourceLabel": "테이블링",
+        "sourceName": "송정떡갈비 1호점 - 테이블링",
+        "sourceAddress": "전남광주 광산구 광산로29번길 1",
+        "matchedAddress": "광주 광산구 광산로29번길 1",
+        "kind": "review-preview",
+        "rightsStatus": "permission-not-confirmed",
+        "caption": "송정떡갈비 1호점 · 방문자 사진 미리보기",
+        "status": "ok",
+        "checkedAt": "2026-10-22T09:56:50.106Z",
+        "identityVerifiedAt": "2026-10-22T09:57:52.079Z"
+      },
+      "checkedSources": [
+        {
+          "url": "https://www.tabling.co.kr/place/677ccb3f66de5f06987ce9de",
+          "status": 200,
+          "name": "송정떡갈비 1호점 - 테이블링",
+          "address": "전남광주 광산구 광산로29번길 1"
+        },
+        {
+          "url": "https://english.visitkorea.or.kr/svc/contents/contentsView.do?vcontsId=81079",
+          "status": 200,
+          "name": "Songjeong Tteokgalbi 1hojeom (송정떡갈비 1호점)",
+          "address2": "1 Gwangsan-ro 29beon-gil, Gwangsan-gu, Jeonnam-Gwangju Special Metropolitan City"
+        }
+      ]
+    },
+    {
+      "id": "pick-chungnam",
+      "title": "충남집순대",
+      "address": "충남 천안시 동남구 병천면 충절로 1748",
+      "photo": {
+        "url": "https://polle-image.tabling.co.kr/posts/lbK3lb1J6oi_Bwqgqr8g6g.jpg",
+        "sourceUrl": "https://www.tabling.co.kr/place/677cc94866de5f069878b71d",
+        "sourceLabel": "테이블링",
+        "sourceName": "충남집순대 - 테이블링",
+        "sourceAddress": "충남 천안시 동남구 병천면 충절로 1748",
+        "matchedAddress": "충남 천안시 동남구 병천면 충절로 1748",
+        "kind": "review-preview",
+        "rightsStatus": "permission-not-confirmed",
+        "caption": "충남집순대 · 방문자 사진 미리보기",
+        "status": "ok",
+        "checkedAt": "2026-10-22T09:55:52.215Z",
+        "identityVerifiedAt": "2026-10-22T09:57:52.079Z"
+      },
+      "checkedSources": [
+        {
+          "url": "https://www.tabling.co.kr/place/677cc94866de5f069878b71d",
+          "status": 200,
+          "name": "충남집순대 - 테이블링",
+          "address": "충남 천안시 동남구 병천면 충절로 1748"
+        }
+      ]
+    },
+    {
+      "id": "pick-gukil",
+      "title": "국일따로국밥",
+      "address": "대구 중구 국채보상로 571",
+      "photo": {
+        "url": "https://d12zq4w4guyljn.cloudfront.net/750_750_20260826105216771_photo_e18765a79b5e.webp",
+        "sourceUrl": "https://www.diningcode.com/profile.php?rid=wUfLPTrDjfnj",
+        "sourceLabel": "다이닝코드",
+        "sourceName": "국일따로국밥",
+        "sourceAddress": "대구광역시 중구 국채보상로 571",
+        "matchedAddress": "대구 중구 국채보상로 571",
+        "kind": "review-preview",
+        "rightsStatus": "permission-not-confirmed",
+        "caption": "국일따로국밥 · 방문자 사진 미리보기",
+        "status": "ok",
+        "checkedAt": "2026-10-22T09:55:52.215Z",
+        "identityVerifiedAt": "2026-10-22T09:57:52.079Z"
+      },
+      "checkedSources": [
+        {
+          "url": "https://www.diningcode.com/profile.php?rid=wUfLPTrDjfnj",
+          "status": 200,
+          "name": "국일따로국밥",
+          "address": "대구광역시 중구 국채보상로 571",
+          "address2": "대구광역시 중구 전동 7-1"
+        }
+      ]
+    },
+    {
+      "id": "pick-hwanyeo",
+      "title": "환여횟집 본점",
+      "address": "경북 포항시 북구 해안로 189-1",
+      "photo": {
+        "url": "https://d12zq4w4guyljn.cloudfront.net/750_750_20260922091245_photo1_u1Gbho0o5xhZ.webp",
+        "sourceUrl": "https://www.diningcode.com/profile.php?rid=qkEutcmHFX7O",
+        "sourceLabel": "다이닝코드",
+        "sourceName": "환여횟집 본점",
+        "sourceAddress": "경상북도 포항시 북구 해안로 189-1",
+        "matchedAddress": "경북 포항시 북구 해안로 189-1",
+        "kind": "review-preview",
+        "rightsStatus": "permission-not-confirmed",
+        "caption": "환여횟집 본점 · 방문자 사진 미리보기",
+        "status": "ok",
+        "checkedAt": "2026-10-22T09:55:52.215Z",
+        "identityVerifiedAt": "2026-10-22T09:57:52.079Z"
+      },
+      "checkedSources": [
+        {
+          "url": "https://www.diningcode.com/profile.php?rid=qkEutcmHFX7O",
+          "status": 200,
+          "name": "환여횟집 본점",
+          "address": "경상북도 포항시 북구 해안로 189-1",
+          "address2": "경상북도 포항시 북구 두호동 190-9"
+        }
+      ]
+    },
+    {
+      "id": "pick-boyoung",
+      "title": "보영만두 북문본점",
+      "address": "경기 수원시 장안구 팔달로 271",
+      "photo": {
+        "url": "https://polle-image.tabling.co.kr/posts/F7WSErrXudND4sgCCj82fQ.jpg",
+        "sourceUrl": "https://www.tabling.co.kr/place/677cc9f866de5f06987a41bb",
+        "sourceLabel": "테이블링",
+        "sourceName": "보영만두 북문본점 - 테이블링",
+        "sourceAddress": "경기 수원시 장안구 팔달로 271",
+        "matchedAddress": "경기 수원시 장안구 팔달로 271",
+        "kind": "review-preview",
+        "rightsStatus": "permission-not-confirmed",
+        "caption": "보영만두 북문본점 · 방문자 사진 미리보기",
+        "status": "ok",
+        "checkedAt": "2026-10-22T09:55:52.215Z",
+        "identityVerifiedAt": "2026-10-22T09:57:52.079Z"
+      },
+      "checkedSources": [
+        {
+          "url": "https://www.tabling.co.kr/place/677cc9f866de5f06987a41bb",
+          "status": 200,
+          "name": "보영만두 북문본점 - 테이블링",
+          "address": "경기 수원시 장안구 팔달로 271"
+        },
+        {
+          "url": "https://www.diningcode.com/profile.php?rid=qiiPwhoYeuEZ",
+          "status": 200,
+          "name": "보영만두 본점",
+          "address": "경기도 수원시 장안구 팔달로 271 보영만두",
+          "address2": "경기도 수원시 장안구 영화동 282-3"
+        }
+      ]
+    },
+    {
+      "id": "pick-yungane",
+      "title": "윤가네 바지락칼국수",
+      "address": "인천 연수구 청룡로30번길 2",
+      "photo": {
+        "url": "https://polle-image.tabling.co.kr/posts/3rOjD_dbNywQ9MgaAOdncg.jpg",
+        "sourceUrl": "https://www.tabling.co.kr/place/677cc92666de5f0698786cca",
+        "sourceLabel": "테이블링",
+        "sourceName": "윤가네 바지락칼국수 - 테이블링",
+        "sourceAddress": "인천 연수구 청룡로30번길 2",
+        "matchedAddress": "인천 연수구 청룡로30번길 2",
+        "kind": "review-preview",
+        "rightsStatus": "permission-not-confirmed",
+        "caption": "윤가네 바지락칼국수 · 방문자 사진 미리보기",
+        "status": "ok",
+        "checkedAt": "2026-10-22T09:55:52.215Z",
+        "identityVerifiedAt": "2026-10-22T09:57:52.079Z"
+      },
+      "checkedSources": [
+        {
+          "url": "https://www.tabling.co.kr/place/677cc92666de5f0698786cca",
+          "status": 200,
+          "name": "윤가네 바지락칼국수 - 테이블링",
+          "address": "인천 연수구 청룡로30번길 2"
+        }
+      ]
+    },
+    {
+      "id": "pick-sunggyeong",
+      "title": "성경 만두요리 전문점 세종금남점",
+      "address": "세종특별자치시 금남면 금남구즉로 110-9",
+      "photo": {
+        "url": "https://polle-image.tabling.co.kr/posts/N0yJK6YvlmQjt4mbhYOXvg.jpg",
+        "sourceUrl": "https://www.tabling.co.kr/place/677cccb266de5f06987f9592",
+        "sourceLabel": "테이블링",
+        "sourceName": "성경 만두요리 전문점 세종금남점 - 테이블링",
+        "sourceAddress": "세종시 금남면 금남구즉로 110-9",
+        "matchedAddress": "세종특별자치시 금남면 금남구즉로 110-9",
+        "kind": "review-preview",
+        "rightsStatus": "permission-not-confirmed",
+        "caption": "성경 만두요리 전문점 세종금남점 · 방문자 사진 미리보기",
+        "status": "ok",
+        "checkedAt": "2026-10-22T09:55:52.215Z",
+        "identityVerifiedAt": "2026-10-22T09:57:52.079Z"
+      },
+      "checkedSources": [
+        {
+          "url": "https://www.tabling.co.kr/place/677cccb266de5f06987f9592",
+          "status": 200,
+          "name": "성경 만두요리 전문점 세종금남점 - 테이블링",
+          "address": "세종시 금남면 금남구즉로 110-9"
+        }
+      ]
+    },
+    {
+      "id": "pick-dangjo",
+      "title": "당조",
+      "address": "충북 청주시 상당구 상당로 40-8",
+      "photo": {
+        "url": "https://polle-image.tabling.co.kr/posts/m_JxIkkRXqPAPfPE-77FFw.jpg",
+        "sourceUrl": "https://www.tabling.co.kr/place/677ccf5d66de5f0698844315",
+        "sourceLabel": "테이블링",
+        "sourceName": "당조 - 테이블링",
+        "sourceAddress": "충북 청주시 상당구 상당로 40-8",
+        "matchedAddress": "충북 청주시 상당구 상당로 40-8",
+        "kind": "review-preview",
+        "rightsStatus": "permission-not-confirmed",
+        "caption": "당조 · 방문자 사진 미리보기",
+        "status": "ok",
+        "checkedAt": "2026-10-22T09:55:52.215Z",
+        "identityVerifiedAt": "2026-10-22T09:57:52.079Z"
+      },
+      "checkedSources": [
+        {
+          "url": "https://www.tabling.co.kr/place/677ccf5d66de5f0698844315",
+          "status": 200,
+          "name": "당조 - 테이블링",
+          "address": "충북 청주시 상당구 상당로 40-8"
+        }
+      ]
+    },
+    {
+      "id": "pick-dum",
+      "title": "덤",
+      "address": "울산 남구 대학로84번길 5-5 1층",
+      "photo": {
+        "url": "https://polle-image.tabling.co.kr/posts/lQQUNahAoPEqFZPtiZJjSA.jpg",
+        "sourceUrl": "https://www.tabling.co.kr/place/677cd2cc66de5f06988a6198",
+        "sourceLabel": "테이블링",
+        "sourceName": "덤 - 테이블링",
+        "sourceAddress": "울산 남구 대학로84번길 5-5",
+        "matchedAddress": "울산 남구 대학로84번길 5-5 1층",
+        "kind": "review-preview",
+        "rightsStatus": "permission-not-confirmed",
+        "caption": "덤 · 방문자 사진 미리보기",
+        "status": "ok",
+        "checkedAt": "2026-10-22T09:55:52.215Z",
+        "identityVerifiedAt": "2026-10-22T09:57:52.079Z"
+      },
+      "checkedSources": [
+        {
+          "url": "https://www.diningcode.com/profile.php?rid=vzi15U1QVIoq",
+          "status": 200,
+          "name": "덤",
+          "address2": "울산광역시 남구 무거동 619-11"
+        },
+        {
+          "url": "https://www.tabling.co.kr/place/677cd2cc66de5f06988a6198",
+          "status": 200,
+          "name": "덤 - 테이블링",
+          "address": "울산 남구 대학로84번길 5-5"
+        }
+      ]
+    },
+    {
+      "id": "pick-moru",
+      "title": "모루식당 창원점",
+      "address": "경남 창원시 성산구 용지로265번길 7",
+      "photo": {
+        "url": "https://polle-image.tabling.co.kr/posts/a1QJm65pjcbasM2eFz_Kww.jpg",
+        "sourceUrl": "https://www.tabling.co.kr/place/677ccbcb66de5f06987de53d",
+        "sourceLabel": "테이블링",
+        "sourceName": "모루식당 창원점 - 테이블링",
+        "sourceAddress": "경남 창원시 성산구 용지로265번길 7",
+        "matchedAddress": "경남 창원시 성산구 용지로265번길 7",
+        "kind": "review-preview",
+        "rightsStatus": "permission-not-confirmed",
+        "caption": "모루식당 창원점 · 방문자 사진 미리보기",
+        "status": "ok",
+        "checkedAt": "2026-10-22T09:55:52.215Z",
+        "identityVerifiedAt": "2026-10-22T09:57:52.079Z"
+      },
+      "checkedSources": [
+        {
+          "url": "https://www.tabling.co.kr/place/677ccbcb66de5f06987de53d",
+          "status": 200,
+          "name": "모루식당 창원점 - 테이블링",
+          "address": "경남 창원시 성산구 용지로265번길 7"
+        }
+      ]
+    },
+    {
+      "id": "pick-baekseong",
+      "title": "백성식당",
+      "address": "전남 목포시 번화로 68",
+      "photo": {
+        "url": "https://polle-image.tabling.co.kr/posts/If67VqA_hUsqYZgkW0oT-w.jpg",
+        "sourceUrl": "https://www.tabling.co.kr/place/677ccecb66de5f0698837150",
+        "sourceLabel": "테이블링",
+        "sourceName": "백성식당 - 테이블링",
+        "sourceAddress": "전남광주 목포시 번화로 68",
+        "matchedAddress": "전남 목포시 번화로 68",
+        "kind": "review-preview",
+        "rightsStatus": "permission-not-confirmed",
+        "caption": "백성식당 · 방문자 사진 미리보기",
+        "status": "ok",
+        "checkedAt": "2026-10-22T09:56:50.106Z",
+        "identityVerifiedAt": "2026-10-22T09:57:52.079Z"
+      },
+      "checkedSources": [
+        {
+          "url": "https://www.tabling.co.kr/place/677ccecb66de5f0698837150",
+          "status": 200,
+          "name": "백성식당 - 테이블링",
+          "address": "전남광주 목포시 번화로 68"
+        }
+      ]
+    },
+    {
+      "id": "pick-gwon",
+      "title": "권돼지국밥",
+      "address": "경남 진주시 강남로189번길 23",
+      "photo": {
+        "url": "https://polle-image.tabling.co.kr/posts/_i5cjSuStw_ihvA2OnhPdw.jpg",
+        "sourceUrl": "https://www.tabling.co.kr/place/677cc99866de5f0698796e8e",
+        "sourceLabel": "테이블링",
+        "sourceName": "권돼지국밥 - 테이블링",
+        "sourceAddress": "경남 진주시 강남로189번길 23",
+        "matchedAddress": "경남 진주시 강남로189번길 23",
+        "kind": "review-preview",
+        "rightsStatus": "permission-not-confirmed",
+        "caption": "권돼지국밥 · 방문자 사진 미리보기",
+        "status": "ok",
+        "checkedAt": "2026-10-22T09:55:52.215Z",
+        "identityVerifiedAt": "2026-10-22T09:57:52.079Z"
+      },
+      "checkedSources": [
+        {
+          "url": "https://www.tabling.co.kr/place/677cc99866de5f0698796e8e",
+          "status": 200,
+          "name": "권돼지국밥 - 테이블링",
+          "address": "경남 진주시 강남로189번길 23"
+        }
+      ]
+    },
+    {
+      "id": "pick-miga",
+      "title": "미가면옥",
+      "address": "세종특별자치시 도움3로 105-2 성원프라자 201호",
+      "photo": {
+        "url": "https://d12zq4w4guyljn.cloudfront.net/750_750_20250304015803_photo1_ikgUtYOtVden.webp",
+        "sourceUrl": "https://www.diningcode.com/profile.php?rid=FqNgOLu8wBPQ",
+        "sourceLabel": "다이닝코드",
+        "sourceName": "미가면옥",
+        "sourceAddress": "세종특별자치시 도움3로 105-2 성원프라자 201호",
+        "matchedAddress": "세종특별자치시 도움3로 105-2 성원프라자 201호",
+        "kind": "review-preview",
+        "rightsStatus": "permission-not-confirmed",
+        "caption": "미가면옥 · 방문자 사진 미리보기",
+        "status": "ok",
+        "checkedAt": "2026-10-22T09:55:52.215Z",
+        "identityVerifiedAt": "2026-10-22T09:57:52.079Z"
+      },
+      "checkedSources": [
+        {
+          "url": "https://www.diningcode.com/profile.php?rid=FqNgOLu8wBPQ",
+          "status": 200,
+          "name": "미가면옥",
+          "address": "세종특별자치시 도움3로 105-2 성원프라자 201호",
+          "address2": "세종특별자치시 종촌동 660"
+        },
+        {
+          "url": "https://www.tabling.co.kr/place/677cd05d66de5f069885ee9d",
+          "status": 200,
+          "name": "미가면옥 - 테이블링",
+          "address": "세종시 도움3로 105-2"
+        }
+      ]
+    },
+    {
+      "id": "pick-youngmi",
+      "title": "영미네 부침",
+      "address": "강원특별자치도 강릉시 중앙시장1길 15-1",
+      "photo": {
+        "url": "https://polle-image.tabling.co.kr/posts/O0ZKxL4p96KmDzvUuKWSsA.jpg",
+        "sourceUrl": "https://www.tabling.co.kr/place/677cce8b66de5f0698830a78",
+        "sourceLabel": "테이블링",
+        "sourceName": "영미네 부침 - 테이블링",
+        "sourceAddress": "강원 강릉시 중앙시장1길 15-1",
+        "matchedAddress": "강원특별자치도 강릉시 중앙시장1길 15-1",
+        "kind": "review-preview",
+        "rightsStatus": "permission-not-confirmed",
+        "caption": "영미네 부침 · 방문자 사진 미리보기",
+        "status": "ok",
+        "checkedAt": "2026-10-22T09:55:52.215Z",
+        "identityVerifiedAt": "2026-10-22T09:57:52.079Z"
+      },
+      "checkedSources": [
+        {
+          "url": "https://www.tabling.co.kr/place/677cce8b66de5f0698830a78",
+          "status": 200,
+          "name": "영미네 부침 - 테이블링",
+          "address": "강원 강릉시 중앙시장1길 15-1"
+        }
+      ]
+    },
+    {
+      "id": "pick-bucheon-chuncheon",
+      "title": "춘천 숯불닭갈비 경기본점",
+      "address": "경기 부천시 원미구 소향로13번길 20",
+      "photo": {
+        "url": "https://polle-image.tabling.co.kr/posts/ySk4PKWgKL41c-tmQyYgOw.jpg",
+        "sourceUrl": "https://www.tabling.co.kr/place/677ccfb266de5f069884b30c",
+        "sourceLabel": "테이블링",
+        "sourceName": "춘천 숯불닭갈비 경기본점 - 테이블링",
+        "sourceAddress": "경기 부천시 원미구 소향로13번길 20",
+        "matchedAddress": "경기 부천시 원미구 소향로13번길 20",
+        "kind": "review-preview",
+        "rightsStatus": "permission-not-confirmed",
+        "caption": "춘천 숯불닭갈비 경기본점 · 방문자 사진 미리보기",
+        "status": "ok",
+        "checkedAt": "2026-10-22T09:55:52.215Z",
+        "identityVerifiedAt": "2026-10-22T09:57:52.079Z"
+      },
+      "checkedSources": [
+        {
+          "url": "https://www.tabling.co.kr/place/677ccfb266de5f069884b30c",
+          "status": 200,
+          "name": "춘천 숯불닭갈비 경기본점 - 테이블링",
+          "address": "경기 부천시 원미구 소향로13번길 20"
+        }
+      ]
+    },
+    {
+      "id": "pick-136",
+      "title": "136 함박 전민점",
+      "address": "대전 유성구 전민로6번길 81",
+      "photo": {
+        "url": "https://polle-image.tabling.co.kr/posts/FQ97CtxXD464VztOHP5m0Q.jpg",
+        "sourceUrl": "https://www.tabling.co.kr/place/677cc81066de5f0698760781",
+        "sourceLabel": "테이블링",
+        "sourceName": "136 함박 전민점 - 테이블링",
+        "sourceAddress": "대전 유성구 전민로6번길 81",
+        "matchedAddress": "대전 유성구 전민로6번길 81",
+        "kind": "review-preview",
+        "rightsStatus": "permission-not-confirmed",
+        "caption": "136 함박 전민점 · 방문자 사진 미리보기",
+        "status": "ok",
+        "checkedAt": "2026-10-22T09:55:52.215Z",
+        "identityVerifiedAt": "2026-10-22T09:57:52.079Z"
+      },
+      "checkedSources": [
+        {
+          "url": "https://www.tabling.co.kr/place/677cc81066de5f0698760781",
+          "status": 200,
+          "name": "136 함박 전민점 - 테이블링",
+          "address": "대전 유성구 전민로6번길 81"
+        }
+      ]
+    },
+    {
+      "id": "pick-onyu",
+      "title": "온유",
+      "address": "대전 서구 괴정로116번길 44",
+      "photo": {
+        "url": "https://polle-image.tabling.co.kr/posts/Av04ws6nM6eqRdH6N7DHEA.jpg",
+        "sourceUrl": "https://www.tabling.co.kr/place/677cd41466de5f06988cbd38",
+        "sourceLabel": "테이블링",
+        "sourceName": "온유 - 테이블링",
+        "sourceAddress": "대전 서구 괴정로116번길 44",
+        "matchedAddress": "대전 서구 괴정로116번길 44",
+        "kind": "review-preview",
+        "rightsStatus": "permission-not-confirmed",
+        "caption": "온유 · 방문자 사진 미리보기",
+        "status": "ok",
+        "checkedAt": "2026-10-22T09:55:52.215Z",
+        "identityVerifiedAt": "2026-10-22T09:57:52.079Z"
+      },
+      "checkedSources": [
+        {
+          "url": "https://www.tabling.co.kr/place/677cd41466de5f06988cbd38",
+          "status": 200,
+          "name": "온유 - 테이블링",
+          "address": "대전 서구 괴정로116번길 44"
+        }
+      ]
+    },
+    {
+      "id": "pick-seongangol",
+      "title": "성안골",
+      "address": "충북 청주시 상당구 상당로59번길 37-6",
+      "photo": {
+        "url": "https://polle-image.tabling.co.kr/posts/Xpq9HSvnOyxqcxrVu250CA.jpg",
+        "sourceUrl": "https://www.tabling.co.kr/place/677cd13c66de5f0698878965",
+        "sourceLabel": "테이블링",
+        "sourceName": "성안골 - 테이블링",
+        "sourceAddress": "충북 청주시 상당구 상당로59번길 37-6",
+        "matchedAddress": "충북 청주시 상당구 상당로59번길 37-6",
+        "kind": "review-preview",
+        "rightsStatus": "permission-not-confirmed",
+        "caption": "성안골 · 방문자 사진 미리보기",
+        "status": "ok",
+        "checkedAt": "2026-10-22T09:55:52.215Z",
+        "identityVerifiedAt": "2026-10-22T09:57:52.079Z"
+      },
+      "checkedSources": [
+        {
+          "url": "https://www.tabling.co.kr/place/677cd13c66de5f0698878965",
+          "status": 200,
+          "name": "성안골 - 테이블링",
+          "address": "충북 청주시 상당구 상당로59번길 37-6"
+        }
+      ]
+    },
+    {
+      "id": "pick-yonginjeong",
+      "title": "용인정",
+      "address": "인천 미추홀구 경인로305번길 5",
+      "photo": {
+        "url": "https://d2uja84sd90jmv.cloudfront.net/posts/3Xu33PL2tuv2xlamp6HCww/ms.jpg?updated=-62167392000",
+        "sourceUrl": "https://polle.com/place/3HVnm0/용인정",
+        "sourceLabel": "뽈레",
+        "sourceName": "[용인정] 도화동 생선요리 | 뽈레 Polle",
+        "sourceAddress": "인천 미추홀구 경인로305번길 5",
+        "matchedAddress": "인천 미추홀구 경인로305번길 5",
+        "kind": "review-preview",
+        "rightsStatus": "permission-not-confirmed",
+        "caption": "용인정 · 방문자 사진 미리보기",
+        "status": "ok",
+        "checkedAt": "2026-10-22T09:55:52.215Z",
+        "identityVerifiedAt": "2026-10-22T09:57:52.079Z"
+      },
+      "checkedSources": [
+        {
+          "url": "https://polle.com/place/3HVnm0/용인정",
+          "status": 200,
+          "name": "[용인정] 도화동 생선요리 | 뽈레 Polle",
+          "address": "인천 미추홀구 경인로305번길 5"
+        }
+      ]
+    }
+  ]
+}
