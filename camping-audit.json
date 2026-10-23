@@ -1,5 +1,5 @@
 {
-  "checkedAt": "2026-10-22T00:03:18.691Z",
+  "checkedAt": "2026-10-23T00:01:46.878Z",
   "excluded": [
     {
       "id": "7767",
@@ -658,20 +658,20 @@
       "url": "https://gocamping.or.kr/bsite/camp/info/read.do?c_no=2359"
     },
     {
-      "id": "684",
-      "title": "단양팔경투어",
-      "address": "충청북도 단양군 단양읍 단양노동길 492",
-      "registered": true,
-      "closed": true,
-      "url": "https://gocamping.or.kr/bsite/camp/info/read.do?c_no=684"
-    },
-    {
       "id": "7781",
       "title": "더 포레스트",
       "address": "경기도 양평군 지평면 일신리길 134-23",
       "registered": true,
       "closed": true,
       "url": "https://gocamping.or.kr/bsite/camp/info/read.do?c_no=7781"
+    },
+    {
+      "id": "684",
+      "title": "단양팔경투어",
+      "address": "충청북도 단양군 단양읍 단양노동길 492",
+      "registered": true,
+      "closed": true,
+      "url": "https://gocamping.or.kr/bsite/camp/info/read.do?c_no=684"
     },
     {
       "id": "6998",
@@ -1130,20 +1130,20 @@
       "url": "https://gocamping.or.kr/bsite/camp/info/read.do?c_no=966"
     },
     {
-      "id": "7336",
-      "title": "헬로우 힐 연인산 캠핑장",
-      "address": "경기도 가평군 조종면 연인산로 384",
-      "registered": true,
-      "closed": true,
-      "url": "https://gocamping.or.kr/bsite/camp/info/read.do?c_no=7336"
-    },
-    {
       "id": "7440",
       "title": "덕룡산 캠핑장",
       "address": "전남광주통합특별시 강진군 도암면 봉황로 616",
       "registered": true,
       "closed": true,
       "url": "https://gocamping.or.kr/bsite/camp/info/read.do?c_no=7440"
+    },
+    {
+      "id": "7336",
+      "title": "헬로우 힐 연인산 캠핑장",
+      "address": "경기도 가평군 조종면 연인산로 384",
+      "registered": true,
+      "closed": true,
+      "url": "https://gocamping.or.kr/bsite/camp/info/read.do?c_no=7336"
     },
     {
       "id": "7078",
@@ -1362,20 +1362,20 @@
       "url": "https://gocamping.or.kr/bsite/camp/info/read.do?c_no=7988"
     },
     {
-      "id": "2311",
-      "title": "오크캠핑",
-      "address": "강원특별자치도 원주시 지정면 송정로 2-1",
-      "registered": true,
-      "closed": true,
-      "url": "https://gocamping.or.kr/bsite/camp/info/read.do?c_no=2311"
-    },
-    {
       "id": "3203",
       "title": "팔리봉 캠핑장",
       "address": "강원특별자치도 인제군 북면 풍전동길 50-209",
       "registered": true,
       "closed": true,
       "url": "https://gocamping.or.kr/bsite/camp/info/read.do?c_no=3203"
+    },
+    {
+      "id": "2311",
+      "title": "오크캠핑",
+      "address": "강원특별자치도 원주시 지정면 송정로 2-1",
+      "registered": true,
+      "closed": true,
+      "url": "https://gocamping.or.kr/bsite/camp/info/read.do?c_no=2311"
     },
     {
       "id": "548",
@@ -1978,20 +1978,20 @@
       "url": "https://gocamping.or.kr/bsite/camp/info/read.do?c_no=100373"
     },
     {
-      "id": "100446",
-      "title": "아르테오스 빌리지",
-      "address": "경기도 용인시 처인구 이동읍 백자로260번길 6-2",
-      "registered": true,
-      "closed": true,
-      "url": "https://gocamping.or.kr/bsite/camp/info/read.do?c_no=100446"
-    },
-    {
       "id": "100573",
       "title": "도기도기캠프",
       "address": "강원특별자치도 횡성군 서원면 서원서로150번길 11",
       "registered": true,
       "closed": true,
       "url": "https://gocamping.or.kr/bsite/camp/info/read.do?c_no=100573"
+    },
+    {
+      "id": "100446",
+      "title": "아르테오스 빌리지",
+      "address": "경기도 용인시 처인구 이동읍 백자로260번길 6-2",
+      "registered": true,
+      "closed": true,
+      "url": "https://gocamping.or.kr/bsite/camp/info/read.do?c_no=100446"
     },
     {
       "id": "100867",
@@ -2042,20 +2042,20 @@
       "url": "https://gocamping.or.kr/bsite/camp/info/read.do?c_no=2049"
     },
     {
-      "id": "100430",
-      "title": "원시관광농원",
-      "address": "강원특별자치도 양양군 현남면 전포매리 90-1",
-      "registered": true,
-      "closed": true,
-      "url": "https://gocamping.or.kr/bsite/camp/info/read.do?c_no=100430"
-    },
-    {
       "id": "100700",
       "title": "칠갑산관광농원",
       "address": "충청남도 청양군 화성면 구숫골길 105-19",
       "registered": true,
       "closed": true,
       "url": "https://gocamping.or.kr/bsite/camp/info/read.do?c_no=100700"
+    },
+    {
+      "id": "100430",
+      "title": "원시관광농원",
+      "address": "강원특별자치도 양양군 현남면 전포매리 90-1",
+      "registered": true,
+      "closed": true,
+      "url": "https://gocamping.or.kr/bsite/camp/info/read.do?c_no=100430"
     },
     {
       "id": "100506",

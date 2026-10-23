@@ -1,5 +1,5 @@
 {
-  "checkedAt": "2026-10-22T00:15:28.839Z",
+  "checkedAt": "2026-10-23T00:22:30.638Z",
   "candidates": [
     {
       "videoId": "Vlzn-egT5w8",
@@ -893,6 +893,14 @@
     },
     {
       "channelId": "UC4ZA57iJrf73bJlApKFeLRw",
+      "status": "새 영상 조회 실패"
+    },
+    {
+      "channelId": "UC-oZBYC-XXCMde-13YjyD2g",
+      "status": "새 영상 조회 실패"
+    },
+    {
+      "channelId": "UCR9gReM5VhQ_8brqQrBaVCA",
       "status": "새 영상 조회 실패"
     },
     {
