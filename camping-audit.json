@@ -1,5 +1,5 @@
 {
-  "checkedAt": "2026-10-23T23:54:21.352Z",
+  "checkedAt": "2026-10-24T18:17:46.492Z",
   "excluded": [
     {
       "id": "7767",
@@ -50,20 +50,20 @@
       "url": "https://gocamping.or.kr/bsite/camp/info/read.do?c_no=475"
     },
     {
-      "id": "7643",
-      "title": "풀무골 글램핑장",
-      "address": "경기도 안성시 고삼면 쌍지리 151-7번지",
-      "registered": true,
-      "closed": true,
-      "url": "https://gocamping.or.kr/bsite/camp/info/read.do?c_no=7643"
-    },
-    {
       "id": "100551",
       "title": "태백산국립공원 소도야영장",
       "address": "강원특별자치도 태백시 천제단길 181 (소도동)",
       "registered": true,
       "closed": true,
       "url": "https://gocamping.or.kr/bsite/camp/info/read.do?c_no=100551"
+    },
+    {
+      "id": "7643",
+      "title": "풀무골 글램핑장",
+      "address": "경기도 안성시 고삼면 쌍지리 151-7번지",
+      "registered": true,
+      "closed": true,
+      "url": "https://gocamping.or.kr/bsite/camp/info/read.do?c_no=7643"
     },
     {
       "id": "6806",
@@ -394,20 +394,20 @@
       "url": "https://gocamping.or.kr/bsite/camp/info/read.do?c_no=2370"
     },
     {
-      "id": "7059",
-      "title": "천보산자연휴양림 캠핑장",
-      "address": "경기도 포천시 동교동 원동교길 303",
-      "registered": true,
-      "closed": true,
-      "url": "https://gocamping.or.kr/bsite/camp/info/read.do?c_no=7059"
-    },
-    {
       "id": "6722",
       "title": "OK가족캠핑장",
       "address": "전남광주통합특별시 영광군 대마면 영장로10길 4",
       "registered": true,
       "closed": true,
       "url": "https://gocamping.or.kr/bsite/camp/info/read.do?c_no=6722"
+    },
+    {
+      "id": "7059",
+      "title": "천보산자연휴양림 캠핑장",
+      "address": "경기도 포천시 동교동 원동교길 303",
+      "registered": true,
+      "closed": true,
+      "url": "https://gocamping.or.kr/bsite/camp/info/read.do?c_no=7059"
     },
     {
       "id": "507",
@@ -1082,20 +1082,20 @@
       "url": "https://gocamping.or.kr/bsite/camp/info/read.do?c_no=8120"
     },
     {
-      "id": "2181",
-      "title": "여차울 캠핑장",
-      "address": "강원특별자치도 홍천군 내면 여차동길 745-41",
-      "registered": true,
-      "closed": true,
-      "url": "https://gocamping.or.kr/bsite/camp/info/read.do?c_no=2181"
-    },
-    {
       "id": "1184",
       "title": "민주지산자연휴양림",
       "address": "충청북도 영동군 용화면 휴양림길 89",
       "registered": true,
       "closed": true,
       "url": "https://gocamping.or.kr/bsite/camp/info/read.do?c_no=1184"
+    },
+    {
+      "id": "2181",
+      "title": "여차울 캠핑장",
+      "address": "강원특별자치도 홍천군 내면 여차동길 745-41",
+      "registered": true,
+      "closed": true,
+      "url": "https://gocamping.or.kr/bsite/camp/info/read.do?c_no=2181"
     },
     {
       "id": "7390",
@@ -1762,20 +1762,20 @@
       "url": "https://gocamping.or.kr/bsite/camp/info/read.do?c_no=100259"
     },
     {
-      "id": "100304",
-      "title": "약초농원 캠핑장",
-      "address": "경상북도 청도군 운문면 운문로 1074-27 -1",
-      "registered": true,
-      "closed": true,
-      "url": "https://gocamping.or.kr/bsite/camp/info/read.do?c_no=100304"
-    },
-    {
       "id": "101755",
       "title": "매봉산 천상의 숲",
       "address": "강원특별자치도 태백시 백두대간로 563 (창죽동) 태백 매봉산 숲속야영장 및 치유의숲",
       "registered": true,
       "closed": true,
       "url": "https://gocamping.or.kr/bsite/camp/info/read.do?c_no=101755"
+    },
+    {
+      "id": "100304",
+      "title": "약초농원 캠핑장",
+      "address": "경상북도 청도군 운문면 운문로 1074-27 -1",
+      "registered": true,
+      "closed": true,
+      "url": "https://gocamping.or.kr/bsite/camp/info/read.do?c_no=100304"
     },
     {
       "id": "100195",
@@ -2042,20 +2042,20 @@
       "url": "https://gocamping.or.kr/bsite/camp/info/read.do?c_no=101135"
     },
     {
-      "id": "100651",
-      "title": "수인야영장",
-      "address": "강원특별자치도 양구군 양구읍 소양호로 1086-13",
-      "registered": true,
-      "closed": true,
-      "url": "https://gocamping.or.kr/bsite/camp/info/read.do?c_no=100651"
-    },
-    {
       "id": "100700",
       "title": "칠갑산관광농원",
       "address": "충청남도 청양군 화성면 구숫골길 105-19",
       "registered": true,
       "closed": true,
       "url": "https://gocamping.or.kr/bsite/camp/info/read.do?c_no=100700"
+    },
+    {
+      "id": "100651",
+      "title": "수인야영장",
+      "address": "강원특별자치도 양구군 양구읍 소양호로 1086-13",
+      "registered": true,
+      "closed": true,
+      "url": "https://gocamping.or.kr/bsite/camp/info/read.do?c_no=100651"
     },
     {
       "id": "100331",
