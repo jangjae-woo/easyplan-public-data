@@ -21,19 +21,36 @@ jobs:
       - run: npm install --no-save --package-lock=false playwright@1.64.1
       - run: npx playwright install --with-deps chromium
       - name: Refresh MICHELIN public listing
+        id: michelin
+        continue-on-error: true
         run: node michelin.mjs --run
       - name: Refresh restaurant addresses and websites
+        id: locations
+        continue-on-error: true
         run: node restaurant-locations.mjs --test && node restaurant-locations.mjs --run
       - name: Refresh registered campsites and operator evidence
+        id: camping
+        continue-on-error: true
         run: node camping.mjs --run && node camping-operators.mjs
       - name: Check creator videos and collect new upload leads
+        id: creators
+        continue-on-error: true
         run: node creators.mjs --run
       - name: Check curated dining source links
+        id: dining
+        continue-on-error: true
         run: node dining-picks.mjs
-      - run: node refresh.mjs
+      - name: Refresh events, hobbies and benefits
+        id: sources
+        continue-on-error: true
+        run: node refresh.mjs
       - name: Refresh official restaurant menus
+        id: menus
+        continue-on-error: true
         run: node restaurant-menus.mjs --run
       - name: Check official restaurant photo links
+        id: photos
+        continue-on-error: true
         run: node restaurant-photos.mjs
       - name: Store latest public snapshots
         run: |
@@ -42,3 +59,8 @@ jobs:
           git add creator-videos.json creator-review-queue.json data.json status.json sources camping-audit.json restaurant-menus.json restaurant-locations.json restaurant-photos.json
           git diff --cached --quiet || git commit -m 'Refresh official public sources'
           git push
+      - name: Report incomplete collectors after saving successful updates
+        if: ${{ steps.michelin.outcome == 'failure' || steps.locations.outcome == 'failure' || steps.camping.outcome == 'failure' || steps.creators.outcome == 'failure' || steps.dining.outcome == 'failure' || steps.sources.outcome == 'failure' || steps.menus.outcome == 'failure' || steps.photos.outcome == 'failure' }}
+        run: |
+          echo 'Some collectors failed. Successful snapshots were saved; inspect the failed collector steps.' >> "$GITHUB_STEP_SUMMARY"
+          exit 1
