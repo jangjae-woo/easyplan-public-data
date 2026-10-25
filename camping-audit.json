@@ -1,5 +1,5 @@
 {
-  "checkedAt": "2026-10-24T23:20:22.521Z",
+  "checkedAt": "2026-10-25T23:20:08.612Z",
   "excluded": [
     {
       "id": "7767",
@@ -978,20 +978,20 @@
       "url": "https://gocamping.or.kr/bsite/camp/info/read.do?c_no=7314"
     },
     {
-      "id": "1293",
-      "title": "버디버디",
-      "address": "충청남도 태안군 남면 진산1길 277-200",
-      "registered": true,
-      "closed": true,
-      "url": "https://gocamping.or.kr/bsite/camp/info/read.do?c_no=1293"
-    },
-    {
       "id": "1433",
       "title": "블루웨일",
       "address": "경상남도 고성군 삼산면 두포5길 113-139",
       "registered": true,
       "closed": true,
       "url": "https://gocamping.or.kr/bsite/camp/info/read.do?c_no=1433"
+    },
+    {
+      "id": "1293",
+      "title": "버디버디",
+      "address": "충청남도 태안군 남면 진산1길 277-200",
+      "registered": true,
+      "closed": true,
+      "url": "https://gocamping.or.kr/bsite/camp/info/read.do?c_no=1293"
     },
     {
       "id": "2005",
@@ -1058,20 +1058,20 @@
       "url": "https://gocamping.or.kr/bsite/camp/info/read.do?c_no=2099"
     },
     {
-      "id": "6841",
-      "title": "참나무숲 오토캠핑장",
-      "address": "경상북도 청도군 운문면 운문로 1033-33",
-      "registered": true,
-      "closed": true,
-      "url": "https://gocamping.or.kr/bsite/camp/info/read.do?c_no=6841"
-    },
-    {
       "id": "3263",
       "title": "포시즌파크",
       "address": "강원특별자치도 횡성군 강림면 주천강로월현3길 157-78",
       "registered": true,
       "closed": true,
       "url": "https://gocamping.or.kr/bsite/camp/info/read.do?c_no=3263"
+    },
+    {
+      "id": "6841",
+      "title": "참나무숲 오토캠핑장",
+      "address": "경상북도 청도군 운문면 운문로 1033-33",
+      "registered": true,
+      "closed": true,
+      "url": "https://gocamping.or.kr/bsite/camp/info/read.do?c_no=6841"
     },
     {
       "id": "8120",
@@ -1162,20 +1162,20 @@
       "url": "https://gocamping.or.kr/bsite/camp/info/read.do?c_no=7440"
     },
     {
-      "id": "7336",
-      "title": "헬로우 힐 연인산 캠핑장",
-      "address": "경기도 가평군 조종면 연인산로 384",
-      "registered": true,
-      "closed": true,
-      "url": "https://gocamping.or.kr/bsite/camp/info/read.do?c_no=7336"
-    },
-    {
       "id": "7078",
       "title": "파인 관광농원",
       "address": "경기도 여주시 가남읍 경충대로 1483-25",
       "registered": true,
       "closed": true,
       "url": "https://gocamping.or.kr/bsite/camp/info/read.do?c_no=7078"
+    },
+    {
+      "id": "7336",
+      "title": "헬로우 힐 연인산 캠핑장",
+      "address": "경기도 가평군 조종면 연인산로 384",
+      "registered": true,
+      "closed": true,
+      "url": "https://gocamping.or.kr/bsite/camp/info/read.do?c_no=7336"
     },
     {
       "id": "728",
@@ -1202,20 +1202,20 @@
       "url": "https://gocamping.or.kr/bsite/camp/info/read.do?c_no=1045"
     },
     {
-      "id": "7198",
-      "title": "은석캠핑장",
-      "address": "강원특별자치도 정선군 신동읍 곰봉길 120",
-      "registered": true,
-      "closed": true,
-      "url": "https://gocamping.or.kr/bsite/camp/info/read.do?c_no=7198"
-    },
-    {
       "id": "36",
       "title": "Camp 1950 by 민들레울",
       "address": "경상북도 김천시 대덕면 남김천대로 160",
       "registered": true,
       "closed": true,
       "url": "https://gocamping.or.kr/bsite/camp/info/read.do?c_no=36"
+    },
+    {
+      "id": "7198",
+      "title": "은석캠핑장",
+      "address": "강원특별자치도 정선군 신동읍 곰봉길 120",
+      "registered": true,
+      "closed": true,
+      "url": "https://gocamping.or.kr/bsite/camp/info/read.do?c_no=7198"
     },
     {
       "id": "7905",
@@ -1338,14 +1338,6 @@
       "url": "https://gocamping.or.kr/bsite/camp/info/read.do?c_no=101410"
     },
     {
-      "id": "47",
-      "title": "JB캠핑하우스",
-      "address": "경기도 파주시 적성면 감악산로 1270-74",
-      "registered": true,
-      "closed": true,
-      "url": "https://gocamping.or.kr/bsite/camp/info/read.do?c_no=47"
-    },
-    {
       "id": "655",
       "title": "늘해랑캠핑장",
       "address": "충청북도 제천시 금성면 중포1안길 89",
@@ -1360,6 +1352,14 @@
       "registered": true,
       "closed": true,
       "url": "https://gocamping.or.kr/bsite/camp/info/read.do?c_no=7135"
+    },
+    {
+      "id": "47",
+      "title": "JB캠핑하우스",
+      "address": "경기도 파주시 적성면 감악산로 1270-74",
+      "registered": true,
+      "closed": true,
+      "url": "https://gocamping.or.kr/bsite/camp/info/read.do?c_no=47"
     },
     {
       "id": "7484",
@@ -1378,20 +1378,20 @@
       "url": "https://gocamping.or.kr/bsite/camp/info/read.do?c_no=3024"
     },
     {
-      "id": "7825",
-      "title": "아로니움글램핑",
-      "address": "인천광역시 강화군 삼산면 삼산남로 85-11",
-      "registered": true,
-      "closed": true,
-      "url": "https://gocamping.or.kr/bsite/camp/info/read.do?c_no=7825"
-    },
-    {
       "id": "7988",
       "title": "광덕그린농원 야영장",
       "address": "강원특별자치도 화천군 사내면 검단길 213-31",
       "registered": true,
       "closed": true,
       "url": "https://gocamping.or.kr/bsite/camp/info/read.do?c_no=7988"
+    },
+    {
+      "id": "7825",
+      "title": "아로니움글램핑",
+      "address": "인천광역시 강화군 삼산면 삼산남로 85-11",
+      "registered": true,
+      "closed": true,
+      "url": "https://gocamping.or.kr/bsite/camp/info/read.do?c_no=7825"
     },
     {
       "id": "3203",
@@ -1562,20 +1562,20 @@
       "url": "https://gocamping.or.kr/bsite/camp/info/read.do?c_no=7389"
     },
     {
-      "id": "7127",
-      "title": "느티나무 캠핑장",
-      "address": "경기도 가평군 북면 목동리 595-2",
-      "registered": true,
-      "closed": true,
-      "url": "https://gocamping.or.kr/bsite/camp/info/read.do?c_no=7127"
-    },
-    {
       "id": "7877",
       "title": "고재 야영장",
       "address": "경기도 양평군 지평면 고재길 108",
       "registered": true,
       "closed": true,
       "url": "https://gocamping.or.kr/bsite/camp/info/read.do?c_no=7877"
+    },
+    {
+      "id": "7127",
+      "title": "느티나무 캠핑장",
+      "address": "경기도 가평군 북면 목동리 595-2",
+      "registered": true,
+      "closed": true,
+      "url": "https://gocamping.or.kr/bsite/camp/info/read.do?c_no=7127"
     },
     {
       "id": "7348",
@@ -1938,20 +1938,20 @@
       "url": "https://gocamping.or.kr/bsite/camp/info/read.do?c_no=8158"
     },
     {
-      "id": "100840",
-      "title": "메아리 캠핑장",
-      "address": "전남광주통합특별시 광양시 다압면 대청길 40",
-      "registered": true,
-      "closed": true,
-      "url": "https://gocamping.or.kr/bsite/camp/info/read.do?c_no=100840"
-    },
-    {
       "id": "100406",
       "title": "힐링캠핑야영장",
       "address": "충청남도 태안군 소원면 연들길 22",
       "registered": true,
       "closed": true,
       "url": "https://gocamping.or.kr/bsite/camp/info/read.do?c_no=100406"
+    },
+    {
+      "id": "100840",
+      "title": "메아리 캠핑장",
+      "address": "전남광주통합특별시 광양시 다압면 대청길 40",
+      "registered": true,
+      "closed": true,
+      "url": "https://gocamping.or.kr/bsite/camp/info/read.do?c_no=100840"
     },
     {
       "id": "100524",
@@ -1994,20 +1994,20 @@
       "url": "https://gocamping.or.kr/bsite/camp/info/read.do?c_no=100806"
     },
     {
-      "id": "100373",
-      "title": "도그랜드 애견글램핑 카라반&자담치킨",
-      "address": "경기도 가평군 조종면 운악청계로 238-84",
-      "registered": true,
-      "closed": true,
-      "url": "https://gocamping.or.kr/bsite/camp/info/read.do?c_no=100373"
-    },
-    {
       "id": "100573",
       "title": "도기도기캠프",
       "address": "강원특별자치도 횡성군 서원면 서원서로150번길 11",
       "registered": true,
       "closed": true,
       "url": "https://gocamping.or.kr/bsite/camp/info/read.do?c_no=100573"
+    },
+    {
+      "id": "100373",
+      "title": "도그랜드 애견글램핑 카라반&자담치킨",
+      "address": "경기도 가평군 조종면 운악청계로 238-84",
+      "registered": true,
+      "closed": true,
+      "url": "https://gocamping.or.kr/bsite/camp/info/read.do?c_no=100373"
     },
     {
       "id": "100446",
@@ -2042,20 +2042,20 @@
       "url": "https://gocamping.or.kr/bsite/camp/info/read.do?c_no=101135"
     },
     {
-      "id": "100651",
-      "title": "수인야영장",
-      "address": "강원특별자치도 양구군 양구읍 소양호로 1086-13",
-      "registered": true,
-      "closed": true,
-      "url": "https://gocamping.or.kr/bsite/camp/info/read.do?c_no=100651"
-    },
-    {
       "id": "100700",
       "title": "칠갑산관광농원",
       "address": "충청남도 청양군 화성면 구숫골길 105-19",
       "registered": true,
       "closed": true,
       "url": "https://gocamping.or.kr/bsite/camp/info/read.do?c_no=100700"
+    },
+    {
+      "id": "100651",
+      "title": "수인야영장",
+      "address": "강원특별자치도 양구군 양구읍 소양호로 1086-13",
+      "registered": true,
+      "closed": true,
+      "url": "https://gocamping.or.kr/bsite/camp/info/read.do?c_no=100651"
     },
     {
       "id": "100331",
@@ -2066,20 +2066,20 @@
       "url": "https://gocamping.or.kr/bsite/camp/info/read.do?c_no=100331"
     },
     {
-      "id": "2049",
-      "title": "약사계곡 캠핑장",
-      "address": "경기도 포천시 이동면 도평리 538-7",
-      "registered": true,
-      "closed": true,
-      "url": "https://gocamping.or.kr/bsite/camp/info/read.do?c_no=2049"
-    },
-    {
       "id": "100430",
       "title": "원시관광농원",
       "address": "강원특별자치도 양양군 현남면 전포매리 90-1",
       "registered": true,
       "closed": true,
       "url": "https://gocamping.or.kr/bsite/camp/info/read.do?c_no=100430"
+    },
+    {
+      "id": "2049",
+      "title": "약사계곡 캠핑장",
+      "address": "경기도 포천시 이동면 도평리 538-7",
+      "registered": true,
+      "closed": true,
+      "url": "https://gocamping.or.kr/bsite/camp/info/read.do?c_no=2049"
     },
     {
       "id": "100506",
@@ -2242,20 +2242,20 @@
       "url": "https://gocamping.or.kr/bsite/camp/info/read.do?c_no=101552"
     },
     {
-      "id": "101542",
-      "title": "Point 365",
-      "address": "강원특별자치도 강릉시 연곡면 진고개로 1687",
-      "registered": true,
-      "closed": true,
-      "url": "https://gocamping.or.kr/bsite/camp/info/read.do?c_no=101542"
-    },
-    {
       "id": "101638",
       "title": "계수나무 힐링숲",
       "address": "강원특별자치도 춘천시 남면 대곡길 20-69",
       "registered": true,
       "closed": true,
       "url": "https://gocamping.or.kr/bsite/camp/info/read.do?c_no=101638"
+    },
+    {
+      "id": "101542",
+      "title": "Point 365",
+      "address": "강원특별자치도 강릉시 연곡면 진고개로 1687",
+      "registered": true,
+      "closed": true,
+      "url": "https://gocamping.or.kr/bsite/camp/info/read.do?c_no=101542"
     },
     {
       "id": "101670",
