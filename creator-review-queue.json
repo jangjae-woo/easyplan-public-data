@@ -1,5 +1,5 @@
 {
-  "checkedAt": "2026-10-25T23:39:27.995Z",
+  "checkedAt": "2026-10-27T00:46:04.679Z",
   "candidates": [
     {
       "videoId": "Vlzn-egT5w8",
@@ -1262,52 +1262,268 @@
       "status": "장소·출연자 확인 대기"
     },
     {
+      "videoId": "Yt6xBvEvKPU",
       "channelId": "UCl23-Cci_SMqyGXE1T_LYUg",
-      "status": "새 영상 조회 실패"
+      "url": "https://www.youtube.com/watch?v=Yt6xBvEvKPU",
+      "status": "장소·출연자 확인 대기"
     },
     {
+      "videoId": "qlfPaVEhOew",
+      "channelId": "UCl23-Cci_SMqyGXE1T_LYUg",
+      "url": "https://www.youtube.com/watch?v=qlfPaVEhOew",
+      "status": "장소·출연자 확인 대기"
+    },
+    {
+      "videoId": "Vv1Ok2ni6VE",
+      "channelId": "UCl23-Cci_SMqyGXE1T_LYUg",
+      "url": "https://www.youtube.com/watch?v=Vv1Ok2ni6VE",
+      "status": "장소·출연자 확인 대기"
+    },
+    {
+      "videoId": "zdvNoLIU3XM",
       "channelId": "UCgiO7Kxib0SZEG0DoeuBkdQ",
-      "status": "새 영상 조회 실패"
+      "url": "https://www.youtube.com/watch?v=zdvNoLIU3XM",
+      "status": "장소·출연자 확인 대기"
     },
     {
+      "videoId": "Oktnx2oT1Q0",
+      "channelId": "UCgiO7Kxib0SZEG0DoeuBkdQ",
+      "url": "https://www.youtube.com/watch?v=Oktnx2oT1Q0",
+      "status": "장소·출연자 확인 대기"
+    },
+    {
+      "videoId": "P8XS8u2FyKQ",
+      "channelId": "UCgiO7Kxib0SZEG0DoeuBkdQ",
+      "url": "https://www.youtube.com/watch?v=P8XS8u2FyKQ",
+      "status": "장소·출연자 확인 대기"
+    },
+    {
+      "videoId": "K4Z5bzmMmWw",
+      "channelId": "UCgiO7Kxib0SZEG0DoeuBkdQ",
+      "url": "https://www.youtube.com/watch?v=K4Z5bzmMmWw",
+      "status": "장소·출연자 확인 대기"
+    },
+    {
+      "videoId": "PgImv-xox80",
       "channelId": "UCYdUe6y0F8TQS6siNVS7QMw",
-      "status": "새 영상 조회 실패"
+      "url": "https://www.youtube.com/watch?v=PgImv-xox80",
+      "status": "장소·출연자 확인 대기"
     },
     {
-      "channelId": "UC-js9KxuyRoB0b9zlKCgsCg",
-      "status": "새 영상 조회 실패"
-    },
-    {
+      "videoId": "-2MyxcQyI0M",
       "channelId": "UCiwQRG2sCcfjKkgxMEdJGPg",
-      "status": "새 영상 조회 실패"
+      "url": "https://www.youtube.com/watch?v=-2MyxcQyI0M",
+      "status": "장소·출연자 확인 대기"
     },
     {
+      "videoId": "0Pbr4-_jvBg",
+      "channelId": "UCiwQRG2sCcfjKkgxMEdJGPg",
+      "url": "https://www.youtube.com/watch?v=0Pbr4-_jvBg",
+      "status": "장소·출연자 확인 대기"
+    },
+    {
+      "videoId": "iKeg0m9V5Qo",
+      "channelId": "UCiwQRG2sCcfjKkgxMEdJGPg",
+      "url": "https://www.youtube.com/watch?v=iKeg0m9V5Qo",
+      "status": "장소·출연자 확인 대기"
+    },
+    {
+      "videoId": "AC5fIqzNALU",
+      "channelId": "UCiwQRG2sCcfjKkgxMEdJGPg",
+      "url": "https://www.youtube.com/watch?v=AC5fIqzNALU",
+      "status": "장소·출연자 확인 대기"
+    },
+    {
+      "videoId": "dNcagWbrxjE",
+      "channelId": "UCiwQRG2sCcfjKkgxMEdJGPg",
+      "url": "https://www.youtube.com/watch?v=dNcagWbrxjE",
+      "status": "장소·출연자 확인 대기"
+    },
+    {
+      "videoId": "KserqVoHsgY",
+      "channelId": "UCiwQRG2sCcfjKkgxMEdJGPg",
+      "url": "https://www.youtube.com/watch?v=KserqVoHsgY",
+      "status": "장소·출연자 확인 대기"
+    },
+    {
+      "videoId": "Z-SlGCJZGE8",
+      "channelId": "UCiwQRG2sCcfjKkgxMEdJGPg",
+      "url": "https://www.youtube.com/watch?v=Z-SlGCJZGE8",
+      "status": "장소·출연자 확인 대기"
+    },
+    {
+      "videoId": "4S7t5RDh43U",
+      "channelId": "UCiwQRG2sCcfjKkgxMEdJGPg",
+      "url": "https://www.youtube.com/watch?v=4S7t5RDh43U",
+      "status": "장소·출연자 확인 대기"
+    },
+    {
+      "videoId": "FXziNk6JwgI",
+      "channelId": "UCiwQRG2sCcfjKkgxMEdJGPg",
+      "url": "https://www.youtube.com/watch?v=FXziNk6JwgI",
+      "status": "장소·출연자 확인 대기"
+    },
+    {
+      "videoId": "Ft7T5xmDzlQ",
+      "channelId": "UCiwQRG2sCcfjKkgxMEdJGPg",
+      "url": "https://www.youtube.com/watch?v=Ft7T5xmDzlQ",
+      "status": "장소·출연자 확인 대기"
+    },
+    {
+      "videoId": "x1KNdberzXs",
+      "channelId": "UCiwQRG2sCcfjKkgxMEdJGPg",
+      "url": "https://www.youtube.com/watch?v=x1KNdberzXs",
+      "status": "장소·출연자 확인 대기"
+    },
+    {
+      "videoId": "3eberK0XU1M",
       "channelId": "UC4ZA57iJrf73bJlApKFeLRw",
-      "status": "새 영상 조회 실패"
+      "url": "https://www.youtube.com/watch?v=3eberK0XU1M",
+      "status": "장소·출연자 확인 대기"
     },
     {
+      "videoId": "kflM1ajaDVo",
+      "channelId": "UC4ZA57iJrf73bJlApKFeLRw",
+      "url": "https://www.youtube.com/watch?v=kflM1ajaDVo",
+      "status": "장소·출연자 확인 대기"
+    },
+    {
+      "videoId": "S4wLpX-LPlI",
       "channelId": "UC-oZBYC-XXCMde-13YjyD2g",
-      "status": "새 영상 조회 실패"
+      "url": "https://www.youtube.com/watch?v=S4wLpX-LPlI",
+      "status": "장소·출연자 확인 대기"
     },
     {
+      "videoId": "QBCqWTECwCs",
+      "channelId": "UC-oZBYC-XXCMde-13YjyD2g",
+      "url": "https://www.youtube.com/watch?v=QBCqWTECwCs",
+      "status": "장소·출연자 확인 대기"
+    },
+    {
+      "videoId": "KL4ndOGh0Aw",
+      "channelId": "UC-oZBYC-XXCMde-13YjyD2g",
+      "url": "https://www.youtube.com/watch?v=KL4ndOGh0Aw",
+      "status": "장소·출연자 확인 대기"
+    },
+    {
+      "videoId": "W3bNUF4PUzA",
+      "channelId": "UC-oZBYC-XXCMde-13YjyD2g",
+      "url": "https://www.youtube.com/watch?v=W3bNUF4PUzA",
+      "status": "장소·출연자 확인 대기"
+    },
+    {
+      "videoId": "vmZWPwEntPg",
+      "channelId": "UC-oZBYC-XXCMde-13YjyD2g",
+      "url": "https://www.youtube.com/watch?v=vmZWPwEntPg",
+      "status": "장소·출연자 확인 대기"
+    },
+    {
+      "videoId": "Vtlj04Fm_1M",
+      "channelId": "UC-oZBYC-XXCMde-13YjyD2g",
+      "url": "https://www.youtube.com/watch?v=Vtlj04Fm_1M",
+      "status": "장소·출연자 확인 대기"
+    },
+    {
+      "videoId": "6dohrrOR8eg",
+      "channelId": "UC-oZBYC-XXCMde-13YjyD2g",
+      "url": "https://www.youtube.com/watch?v=6dohrrOR8eg",
+      "status": "장소·출연자 확인 대기"
+    },
+    {
+      "videoId": "UKDrcp4_NAA",
       "channelId": "UCR9gReM5VhQ_8brqQrBaVCA",
-      "status": "새 영상 조회 실패"
+      "url": "https://www.youtube.com/watch?v=UKDrcp4_NAA",
+      "status": "장소·출연자 확인 대기"
     },
     {
+      "videoId": "r9RVc5CEWAo",
+      "channelId": "UCR9gReM5VhQ_8brqQrBaVCA",
+      "url": "https://www.youtube.com/watch?v=r9RVc5CEWAo",
+      "status": "장소·출연자 확인 대기"
+    },
+    {
+      "videoId": "hzWK_V36NoA",
+      "channelId": "UCR9gReM5VhQ_8brqQrBaVCA",
+      "url": "https://www.youtube.com/watch?v=hzWK_V36NoA",
+      "status": "장소·출연자 확인 대기"
+    },
+    {
+      "videoId": "JeWmGl9p0d4",
+      "channelId": "UCR9gReM5VhQ_8brqQrBaVCA",
+      "url": "https://www.youtube.com/watch?v=JeWmGl9p0d4",
+      "status": "장소·출연자 확인 대기"
+    },
+    {
+      "videoId": "clun8k7w12Q",
+      "channelId": "UCR9gReM5VhQ_8brqQrBaVCA",
+      "url": "https://www.youtube.com/watch?v=clun8k7w12Q",
+      "status": "장소·출연자 확인 대기"
+    },
+    {
+      "videoId": "Ud4fTV1I_XY",
+      "channelId": "UCR9gReM5VhQ_8brqQrBaVCA",
+      "url": "https://www.youtube.com/watch?v=Ud4fTV1I_XY",
+      "status": "장소·출연자 확인 대기"
+    },
+    {
+      "videoId": "Ea13cZ1wWxE",
+      "channelId": "UCR9gReM5VhQ_8brqQrBaVCA",
+      "url": "https://www.youtube.com/watch?v=Ea13cZ1wWxE",
+      "status": "장소·출연자 확인 대기"
+    },
+    {
+      "videoId": "2nKFkuOZMa0",
+      "channelId": "UCR9gReM5VhQ_8brqQrBaVCA",
+      "url": "https://www.youtube.com/watch?v=2nKFkuOZMa0",
+      "status": "장소·출연자 확인 대기"
+    },
+    {
+      "videoId": "RCQuUvKno0s",
+      "channelId": "UCR9gReM5VhQ_8brqQrBaVCA",
+      "url": "https://www.youtube.com/watch?v=RCQuUvKno0s",
+      "status": "장소·출연자 확인 대기"
+    },
+    {
+      "videoId": "awJ4MbAV4MY",
+      "channelId": "UCR9gReM5VhQ_8brqQrBaVCA",
+      "url": "https://www.youtube.com/watch?v=awJ4MbAV4MY",
+      "status": "장소·출연자 확인 대기"
+    },
+    {
+      "videoId": "cAsY-dp7KUs",
+      "channelId": "UCR9gReM5VhQ_8brqQrBaVCA",
+      "url": "https://www.youtube.com/watch?v=cAsY-dp7KUs",
+      "status": "장소·출연자 확인 대기"
+    },
+    {
+      "videoId": "nxAuCwoWY6E",
+      "channelId": "UCR9gReM5VhQ_8brqQrBaVCA",
+      "url": "https://www.youtube.com/watch?v=nxAuCwoWY6E",
+      "status": "장소·출연자 확인 대기"
+    },
+    {
+      "videoId": "Aa8J9UxlyB4",
+      "channelId": "UCR9gReM5VhQ_8brqQrBaVCA",
+      "url": "https://www.youtube.com/watch?v=Aa8J9UxlyB4",
+      "status": "장소·출연자 확인 대기"
+    },
+    {
+      "videoId": "6-GGE172Mqs",
       "channelId": "UCw5X6yzXwIcaSzJAQsL69Ug",
-      "status": "새 영상 조회 실패"
+      "url": "https://www.youtube.com/watch?v=6-GGE172Mqs",
+      "status": "장소·출연자 확인 대기"
     },
     {
+      "videoId": "Ard5zzM6y7w",
       "channelId": "UCax32GiDgtKq8MX2E71pAbQ",
-      "status": "새 영상 조회 실패"
+      "url": "https://www.youtube.com/watch?v=Ard5zzM6y7w",
+      "status": "장소·출연자 확인 대기"
     },
     {
+      "videoId": "TIOpgaQK2eE",
       "channelId": "UCoc4GqwXn6ORvfZXu2JFJlg",
-      "status": "새 영상 조회 실패"
-    },
-    {
-      "channelId": "UCv_LOMb4aleZaOV2aAlGHbQ",
-      "status": "새 영상 조회 실패"
+      "url": "https://www.youtube.com/watch?v=TIOpgaQK2eE",
+      "status": "장소·출연자 확인 대기"
     }
   ]
 }
