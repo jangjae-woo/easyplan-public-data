@@ -1,5 +1,5 @@
 {
-  "checkedAt": "2026-10-28T00:50:46.078Z",
+  "checkedAt": "2026-10-29T01:16:44.926Z",
   "candidates": [
     {
       "videoId": "Vlzn-egT5w8",
@@ -1562,8 +1562,10 @@
       "status": "새 영상 조회 실패"
     },
     {
+      "videoId": "3vvRMoDHTN4",
       "channelId": "UCax32GiDgtKq8MX2E71pAbQ",
-      "status": "새 영상 조회 실패"
+      "url": "https://www.youtube.com/watch?v=3vvRMoDHTN4",
+      "status": "장소·출연자 확인 대기"
     },
     {
       "channelId": "UCoc4GqwXn6ORvfZXu2JFJlg",
