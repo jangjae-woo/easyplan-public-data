@@ -1,5 +1,5 @@
 {
-  "checkedAt": "2026-10-29T01:02:02.099Z",
+  "checkedAt": "2026-10-30T01:06:19.448Z",
   "excluded": [
     {
       "id": "7767",
@@ -994,20 +994,20 @@
       "url": "https://gocamping.or.kr/bsite/camp/info/read.do?c_no=1433"
     },
     {
-      "id": "7314",
-      "title": "국립중앙과학관",
-      "address": "대전광역시 유성구 대덕대로 481 (구성동)",
-      "registered": true,
-      "closed": true,
-      "url": "https://gocamping.or.kr/bsite/camp/info/read.do?c_no=7314"
-    },
-    {
       "id": "1293",
       "title": "버디버디",
       "address": "충청남도 태안군 남면 진산1길 277-200",
       "registered": true,
       "closed": true,
       "url": "https://gocamping.or.kr/bsite/camp/info/read.do?c_no=1293"
+    },
+    {
+      "id": "7314",
+      "title": "국립중앙과학관",
+      "address": "대전광역시 유성구 대덕대로 481 (구성동)",
+      "registered": true,
+      "closed": true,
+      "url": "https://gocamping.or.kr/bsite/camp/info/read.do?c_no=7314"
     },
     {
       "id": "7858",
@@ -1210,20 +1210,20 @@
       "url": "https://gocamping.or.kr/bsite/camp/info/read.do?c_no=728"
     },
     {
-      "id": "36",
-      "title": "Camp 1950 by 민들레울",
-      "address": "경상북도 김천시 대덕면 남김천대로 160",
-      "registered": true,
-      "closed": true,
-      "url": "https://gocamping.or.kr/bsite/camp/info/read.do?c_no=36"
-    },
-    {
       "id": "1045",
       "title": "매화둠벙마을영농조합법인",
       "address": "충청남도 태안군 원북면 동해길 301-41",
       "registered": true,
       "closed": true,
       "url": "https://gocamping.or.kr/bsite/camp/info/read.do?c_no=1045"
+    },
+    {
+      "id": "36",
+      "title": "Camp 1950 by 민들레울",
+      "address": "경상북도 김천시 대덕면 남김천대로 160",
+      "registered": true,
+      "closed": true,
+      "url": "https://gocamping.or.kr/bsite/camp/info/read.do?c_no=36"
     },
     {
       "id": "3028",
@@ -1442,20 +1442,20 @@
       "url": "https://gocamping.or.kr/bsite/camp/info/read.do?c_no=3203"
     },
     {
-      "id": "2311",
-      "title": "오크캠핑",
-      "address": "강원특별자치도 원주시 지정면 송정로 2-1",
-      "registered": true,
-      "closed": true,
-      "url": "https://gocamping.or.kr/bsite/camp/info/read.do?c_no=2311"
-    },
-    {
       "id": "548",
       "title": "나봄야영장",
       "address": "전북특별자치도 장수군 천천면 남양리 299-2",
       "registered": true,
       "closed": true,
       "url": "https://gocamping.or.kr/bsite/camp/info/read.do?c_no=548"
+    },
+    {
+      "id": "2311",
+      "title": "오크캠핑",
+      "address": "강원특별자치도 원주시 지정면 송정로 2-1",
+      "registered": true,
+      "closed": true,
+      "url": "https://gocamping.or.kr/bsite/camp/info/read.do?c_no=2311"
     },
     {
       "id": "7414",
@@ -1530,20 +1530,20 @@
       "url": "https://gocamping.or.kr/bsite/camp/info/read.do?c_no=7291"
     },
     {
-      "id": "6864",
-      "title": "와글와글 캠핑스토리 캠프산음",
-      "address": "경기도 양평군 단월면 석산로 837",
-      "registered": true,
-      "closed": true,
-      "url": "https://gocamping.or.kr/bsite/camp/info/read.do?c_no=6864"
-    },
-    {
       "id": "7971",
       "title": "솔미캠핑장",
       "address": "강원특별자치도 정선군 임계면 반천고양로 12",
       "registered": true,
       "closed": true,
       "url": "https://gocamping.or.kr/bsite/camp/info/read.do?c_no=7971"
+    },
+    {
+      "id": "6864",
+      "title": "와글와글 캠핑스토리 캠프산음",
+      "address": "경기도 양평군 단월면 석산로 837",
+      "registered": true,
+      "closed": true,
+      "url": "https://gocamping.or.kr/bsite/camp/info/read.do?c_no=6864"
     },
     {
       "id": "7776",
@@ -1954,20 +1954,20 @@
       "url": "https://gocamping.or.kr/bsite/camp/info/read.do?c_no=100698"
     },
     {
-      "id": "100085",
-      "title": "큰빛내 야영장",
-      "address": "경상북도 울진군 금강송면 소광리 127-3",
-      "registered": true,
-      "closed": true,
-      "url": "https://gocamping.or.kr/bsite/camp/info/read.do?c_no=100085"
-    },
-    {
       "id": "101318",
       "title": "남한산 숲속캠핑장",
       "address": "경기도 광주시 남한산성면 남한산성로 314-19",
       "registered": true,
       "closed": true,
       "url": "https://gocamping.or.kr/bsite/camp/info/read.do?c_no=101318"
+    },
+    {
+      "id": "100085",
+      "title": "큰빛내 야영장",
+      "address": "경상북도 울진군 금강송면 소광리 127-3",
+      "registered": true,
+      "closed": true,
+      "url": "https://gocamping.or.kr/bsite/camp/info/read.do?c_no=100085"
     },
     {
       "id": "100426",
@@ -1978,20 +1978,20 @@
       "url": "https://gocamping.or.kr/bsite/camp/info/read.do?c_no=100426"
     },
     {
-      "id": "8158",
-      "title": "해씨유",
-      "address": "충청남도 보령시 오천면 원산도리 1671-79",
-      "registered": true,
-      "closed": true,
-      "url": "https://gocamping.or.kr/bsite/camp/info/read.do?c_no=8158"
-    },
-    {
       "id": "100406",
       "title": "힐링캠핑야영장",
       "address": "충청남도 태안군 소원면 연들길 22",
       "registered": true,
       "closed": true,
       "url": "https://gocamping.or.kr/bsite/camp/info/read.do?c_no=100406"
+    },
+    {
+      "id": "8158",
+      "title": "해씨유",
+      "address": "충청남도 보령시 오천면 원산도리 1671-79",
+      "registered": true,
+      "closed": true,
+      "url": "https://gocamping.or.kr/bsite/camp/info/read.do?c_no=8158"
     },
     {
       "id": "100840",
