@@ -1,5 +1,5 @@
 {
-  "checkedAt": "2026-10-30T01:06:19.448Z",
+  "checkedAt": "2026-10-31T00:51:11.754Z",
   "excluded": [
     {
       "id": "7767",
@@ -154,20 +154,20 @@
       "url": "https://gocamping.or.kr/bsite/camp/info/read.do?c_no=6819"
     },
     {
-      "id": "3174",
-      "title": "파라다이스 캠핑장",
-      "address": "경상남도 통영시 욕지면 유동길 111",
-      "registered": true,
-      "closed": true,
-      "url": "https://gocamping.or.kr/bsite/camp/info/read.do?c_no=3174"
-    },
-    {
       "id": "77",
       "title": "팔공산 국립공원 가산산성 야영장",
       "address": "경상북도 칠곡군 동명면 한티로 1034",
       "registered": true,
       "closed": true,
       "url": "https://gocamping.or.kr/bsite/camp/info/read.do?c_no=77"
+    },
+    {
+      "id": "3174",
+      "title": "파라다이스 캠핑장",
+      "address": "경상남도 통영시 욕지면 유동길 111",
+      "registered": true,
+      "closed": true,
+      "url": "https://gocamping.or.kr/bsite/camp/info/read.do?c_no=3174"
     },
     {
       "id": "2355",
@@ -330,20 +330,20 @@
       "url": "https://gocamping.or.kr/bsite/camp/info/read.do?c_no=774"
     },
     {
-      "id": "2038",
-      "title": "알프스농원캠핑장",
-      "address": "경기도 포천시 창수면 추동리 821-10",
-      "registered": true,
-      "closed": true,
-      "url": "https://gocamping.or.kr/bsite/camp/info/read.do?c_no=2038"
-    },
-    {
       "id": "70",
       "title": "가래골농원 캠핑장",
       "address": "경기도 포천시 창수면 포천로2811번길 178",
       "registered": true,
       "closed": true,
       "url": "https://gocamping.or.kr/bsite/camp/info/read.do?c_no=70"
+    },
+    {
+      "id": "2038",
+      "title": "알프스농원캠핑장",
+      "address": "경기도 포천시 창수면 추동리 821-10",
+      "registered": true,
+      "closed": true,
+      "url": "https://gocamping.or.kr/bsite/camp/info/read.do?c_no=2038"
     },
     {
       "id": "2966",
@@ -714,20 +714,20 @@
       "url": "https://gocamping.or.kr/bsite/camp/info/read.do?c_no=7165"
     },
     {
-      "id": "100031",
-      "title": "화성시 매송 오토캠핑장",
-      "address": "경기도 화성시 효행구 매송면 어천리 164",
-      "registered": true,
-      "closed": true,
-      "url": "https://gocamping.or.kr/bsite/camp/info/read.do?c_no=100031"
-    },
-    {
       "id": "1706",
       "title": "가래골농원 캠핑장2",
       "address": "경기도 포천시 창수면 포천로2811번길 152-70",
       "registered": true,
       "closed": true,
       "url": "https://gocamping.or.kr/bsite/camp/info/read.do?c_no=1706"
+    },
+    {
+      "id": "100031",
+      "title": "화성시 매송 오토캠핑장",
+      "address": "경기도 화성시 효행구 매송면 어천리 164",
+      "registered": true,
+      "closed": true,
+      "url": "https://gocamping.or.kr/bsite/camp/info/read.do?c_no=100031"
     },
     {
       "id": "2143",
@@ -1026,20 +1026,20 @@
       "url": "https://gocamping.or.kr/bsite/camp/info/read.do?c_no=2005"
     },
     {
-      "id": "8189",
-      "title": "거북선마을 캠핑장",
-      "address": "경상남도 사천시 용현면 사천대교로 75-61",
-      "registered": true,
-      "closed": true,
-      "url": "https://gocamping.or.kr/bsite/camp/info/read.do?c_no=8189"
-    },
-    {
       "id": "7628",
       "title": "산유리캠핑장",
       "address": "경기도 가평군 가평읍 분자골로 91",
       "registered": true,
       "closed": true,
       "url": "https://gocamping.or.kr/bsite/camp/info/read.do?c_no=7628"
+    },
+    {
+      "id": "8189",
+      "title": "거북선마을 캠핑장",
+      "address": "경상남도 사천시 용현면 사천대교로 75-61",
+      "registered": true,
+      "closed": true,
+      "url": "https://gocamping.or.kr/bsite/camp/info/read.do?c_no=8189"
     },
     {
       "id": "1317",
@@ -1210,20 +1210,20 @@
       "url": "https://gocamping.or.kr/bsite/camp/info/read.do?c_no=728"
     },
     {
-      "id": "1045",
-      "title": "매화둠벙마을영농조합법인",
-      "address": "충청남도 태안군 원북면 동해길 301-41",
-      "registered": true,
-      "closed": true,
-      "url": "https://gocamping.or.kr/bsite/camp/info/read.do?c_no=1045"
-    },
-    {
       "id": "36",
       "title": "Camp 1950 by 민들레울",
       "address": "경상북도 김천시 대덕면 남김천대로 160",
       "registered": true,
       "closed": true,
       "url": "https://gocamping.or.kr/bsite/camp/info/read.do?c_no=36"
+    },
+    {
+      "id": "1045",
+      "title": "매화둠벙마을영농조합법인",
+      "address": "충청남도 태안군 원북면 동해길 301-41",
+      "registered": true,
+      "closed": true,
+      "url": "https://gocamping.or.kr/bsite/camp/info/read.do?c_no=1045"
     },
     {
       "id": "3028",
@@ -1298,20 +1298,20 @@
       "url": "https://gocamping.or.kr/bsite/camp/info/read.do?c_no=7411"
     },
     {
-      "id": "7498",
-      "title": "합천은하수글램핑&카라반",
-      "address": "경상남도 합천군 용주면 고품길 42",
-      "registered": true,
-      "closed": true,
-      "url": "https://gocamping.or.kr/bsite/camp/info/read.do?c_no=7498"
-    },
-    {
       "id": "7383",
       "title": "청풍명월",
       "address": "강원특별자치도 영월군 무릉도원면 도원운학로 591",
       "registered": true,
       "closed": true,
       "url": "https://gocamping.or.kr/bsite/camp/info/read.do?c_no=7383"
+    },
+    {
+      "id": "7498",
+      "title": "합천은하수글램핑&카라반",
+      "address": "경상남도 합천군 용주면 고품길 42",
+      "registered": true,
+      "closed": true,
+      "url": "https://gocamping.or.kr/bsite/camp/info/read.do?c_no=7498"
     },
     {
       "id": "2729",
@@ -2522,20 +2522,20 @@
       "url": "https://gocamping.or.kr/bsite/camp/info/read.do?c_no=102223"
     },
     {
-      "id": "102277",
-      "title": "도원리 마을관리휴양지 야영장",
-      "address": "강원특별자치도 고성군 토성면 도원리 495-42",
-      "registered": true,
-      "closed": true,
-      "url": "https://gocamping.or.kr/bsite/camp/info/read.do?c_no=102277"
-    },
-    {
       "id": "102279",
       "title": "아산별곡캠핑장",
       "address": "충청남도 서산시 지곡면 도성로 62",
       "registered": true,
       "closed": true,
       "url": "https://gocamping.or.kr/bsite/camp/info/read.do?c_no=102279"
+    },
+    {
+      "id": "102277",
+      "title": "도원리 마을관리휴양지 야영장",
+      "address": "강원특별자치도 고성군 토성면 도원리 495-42",
+      "registered": true,
+      "closed": true,
+      "url": "https://gocamping.or.kr/bsite/camp/info/read.do?c_no=102277"
     },
     {
       "id": "102255",
@@ -2611,6 +2611,16 @@
       "id": "1353",
       "title": "별찌 야영장",
       "reason": "국내 좌표 확인 실패"
+    },
+    {
+      "id": "100159",
+      "title": "보물나라캠프",
+      "reason": "fetch failed"
+    },
+    {
+      "id": "8131",
+      "title": "금계관광농원",
+      "reason": "fetch failed"
     },
     {
       "id": "101722",

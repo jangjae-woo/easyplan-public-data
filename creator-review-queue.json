@@ -1,5 +1,5 @@
 {
-  "checkedAt": "2026-10-30T01:19:00.991Z",
+  "checkedAt": "2026-10-31T01:03:44.251Z",
   "candidates": [
     {
       "videoId": "Vlzn-egT5w8",
@@ -1586,10 +1586,6 @@
       "status": "장소·출연자 확인 대기"
     },
     {
-      "channelId": "UCYdUe6y0F8TQS6siNVS7QMw",
-      "status": "새 영상 조회 실패"
-    },
-    {
       "videoId": "dZw9pGInm5I",
       "channelId": "UCiwQRG2sCcfjKkgxMEdJGPg",
       "url": "https://www.youtube.com/watch?v=dZw9pGInm5I",
@@ -1758,11 +1754,51 @@
       "status": "장소·출연자 확인 대기"
     },
     {
+      "channelId": "UCl23-Cci_SMqyGXE1T_LYUg",
+      "status": "새 영상 조회 실패"
+    },
+    {
+      "channelId": "UCgiO7Kxib0SZEG0DoeuBkdQ",
+      "status": "새 영상 조회 실패"
+    },
+    {
+      "channelId": "UCYdUe6y0F8TQS6siNVS7QMw",
+      "status": "새 영상 조회 실패"
+    },
+    {
+      "channelId": "UC-js9KxuyRoB0b9zlKCgsCg",
+      "status": "새 영상 조회 실패"
+    },
+    {
+      "channelId": "UCiwQRG2sCcfjKkgxMEdJGPg",
+      "status": "새 영상 조회 실패"
+    },
+    {
+      "channelId": "UC4ZA57iJrf73bJlApKFeLRw",
+      "status": "새 영상 조회 실패"
+    },
+    {
+      "channelId": "UC-oZBYC-XXCMde-13YjyD2g",
+      "status": "새 영상 조회 실패"
+    },
+    {
       "channelId": "UCR9gReM5VhQ_8brqQrBaVCA",
       "status": "새 영상 조회 실패"
     },
     {
+      "channelId": "UCw5X6yzXwIcaSzJAQsL69Ug",
+      "status": "새 영상 조회 실패"
+    },
+    {
       "channelId": "UCax32GiDgtKq8MX2E71pAbQ",
+      "status": "새 영상 조회 실패"
+    },
+    {
+      "channelId": "UCoc4GqwXn6ORvfZXu2JFJlg",
+      "status": "새 영상 조회 실패"
+    },
+    {
+      "channelId": "UCv_LOMb4aleZaOV2aAlGHbQ",
       "status": "새 영상 조회 실패"
     }
   ]
