@@ -1,5 +1,5 @@
 {
-  "checkedAt": "2026-10-31T00:51:11.754Z",
+  "checkedAt": "2026-11-01T00:12:20.877Z",
   "excluded": [
     {
       "id": "7767",
@@ -330,20 +330,20 @@
       "url": "https://gocamping.or.kr/bsite/camp/info/read.do?c_no=774"
     },
     {
-      "id": "70",
-      "title": "가래골농원 캠핑장",
-      "address": "경기도 포천시 창수면 포천로2811번길 178",
-      "registered": true,
-      "closed": true,
-      "url": "https://gocamping.or.kr/bsite/camp/info/read.do?c_no=70"
-    },
-    {
       "id": "2038",
       "title": "알프스농원캠핑장",
       "address": "경기도 포천시 창수면 추동리 821-10",
       "registered": true,
       "closed": true,
       "url": "https://gocamping.or.kr/bsite/camp/info/read.do?c_no=2038"
+    },
+    {
+      "id": "70",
+      "title": "가래골농원 캠핑장",
+      "address": "경기도 포천시 창수면 포천로2811번길 178",
+      "registered": true,
+      "closed": true,
+      "url": "https://gocamping.or.kr/bsite/camp/info/read.do?c_no=70"
     },
     {
       "id": "2966",
@@ -994,20 +994,20 @@
       "url": "https://gocamping.or.kr/bsite/camp/info/read.do?c_no=1433"
     },
     {
-      "id": "1293",
-      "title": "버디버디",
-      "address": "충청남도 태안군 남면 진산1길 277-200",
-      "registered": true,
-      "closed": true,
-      "url": "https://gocamping.or.kr/bsite/camp/info/read.do?c_no=1293"
-    },
-    {
       "id": "7314",
       "title": "국립중앙과학관",
       "address": "대전광역시 유성구 대덕대로 481 (구성동)",
       "registered": true,
       "closed": true,
       "url": "https://gocamping.or.kr/bsite/camp/info/read.do?c_no=7314"
+    },
+    {
+      "id": "1293",
+      "title": "버디버디",
+      "address": "충청남도 태안군 남면 진산1길 277-200",
+      "registered": true,
+      "closed": true,
+      "url": "https://gocamping.or.kr/bsite/camp/info/read.do?c_no=1293"
     },
     {
       "id": "7858",
@@ -1082,20 +1082,20 @@
       "url": "https://gocamping.or.kr/bsite/camp/info/read.do?c_no=3263"
     },
     {
-      "id": "6841",
-      "title": "참나무숲 오토캠핑장",
-      "address": "경상북도 청도군 운문면 운문로 1033-33",
-      "registered": true,
-      "closed": true,
-      "url": "https://gocamping.or.kr/bsite/camp/info/read.do?c_no=6841"
-    },
-    {
       "id": "179",
       "title": "정선 삼시세끼 스쿨 캠핑장",
       "address": "강원특별자치도 정선군 남면 광락로 507 남선초등학교 낙동분교",
       "registered": true,
       "closed": true,
       "url": "https://gocamping.or.kr/bsite/camp/info/read.do?c_no=179"
+    },
+    {
+      "id": "6841",
+      "title": "참나무숲 오토캠핑장",
+      "address": "경상북도 청도군 운문면 운문로 1033-33",
+      "registered": true,
+      "closed": true,
+      "url": "https://gocamping.or.kr/bsite/camp/info/read.do?c_no=6841"
     },
     {
       "id": "8120",
@@ -1178,20 +1178,20 @@
       "url": "https://gocamping.or.kr/bsite/camp/info/read.do?c_no=3610"
     },
     {
-      "id": "7078",
-      "title": "파인 관광농원",
-      "address": "경기도 여주시 가남읍 경충대로 1483-25",
-      "registered": true,
-      "closed": true,
-      "url": "https://gocamping.or.kr/bsite/camp/info/read.do?c_no=7078"
-    },
-    {
       "id": "7440",
       "title": "덕룡산 캠핑장",
       "address": "전남광주통합특별시 강진군 도암면 봉황로 616",
       "registered": true,
       "closed": true,
       "url": "https://gocamping.or.kr/bsite/camp/info/read.do?c_no=7440"
+    },
+    {
+      "id": "7078",
+      "title": "파인 관광농원",
+      "address": "경기도 여주시 가남읍 경충대로 1483-25",
+      "registered": true,
+      "closed": true,
+      "url": "https://gocamping.or.kr/bsite/camp/info/read.do?c_no=7078"
     },
     {
       "id": "7336",
@@ -2098,20 +2098,20 @@
       "url": "https://gocamping.or.kr/bsite/camp/info/read.do?c_no=100651"
     },
     {
-      "id": "101135",
-      "title": "두리랜드 공룡카라반파크",
-      "address": "경기도 양주시 장흥면 권율로 120-1",
-      "registered": true,
-      "closed": true,
-      "url": "https://gocamping.or.kr/bsite/camp/info/read.do?c_no=101135"
-    },
-    {
       "id": "100430",
       "title": "원시관광농원",
       "address": "강원특별자치도 양양군 현남면 전포매리 90-1",
       "registered": true,
       "closed": true,
       "url": "https://gocamping.or.kr/bsite/camp/info/read.do?c_no=100430"
+    },
+    {
+      "id": "101135",
+      "title": "두리랜드 공룡카라반파크",
+      "address": "경기도 양주시 장흥면 권율로 120-1",
+      "registered": true,
+      "closed": true,
+      "url": "https://gocamping.or.kr/bsite/camp/info/read.do?c_no=101135"
     },
     {
       "id": "100331",
@@ -2611,16 +2611,6 @@
       "id": "1353",
       "title": "별찌 야영장",
       "reason": "국내 좌표 확인 실패"
-    },
-    {
-      "id": "100159",
-      "title": "보물나라캠프",
-      "reason": "fetch failed"
-    },
-    {
-      "id": "8131",
-      "title": "금계관광농원",
-      "reason": "fetch failed"
     },
     {
       "id": "101722",
