@@ -1,5 +1,5 @@
 {
-  "checkedAt": "2026-11-04T01:27:18.698Z",
+  "checkedAt": "2026-11-05T01:30:35.440Z",
   "excluded": [
     {
       "id": "7767",
@@ -472,6 +472,14 @@
       "registered": true,
       "closed": true,
       "url": "https://gocamping.or.kr/bsite/camp/info/read.do?c_no=1291"
+    },
+    {
+      "id": "7195",
+      "title": "유명산힐링캠프",
+      "address": "경기도 가평군 설악면 어비산길 201-62",
+      "registered": true,
+      "closed": true,
+      "url": "https://gocamping.or.kr/bsite/camp/info/read.do?c_no=7195"
     },
     {
       "id": "7563",
@@ -994,20 +1002,20 @@
       "url": "https://gocamping.or.kr/bsite/camp/info/read.do?c_no=1433"
     },
     {
-      "id": "1293",
-      "title": "버디버디",
-      "address": "충청남도 태안군 남면 진산1길 277-200",
-      "registered": true,
-      "closed": true,
-      "url": "https://gocamping.or.kr/bsite/camp/info/read.do?c_no=1293"
-    },
-    {
       "id": "7314",
       "title": "국립중앙과학관",
       "address": "대전광역시 유성구 대덕대로 481 (구성동)",
       "registered": true,
       "closed": true,
       "url": "https://gocamping.or.kr/bsite/camp/info/read.do?c_no=7314"
+    },
+    {
+      "id": "1293",
+      "title": "버디버디",
+      "address": "충청남도 태안군 남면 진산1길 277-200",
+      "registered": true,
+      "closed": true,
+      "url": "https://gocamping.or.kr/bsite/camp/info/read.do?c_no=1293"
     },
     {
       "id": "7858",
@@ -1186,20 +1194,20 @@
       "url": "https://gocamping.or.kr/bsite/camp/info/read.do?c_no=7440"
     },
     {
-      "id": "7078",
-      "title": "파인 관광농원",
-      "address": "경기도 여주시 가남읍 경충대로 1483-25",
-      "registered": true,
-      "closed": true,
-      "url": "https://gocamping.or.kr/bsite/camp/info/read.do?c_no=7078"
-    },
-    {
       "id": "3610",
       "title": "흥부골 자연휴양림",
       "address": "전북특별자치도 남원시 인월면 구인월길 125",
       "registered": true,
       "closed": true,
       "url": "https://gocamping.or.kr/bsite/camp/info/read.do?c_no=3610"
+    },
+    {
+      "id": "7078",
+      "title": "파인 관광농원",
+      "address": "경기도 여주시 가남읍 경충대로 1483-25",
+      "registered": true,
+      "closed": true,
+      "url": "https://gocamping.or.kr/bsite/camp/info/read.do?c_no=7078"
     },
     {
       "id": "7336",
@@ -1250,20 +1258,20 @@
       "url": "https://gocamping.or.kr/bsite/camp/info/read.do?c_no=3028"
     },
     {
-      "id": "7198",
-      "title": "은석캠핑장",
-      "address": "강원특별자치도 정선군 신동읍 곰봉길 120",
-      "registered": true,
-      "closed": true,
-      "url": "https://gocamping.or.kr/bsite/camp/info/read.do?c_no=7198"
-    },
-    {
       "id": "3047",
       "title": "캠프도고",
       "address": "충청남도 아산시 선장면 삼봉로 70",
       "registered": true,
       "closed": true,
       "url": "https://gocamping.or.kr/bsite/camp/info/read.do?c_no=3047"
+    },
+    {
+      "id": "7198",
+      "title": "은석캠핑장",
+      "address": "강원특별자치도 정선군 신동읍 곰봉길 120",
+      "registered": true,
+      "closed": true,
+      "url": "https://gocamping.or.kr/bsite/camp/info/read.do?c_no=7198"
     },
     {
       "id": "6990",
@@ -1274,20 +1282,20 @@
       "url": "https://gocamping.or.kr/bsite/camp/info/read.do?c_no=6990"
     },
     {
-      "id": "849",
-      "title": "돌고래오토캠핑장",
-      "address": "충청남도 태안군 남면 몽대로 512-21",
-      "registered": true,
-      "closed": true,
-      "url": "https://gocamping.or.kr/bsite/camp/info/read.do?c_no=849"
-    },
-    {
       "id": "2579",
       "title": "인제 아리캠핑장",
       "address": "강원특별자치도 인제군 인제읍 광치령로 306",
       "registered": true,
       "closed": true,
       "url": "https://gocamping.or.kr/bsite/camp/info/read.do?c_no=2579"
+    },
+    {
+      "id": "849",
+      "title": "돌고래오토캠핑장",
+      "address": "충청남도 태안군 남면 몽대로 512-21",
+      "registered": true,
+      "closed": true,
+      "url": "https://gocamping.or.kr/bsite/camp/info/read.do?c_no=849"
     },
     {
       "id": "7850",
@@ -1322,20 +1330,20 @@
       "url": "https://gocamping.or.kr/bsite/camp/info/read.do?c_no=7383"
     },
     {
-      "id": "7498",
-      "title": "합천은하수글램핑&카라반",
-      "address": "경상남도 합천군 용주면 고품길 42",
-      "registered": true,
-      "closed": true,
-      "url": "https://gocamping.or.kr/bsite/camp/info/read.do?c_no=7498"
-    },
-    {
       "id": "2729",
       "title": "제주파인비치 카라반",
       "address": "제주특별자치도 서귀포시 남원읍 태위로 976-10",
       "registered": true,
       "closed": true,
       "url": "https://gocamping.or.kr/bsite/camp/info/read.do?c_no=2729"
+    },
+    {
+      "id": "7498",
+      "title": "합천은하수글램핑&카라반",
+      "address": "경상남도 합천군 용주면 고품길 42",
+      "registered": true,
+      "closed": true,
+      "url": "https://gocamping.or.kr/bsite/camp/info/read.do?c_no=7498"
     },
     {
       "id": "2695",
@@ -1554,20 +1562,20 @@
       "url": "https://gocamping.or.kr/bsite/camp/info/read.do?c_no=2912"
     },
     {
-      "id": "7291",
-      "title": "클럽레스피아in삽교바다공원",
-      "address": "충청남도 당진시 신평면 산정길 93",
-      "registered": true,
-      "closed": true,
-      "url": "https://gocamping.or.kr/bsite/camp/info/read.do?c_no=7291"
-    },
-    {
       "id": "7971",
       "title": "솔미캠핑장",
       "address": "강원특별자치도 정선군 임계면 반천고양로 12",
       "registered": true,
       "closed": true,
       "url": "https://gocamping.or.kr/bsite/camp/info/read.do?c_no=7971"
+    },
+    {
+      "id": "7291",
+      "title": "클럽레스피아in삽교바다공원",
+      "address": "충청남도 당진시 신평면 산정길 93",
+      "registered": true,
+      "closed": true,
+      "url": "https://gocamping.or.kr/bsite/camp/info/read.do?c_no=7291"
     },
     {
       "id": "6864",
@@ -1986,20 +1994,20 @@
       "url": "https://gocamping.or.kr/bsite/camp/info/read.do?c_no=100981"
     },
     {
-      "id": "100354",
-      "title": "소풍",
-      "address": "충청북도 진천군 광혜원면 화랑길 64-11",
-      "registered": true,
-      "closed": true,
-      "url": "https://gocamping.or.kr/bsite/camp/info/read.do?c_no=100354"
-    },
-    {
       "id": "100698",
       "title": "법수치오토캠핑장",
       "address": "강원특별자치도 양양군 현북면 법수치길 965",
       "registered": true,
       "closed": true,
       "url": "https://gocamping.or.kr/bsite/camp/info/read.do?c_no=100698"
+    },
+    {
+      "id": "100354",
+      "title": "소풍",
+      "address": "충청북도 진천군 광혜원면 화랑길 64-11",
+      "registered": true,
+      "closed": true,
+      "url": "https://gocamping.or.kr/bsite/camp/info/read.do?c_no=100354"
     },
     {
       "id": "101318",
@@ -2050,20 +2058,20 @@
       "url": "https://gocamping.or.kr/bsite/camp/info/read.do?c_no=100840"
     },
     {
-      "id": "100524",
-      "title": "평화누리체험장",
-      "address": "경기도 연천군 장남면 원당로87번길 34",
-      "registered": true,
-      "closed": true,
-      "url": "https://gocamping.or.kr/bsite/camp/info/read.do?c_no=100524"
-    },
-    {
       "id": "100277",
       "title": "모란골관광농원",
       "address": "강원특별자치도 인제군 북면 모란골길 131",
       "registered": true,
       "closed": true,
       "url": "https://gocamping.or.kr/bsite/camp/info/read.do?c_no=100277"
+    },
+    {
+      "id": "100524",
+      "title": "평화누리체험장",
+      "address": "경기도 연천군 장남면 원당로87번길 34",
+      "registered": true,
+      "closed": true,
+      "url": "https://gocamping.or.kr/bsite/camp/info/read.do?c_no=100524"
     },
     {
       "id": "100669",
@@ -2106,20 +2114,20 @@
       "url": "https://gocamping.or.kr/bsite/camp/info/read.do?c_no=100373"
     },
     {
-      "id": "100446",
-      "title": "아르테오스 빌리지",
-      "address": "경기도 용인시 처인구 이동읍 백자로260번길 6-2",
-      "registered": true,
-      "closed": true,
-      "url": "https://gocamping.or.kr/bsite/camp/info/read.do?c_no=100446"
-    },
-    {
       "id": "100761",
       "title": "클럽아일랜드 글램핑카라반",
       "address": "경기도 포천시 신북면 지동길 199-10",
       "registered": true,
       "closed": true,
       "url": "https://gocamping.or.kr/bsite/camp/info/read.do?c_no=100761"
+    },
+    {
+      "id": "100446",
+      "title": "아르테오스 빌리지",
+      "address": "경기도 용인시 처인구 이동읍 백자로260번길 6-2",
+      "registered": true,
+      "closed": true,
+      "url": "https://gocamping.or.kr/bsite/camp/info/read.do?c_no=100446"
     },
     {
       "id": "100867",
@@ -2654,19 +2662,2774 @@
       "reason": "국내 좌표 확인 실패"
     },
     {
+      "id": "1833",
+      "title": "수승대야영장",
+      "reason": "HTTP 429"
+    },
+    {
+      "id": "7035",
+      "title": "워렉스 캠핑랜드",
+      "reason": "HTTP 429"
+    },
+    {
+      "id": "767",
+      "title": "용인 대장금파크 캠핑장",
+      "reason": "HTTP 429"
+    },
+    {
+      "id": "1533",
+      "title": "산청별천지캠핑장",
+      "reason": "HTTP 429"
+    },
+    {
+      "id": "7304",
+      "title": "인천대공원 캠핑장",
+      "reason": "HTTP 429"
+    },
+    {
+      "id": "630",
+      "title": "농업회사법인 주식회사 태신목장 예산지점",
+      "reason": "HTTP 429"
+    },
+    {
+      "id": "7981",
+      "title": "별빛밤바다",
+      "reason": "HTTP 429"
+    },
+    {
+      "id": "337",
+      "title": "괴강국민여가캠핑장",
+      "reason": "HTTP 429"
+    },
+    {
+      "id": "689",
+      "title": "단호샌드파크 캠핑장",
+      "reason": "HTTP 429"
+    },
+    {
+      "id": "7590",
+      "title": "백미리 희망캠핑장",
+      "reason": "HTTP 429"
+    },
+    {
+      "id": "6953",
+      "title": "각흘계곡캠핑장",
+      "reason": "HTTP 429"
+    },
+    {
+      "id": "1141",
+      "title": "문장대오토캠핑장",
+      "reason": "HTTP 429"
+    },
+    {
+      "id": "7300",
+      "title": "장안캠프",
+      "reason": "HTTP 429"
+    },
+    {
+      "id": "7868",
+      "title": "서울 서초 글램핑 청계산장",
+      "reason": "HTTP 429"
+    },
+    {
+      "id": "2538",
+      "title": "엘리시안 강촌 캠핑파크",
+      "reason": "HTTP 429"
+    },
+    {
+      "id": "1382",
+      "title": "봉수대오토캠핑장",
+      "reason": "HTTP 429"
+    },
+    {
+      "id": "1692",
+      "title": "성주자연오토캠핑장",
+      "reason": "HTTP 429"
+    },
+    {
+      "id": "2563",
+      "title": "대신 오토 캠핑장",
+      "reason": "HTTP 429"
+    },
+    {
+      "id": "2652",
+      "title": "장령산자연휴양림 야영장",
+      "reason": "HTTP 429"
+    },
+    {
+      "id": "1131",
+      "title": "문경히든벨리오토캠핑장",
+      "reason": "HTTP 429"
+    },
+    {
+      "id": "1628",
+      "title": "서천 금빛노을 서울캠핑장",
+      "reason": "HTTP 429"
+    },
+    {
+      "id": "76",
+      "title": "가산글램핑",
+      "reason": "HTTP 429"
+    },
+    {
+      "id": "2895",
+      "title": "청도군 자전거공원 캠핑장",
+      "reason": "HTTP 429"
+    },
+    {
+      "id": "267",
+      "title": "상족암오토캠핑장",
+      "reason": "HTTP 429"
+    },
+    {
+      "id": "2793",
+      "title": "증산수도계곡캠핑장",
+      "reason": "HTTP 429"
+    },
+    {
+      "id": "7548",
+      "title": "몽산포오토캠핑장",
+      "reason": "HTTP 429"
+    },
+    {
+      "id": "3587",
+      "title": "횡성군 병지방 오토캠핑장",
+      "reason": "HTTP 429"
+    },
+    {
+      "id": "632",
+      "title": "농월정오토캠핑장",
+      "reason": "HTTP 429"
+    },
+    {
+      "id": "7192",
+      "title": "우리들캠핑장",
+      "reason": "HTTP 429"
+    },
+    {
+      "id": "316",
+      "title": "웅진오토캠핑장",
+      "reason": "HTTP 429"
+    },
+    {
+      "id": "2984",
+      "title": "춘장대나드리캠핑장",
+      "reason": "HTTP 429"
+    },
+    {
+      "id": "3168",
+      "title": "트리캠핑장",
+      "reason": "HTTP 429"
+    },
+    {
+      "id": "329",
+      "title": "광릉숲 이야기 캠핑장",
+      "reason": "HTTP 429"
+    },
+    {
+      "id": "7929",
+      "title": "운일암반일암 국민여가캠핑장",
+      "reason": "HTTP 429"
+    },
+    {
+      "id": "8135",
+      "title": "우이동 가족캠핑장",
+      "reason": "HTTP 429"
+    },
+    {
+      "id": "7750",
+      "title": "캠프 칠랙스(Camp Chillax)",
+      "reason": "HTTP 429"
+    },
+    {
+      "id": "900",
+      "title": "두곡해수욕장아영장",
+      "reason": "HTTP 429"
+    },
+    {
+      "id": "7608",
+      "title": "히어리캠핑장",
+      "reason": "HTTP 429"
+    },
+    {
+      "id": "2587",
+      "title": "일영무두리캠핑장",
+      "reason": "HTTP 429"
+    },
+    {
+      "id": "7023",
+      "title": "영주호오토캠핑장",
+      "reason": "HTTP 429"
+    },
+    {
+      "id": "7564",
+      "title": "태안캠핑농원",
+      "reason": "HTTP 429"
+    },
+    {
+      "id": "7613",
+      "title": "황산도캠핑장",
+      "reason": "HTTP 429"
+    },
+    {
+      "id": "6983",
+      "title": "제이스글램핑",
+      "reason": "HTTP 429"
+    },
+    {
+      "id": "7256",
+      "title": "위천수변 테마공원",
+      "reason": "HTTP 429"
+    },
+    {
+      "id": "7207",
+      "title": "제암산자연휴양림 야영장",
+      "reason": "HTTP 429"
+    },
+    {
+      "id": "1468",
+      "title": "사촌해수욕장야영장",
+      "reason": "HTTP 429"
+    },
+    {
+      "id": "3094",
+      "title": "청파관광농원(성주물가애캠핑장)",
+      "reason": "HTTP 429"
+    },
+    {
+      "id": "7205",
+      "title": "장수방화동캠핑장",
+      "reason": "HTTP 429"
+    },
+    {
+      "id": "1038",
+      "title": "맑음터공원 캠핑장",
+      "reason": "HTTP 429"
+    },
+    {
+      "id": "7109",
+      "title": "가마미야영장",
+      "reason": "HTTP 429"
+    },
+    {
+      "id": "7845",
+      "title": "자두마을캠핑장",
+      "reason": "HTTP 429"
+    },
+    {
+      "id": "217",
+      "title": "별자리 캠핑랜드",
+      "reason": "HTTP 429"
+    },
+    {
+      "id": "7773",
+      "title": "산호야관광농원",
+      "reason": "HTTP 429"
+    },
+    {
+      "id": "633",
+      "title": "봉좌마을 캠핑장",
+      "reason": "HTTP 429"
+    },
+    {
+      "id": "313",
+      "title": "공주계곡캠핑장",
+      "reason": "HTTP 429"
+    },
+    {
+      "id": "2375",
+      "title": "동수리 인문학마을 협동조합 야영장",
+      "reason": "HTTP 429"
+    },
+    {
+      "id": "221",
+      "title": "경주초우오토캠핑장",
+      "reason": "HTTP 429"
+    },
+    {
+      "id": "1447",
+      "title": "비토섬오토캠핑장",
+      "reason": "HTTP 429"
+    },
+    {
+      "id": "8217",
+      "title": "도원야영장",
+      "reason": "HTTP 429"
+    },
+    {
+      "id": "7140",
+      "title": "마루아라힐링캠프",
+      "reason": "HTTP 429"
+    },
+    {
+      "id": "8041",
+      "title": "빙계얼음골 야영장",
+      "reason": "HTTP 429"
+    },
+    {
+      "id": "7568",
+      "title": "용담댐 오토 캠핑장",
+      "reason": "HTTP 429"
+    },
+    {
+      "id": "51",
+      "title": "Najost Camp",
+      "reason": "HTTP 429"
+    },
+    {
+      "id": "2358",
+      "title": "왕산가족오토캠핑장",
+      "reason": "HTTP 429"
+    },
+    {
+      "id": "2450",
+      "title": "울릉군국민여가캠핑장",
+      "reason": "HTTP 429"
+    },
+    {
       "id": "367",
       "title": "구산오토캠핑장",
       "reason": "국내 좌표 확인 실패"
     },
     {
+      "id": "3353",
+      "title": "하늘연캠핑장",
+      "reason": "HTTP 429"
+    },
+    {
+      "id": "6789",
+      "title": "마검포 힐링캠핑장",
+      "reason": "HTTP 429"
+    },
+    {
+      "id": "502",
+      "title": "김삿갓계곡캠핑장",
+      "reason": "HTTP 429"
+    },
+    {
+      "id": "2610",
+      "title": "임하호 수상레저타운캠핑장",
+      "reason": "HTTP 429"
+    },
+    {
+      "id": "6825",
+      "title": "상주보 오토캠핑장",
+      "reason": "HTTP 429"
+    },
+    {
+      "id": "3333",
+      "title": "물가솔솔캠핑장",
+      "reason": "HTTP 429"
+    },
+    {
+      "id": "2541",
+      "title": "은해로운 캠핑장",
+      "reason": "HTTP 429"
+    },
+    {
+      "id": "2483",
+      "title": "월성 산아래 글램핑",
+      "reason": "HTTP 429"
+    },
+    {
+      "id": "944",
+      "title": "또올래캠핑장",
+      "reason": "HTTP 429"
+    },
+    {
+      "id": "7893",
+      "title": "세울터 오토캠핑장 & 펜션",
+      "reason": "HTTP 429"
+    },
+    {
+      "id": "123",
+      "title": "흑석산 자연휴양림",
+      "reason": "HTTP 429"
+    },
+    {
+      "id": "2254",
+      "title": "영학관광농원야영장",
+      "reason": "HTTP 429"
+    },
+    {
+      "id": "3361",
+      "title": "하마캠핑장",
+      "reason": "HTTP 429"
+    },
+    {
+      "id": "3512",
+      "title": "호반오토캠핑장",
+      "reason": "HTTP 429"
+    },
+    {
+      "id": "625",
+      "title": "농어바위캠핑장",
+      "reason": "HTTP 429"
+    },
+    {
+      "id": "7648",
+      "title": "토일관광농원",
+      "reason": "HTTP 429"
+    },
+    {
+      "id": "1192",
+      "title": "밀양사계절야영장",
+      "reason": "HTTP 429"
+    },
+    {
+      "id": "7253",
+      "title": "베스트필드",
+      "reason": "HTTP 429"
+    },
+    {
+      "id": "692",
+      "title": "달과별 캠핑장",
+      "reason": "HTTP 429"
+    },
+    {
+      "id": "7171",
+      "title": "싱글벙글캠핑장",
+      "reason": "HTTP 429"
+    },
+    {
+      "id": "1854",
+      "title": "숲들내캠핑장",
+      "reason": "HTTP 429"
+    },
+    {
+      "id": "7068",
+      "title": "칠선계곡글램핑",
+      "reason": "HTTP 429"
+    },
+    {
+      "id": "1237",
+      "title": "밤소리관광농원",
+      "reason": "HTTP 429"
+    },
+    {
+      "id": "7206",
+      "title": "장수자연관광농원",
+      "reason": "HTTP 429"
+    },
+    {
+      "id": "1115",
+      "title": "무주수목원캠핑장",
+      "reason": "HTTP 429"
+    },
+    {
+      "id": "1159",
+      "title": "물안개 오토캠핑장",
+      "reason": "HTTP 429"
+    },
+    {
+      "id": "328",
+      "title": "광릉솔개캠핑장",
+      "reason": "HTTP 429"
+    },
+    {
+      "id": "2734",
+      "title": "제천워터파크캠핑랜드",
+      "reason": "HTTP 429"
+    },
+    {
+      "id": "6802",
+      "title": "백사장사계절 숲속야영장",
+      "reason": "HTTP 429"
+    },
+    {
+      "id": "1755",
+      "title": "솔바다 캠핑장",
+      "reason": "HTTP 429"
+    },
+    {
+      "id": "2245",
+      "title": "영주시 소백산역 캠핑장",
+      "reason": "HTTP 429"
+    },
+    {
+      "id": "214",
+      "title": "경주 힐링캠프",
+      "reason": "HTTP 429"
+    },
+    {
+      "id": "7567",
+      "title": "물동네 힐링 야영장",
+      "reason": "HTTP 429"
+    },
+    {
+      "id": "2378",
+      "title": "용문산관광지 야영장",
+      "reason": "HTTP 429"
+    },
+    {
+      "id": "1482",
+      "title": "원주산노리 캠핑장",
+      "reason": "HTTP 429"
+    },
+    {
+      "id": "7080",
+      "title": "팔현야영장",
+      "reason": "HTTP 429"
+    },
+    {
+      "id": "2554",
+      "title": "이안숲속오토캠핑장",
+      "reason": "HTTP 429"
+    },
+    {
+      "id": "1066",
+      "title": "명학산 캠핑장",
+      "reason": "HTTP 429"
+    },
+    {
+      "id": "2659",
+      "title": "누리파크 캠핑장",
+      "reason": "HTTP 429"
+    },
+    {
+      "id": "7365",
+      "title": "용오름캠핑장",
+      "reason": "HTTP 429"
+    },
+    {
+      "id": "7634",
+      "title": "오시유",
+      "reason": "HTTP 429"
+    },
+    {
+      "id": "2131",
+      "title": "엉클캠프(UNCLE CAMP)",
+      "reason": "HTTP 429"
+    },
+    {
+      "id": "2013",
+      "title": "영농조합법인 완주힐조타운 관광농원",
+      "reason": "HTTP 429"
+    },
+    {
+      "id": "2783",
+      "title": "중바위캠핑장",
+      "reason": "HTTP 429"
+    },
+    {
+      "id": "397",
+      "title": "국립지리산 자연휴양림",
+      "reason": "HTTP 429"
+    },
+    {
+      "id": "881",
+      "title": "동산포 캠핑장",
+      "reason": "HTTP 429"
+    },
+    {
+      "id": "930",
+      "title": "들소리 키즈 글램핑",
+      "reason": "HTTP 429"
+    },
+    {
+      "id": "7131",
+      "title": "단풍숲캠핑장",
+      "reason": "HTTP 429"
+    },
+    {
+      "id": "7556",
+      "title": "아르보리아파크 캠핑장",
+      "reason": "HTTP 429"
+    },
+    {
+      "id": "7009",
+      "title": "스톤밸리캠핑장",
+      "reason": "HTTP 429"
+    },
+    {
+      "id": "7778",
+      "title": "포항국민여가캠핑장",
+      "reason": "HTTP 429"
+    },
+    {
+      "id": "766",
+      "title": "대장경오토캠핑장",
+      "reason": "HTTP 429"
+    },
+    {
+      "id": "7230",
+      "title": "하늘땅별땅 캠핑장",
+      "reason": "HTTP 429"
+    },
+    {
+      "id": "3602",
+      "title": "휴파크(홍길동테마파크 자동차야영장)",
+      "reason": "HTTP 429"
+    },
+    {
+      "id": "3222",
+      "title": "패밀리오토캠핑장(한국전통문화체험학교)",
+      "reason": "HTTP 429"
+    },
+    {
+      "id": "3628",
+      "title": "힐링파크",
+      "reason": "HTTP 429"
+    },
+    {
+      "id": "6838",
+      "title": "수리덤 캠핑장",
+      "reason": "HTTP 429"
+    },
+    {
+      "id": "100799",
+      "title": "서초바글(바베큐글램핑)",
+      "reason": "HTTP 429"
+    },
+    {
+      "id": "2235",
+      "title": "영월천문대 캠핑장",
+      "reason": "HTTP 429"
+    },
+    {
+      "id": "2485",
+      "title": "월악 한울캠핑장",
+      "reason": "HTTP 429"
+    },
+    {
+      "id": "7124",
+      "title": "내소힐링캠프",
+      "reason": "HTTP 429"
+    },
+    {
+      "id": "635",
+      "title": "라군하우스",
+      "reason": "HTTP 429"
+    },
+    {
+      "id": "8019",
+      "title": "나주 죽산보 오토캠핑장",
+      "reason": "HTTP 429"
+    },
+    {
+      "id": "7167",
+      "title": "숲속에안뜰",
+      "reason": "HTTP 429"
+    },
+    {
+      "id": "85",
+      "title": "가우도카라반펜션",
+      "reason": "HTTP 429"
+    },
+    {
+      "id": "127",
+      "title": "간월도캠핑장",
+      "reason": "HTTP 429"
+    },
+    {
+      "id": "2782",
+      "title": "국립자연휴양림관리소(중미산자연휴양림)",
+      "reason": "HTTP 429"
+    },
+    {
+      "id": "3440",
+      "title": "합천글램핑",
+      "reason": "HTTP 429"
+    },
+    {
+      "id": "1916",
+      "title": "국립신불산폭포자연휴양림",
+      "reason": "HTTP 429"
+    },
+    {
+      "id": "7162",
+      "title": "소풍캠핑장",
+      "reason": "HTTP 429"
+    },
+    {
+      "id": "3476",
+      "title": "햇살아래 캠핑장",
+      "reason": "HTTP 429"
+    },
+    {
+      "id": "7166",
+      "title": "솔섬오토캠핑장",
+      "reason": "HTTP 429"
+    },
+    {
+      "id": "673",
+      "title": "다온",
+      "reason": "HTTP 429"
+    },
+    {
+      "id": "531",
+      "title": "양평꿈의글램핑",
+      "reason": "HTTP 429"
+    },
+    {
+      "id": "3339",
+      "title": "하늘구름길 캠핑장",
+      "reason": "HTTP 429"
+    },
+    {
+      "id": "7217",
+      "title": "티앤(TN) 글램핑",
+      "reason": "HTTP 429"
+    },
+    {
+      "id": "1182",
+      "title": "민들레동산 야영장",
+      "reason": "HTTP 429"
+    },
+    {
+      "id": "375",
+      "title": "카라반2696",
+      "reason": "HTTP 429"
+    },
+    {
+      "id": "1114",
+      "title": "솔밭야영장",
+      "reason": "HTTP 429"
+    },
+    {
+      "id": "1483",
+      "title": "산들래 야영장",
+      "reason": "HTTP 429"
+    },
+    {
+      "id": "2882",
+      "title": "청계동 솔바람야영장",
+      "reason": "HTTP 429"
+    },
+    {
+      "id": "2920",
+      "title": "청석들캠핑장",
+      "reason": "HTTP 429"
+    },
+    {
+      "id": "619",
+      "title": "논산 탑정호글램핑",
+      "reason": "HTTP 429"
+    },
+    {
+      "id": "3233",
+      "title": "드래곤오토캠핑장",
+      "reason": "HTTP 429"
+    },
+    {
+      "id": "2121",
+      "title": "얼음골까투리 펜션&캠핑장",
+      "reason": "HTTP 429"
+    },
+    {
+      "id": "7157",
+      "title": "보리산캠핑장",
+      "reason": "HTTP 429"
+    },
+    {
+      "id": "1356",
+      "title": "비토애 럭셔리 글램핑 산청점",
+      "reason": "HTTP 429"
+    },
+    {
+      "id": "7443",
+      "title": "캠핑아이",
+      "reason": "HTTP 429"
+    },
+    {
+      "id": "1982",
+      "title": "아버지의숲 산정캠프",
+      "reason": "HTTP 429"
+    },
+    {
+      "id": "3083",
+      "title": "캠핑월드",
+      "reason": "HTTP 429"
+    },
+    {
+      "id": "7028",
+      "title": "연몽캠핑장",
+      "reason": "HTTP 429"
+    },
+    {
+      "id": "964",
+      "title": "반려견호텔 랩도그빌",
+      "reason": "HTTP 429"
+    },
+    {
+      "id": "7067",
+      "title": "치인야영장",
+      "reason": "HTTP 429"
+    },
+    {
+      "id": "1501",
+      "title": "아스트로마스 캠핑랜드",
+      "reason": "HTTP 429"
+    },
+    {
+      "id": "7125",
+      "title": "네스트캠핑장",
+      "reason": "HTTP 429"
+    },
+    {
+      "id": "56",
+      "title": "THATS CAMPING 횡성자연휴양림야영장",
+      "reason": "HTTP 429"
+    },
+    {
+      "id": "1643",
+      "title": "석문 오토캠핑장",
+      "reason": "HTTP 429"
+    },
+    {
+      "id": "1997",
+      "title": "아우라지관광지",
+      "reason": "HTTP 429"
+    },
+    {
+      "id": "3545",
+      "title": "화강 수변 오토캠핑장",
+      "reason": "HTTP 429"
+    },
+    {
+      "id": "3317",
+      "title": "프라임캠핑장",
+      "reason": "HTTP 429"
+    },
+    {
+      "id": "734",
+      "title": "대둔산 그린시티 캠핑장",
+      "reason": "HTTP 429"
+    },
+    {
+      "id": "2487",
+      "title": "월악산레트로캠핑N민박",
+      "reason": "HTTP 429"
+    },
+    {
+      "id": "7640",
+      "title": "동해글램핑장",
+      "reason": "HTTP 429"
+    },
+    {
+      "id": "7016",
+      "title": "얼음골애플 오토캠핑장",
+      "reason": "HTTP 429"
+    },
+    {
+      "id": "1545",
+      "title": "삼남매와 뭉치네 캠핑장",
+      "reason": "HTTP 429"
+    },
+    {
+      "id": "938",
+      "title": "땅끝황토폔션야영장",
+      "reason": "HTTP 429"
+    },
+    {
+      "id": "739",
+      "title": "대둔산글램핑캠핑장",
+      "reason": "HTTP 429"
+    },
+    {
+      "id": "7879",
+      "title": "구곡폭포 국민여가 캠핑장",
+      "reason": "HTTP 429"
+    },
+    {
+      "id": "2041",
+      "title": "알프스캠핑장",
+      "reason": "HTTP 429"
+    },
+    {
+      "id": "7329",
+      "title": "초리 포레스트",
+      "reason": "HTTP 429"
+    },
+    {
+      "id": "2894",
+      "title": "청도감꽃국민여가캠핑장",
+      "reason": "HTTP 429"
+    },
+    {
+      "id": "7626",
+      "title": "푸른섬 캠핑장",
+      "reason": "HTTP 429"
+    },
+    {
+      "id": "874",
+      "title": "동막골캠핑장",
+      "reason": "HTTP 429"
+    },
+    {
+      "id": "927",
+      "title": "들꽃피는언덕 캠핑장",
+      "reason": "HTTP 429"
+    },
+    {
+      "id": "3210",
+      "title": "팔영산야영장",
+      "reason": "HTTP 429"
+    },
+    {
+      "id": "7088",
+      "title": "피플앤독 느티캠핑장",
+      "reason": "HTTP 429"
+    },
+    {
+      "id": "1223",
+      "title": "반딧불이 캠핑장",
+      "reason": "HTTP 429"
+    },
+    {
+      "id": "1301",
+      "title": "범산골캠핑장",
+      "reason": "HTTP 429"
+    },
+    {
+      "id": "1785",
+      "title": "솔티야영장",
+      "reason": "HTTP 429"
+    },
+    {
+      "id": "3059",
+      "title": "캠프향기",
+      "reason": "HTTP 429"
+    },
+    {
+      "id": "7372",
+      "title": "선바위 자연캠핑장",
+      "reason": "HTTP 429"
+    },
+    {
+      "id": "7116",
+      "title": "계곡풍경캠핑장",
+      "reason": "HTTP 429"
+    },
+    {
+      "id": "2872",
+      "title": "천태산 오토캠핑장",
+      "reason": "HTTP 429"
+    },
+    {
+      "id": "6969",
+      "title": "달재오토캠핑장",
+      "reason": "HTTP 429"
+    },
+    {
+      "id": "1102",
+      "title": "무릉도원 캠핑장",
+      "reason": "HTTP 429"
+    },
+    {
+      "id": "2000",
+      "title": "아이에프에이 캠프운악",
+      "reason": "HTTP 429"
+    },
+    {
+      "id": "7616",
+      "title": "강릉여행 굿캠핑",
+      "reason": "HTTP 429"
+    },
+    {
+      "id": "1537",
+      "title": "산촌캠핑장",
+      "reason": "HTTP 429"
+    },
+    {
+      "id": "902",
+      "title": "아리솔캠핑장",
+      "reason": "HTTP 429"
+    },
+    {
+      "id": "7580",
+      "title": "해오름 글램핑",
+      "reason": "HTTP 429"
+    },
+    {
+      "id": "7486",
+      "title": "해간도캠핑장",
+      "reason": "HTTP 429"
+    },
+    {
+      "id": "7896",
+      "title": "천사섬캠핑&글램핑",
+      "reason": "HTTP 429"
+    },
+    {
+      "id": "1384",
+      "title": "봉식이놀이터",
+      "reason": "HTTP 429"
+    },
+    {
+      "id": "1647",
+      "title": "석양마을 주포",
+      "reason": "HTTP 429"
+    },
+    {
+      "id": "75",
+      "title": "가마실캠핑장",
+      "reason": "HTTP 429"
+    },
+    {
+      "id": "3105",
+      "title": "석산계곡 코코비발디글램핑 카라반 오토캠핑장",
+      "reason": "HTTP 429"
+    },
+    {
+      "id": "1321",
+      "title": "별난독서문화체험장",
+      "reason": "HTTP 429"
+    },
+    {
+      "id": "3270",
+      "title": "포천 베어스 글램핑 파크",
+      "reason": "HTTP 429"
+    },
+    {
+      "id": "2288",
+      "title": "양평맑은숲캠핑장",
+      "reason": "HTTP 429"
+    },
+    {
+      "id": "29",
+      "title": "80 SS 오토캠핑장",
+      "reason": "HTTP 429"
+    },
+    {
+      "id": "100247",
+      "title": "남한산성 캠핑장",
+      "reason": "HTTP 429"
+    },
+    {
+      "id": "1234",
+      "title": "밤별2 캠핑장",
+      "reason": "HTTP 429"
+    },
+    {
+      "id": "7782",
+      "title": "벨루아 캠핑장",
+      "reason": "HTTP 429"
+    },
+    {
+      "id": "1934",
+      "title": "십자봉 야영장",
+      "reason": "HTTP 429"
+    },
+    {
+      "id": "1641",
+      "title": "석모도 부자 애견캠핑장",
+      "reason": "HTTP 429"
+    },
+    {
+      "id": "2853",
+      "title": "천동계곡 캠핑장",
+      "reason": "HTTP 429"
+    },
+    {
+      "id": "913",
+      "title": "도원 주식회사",
+      "reason": "HTTP 429"
+    },
+    {
+      "id": "441",
+      "title": "글램비글램핑",
+      "reason": "HTTP 429"
+    },
+    {
+      "id": "1125",
+      "title": "회문랜드 오토캠핑장",
+      "reason": "HTTP 429"
+    },
+    {
+      "id": "679",
+      "title": "닥박골 휴양림",
+      "reason": "HTTP 429"
+    },
+    {
+      "id": "7310",
+      "title": "강화도 아침 숲속야영장",
+      "reason": "HTTP 429"
+    },
+    {
+      "id": "7029",
+      "title": "용인반딧불캠핑장",
+      "reason": "HTTP 429"
+    },
+    {
+      "id": "2124",
+      "title": "얼음골야영장",
+      "reason": "HTTP 429"
+    },
+    {
+      "id": "2081",
+      "title": "솔빛캠프",
+      "reason": "HTTP 429"
+    },
+    {
+      "id": "7180",
+      "title": "에뜨유명산캠핑장",
+      "reason": "HTTP 429"
+    },
+    {
+      "id": "3350",
+      "title": "하늘숲글램핑 파크",
+      "reason": "HTTP 429"
+    },
+    {
+      "id": "801",
+      "title": "덕동 산상낙원",
+      "reason": "HTTP 429"
+    },
+    {
+      "id": "7168",
+      "title": "숲속의 정원 캠핑장",
+      "reason": "HTTP 429"
+    },
+    {
+      "id": "1893",
+      "title": "(주)케이스톤매니지먼트(스톤힐)",
+      "reason": "HTTP 429"
+    },
+    {
+      "id": "7565",
+      "title": "충주 커피박물관 관광농원 야영장",
+      "reason": "HTTP 429"
+    },
+    {
+      "id": "7550",
+      "title": "솔향기캠핑장",
+      "reason": "HTTP 429"
+    },
+    {
+      "id": "3559",
+      "title": "청도 화이트오토캠핑장",
+      "reason": "HTTP 429"
+    },
+    {
+      "id": "7811",
+      "title": "한반도 솔숲 쉼터",
+      "reason": "HTTP 429"
+    },
+    {
+      "id": "7593",
+      "title": "시공간",
+      "reason": "HTTP 429"
+    },
+    {
+      "id": "21",
+      "title": "천일염힐링캠프",
+      "reason": "HTTP 429"
+    },
+    {
+      "id": "1513",
+      "title": "산음자연휴양림야영장",
+      "reason": "HTTP 429"
+    },
+    {
+      "id": "244",
+      "title": "고길동 캠핑장",
+      "reason": "HTTP 429"
+    },
+    {
+      "id": "7235",
+      "title": "후평숲캠핑장",
+      "reason": "HTTP 429"
+    },
+    {
+      "id": "7159",
+      "title": "남양주 별빛 캠핑장",
+      "reason": "HTTP 429"
+    },
+    {
+      "id": "7795",
+      "title": "산내들 야영장",
+      "reason": "HTTP 429"
+    },
+    {
+      "id": "7158",
+      "title": "캠프 고요숲",
+      "reason": "HTTP 429"
+    },
+    {
+      "id": "6768",
+      "title": "대가야농촌문화체험특구 캠핑장",
+      "reason": "HTTP 429"
+    },
+    {
+      "id": "7155",
+      "title": "별빛오토캠핑장",
+      "reason": "HTTP 429"
+    },
+    {
+      "id": "7777",
+      "title": "할매야영장",
+      "reason": "HTTP 429"
+    },
+    {
+      "id": "2044",
+      "title": "애플 글램핑",
+      "reason": "HTTP 429"
+    },
+    {
+      "id": "2262",
+      "title": "예산 느티나무 캠핑장",
+      "reason": "HTTP 429"
+    },
+    {
+      "id": "1540",
+      "title": "살구나무글램핑",
+      "reason": "HTTP 429"
+    },
+    {
+      "id": "1117",
+      "title": "무주홀리데이파크",
+      "reason": "HTTP 429"
+    },
+    {
+      "id": "3056",
+      "title": "캠프원 야영장",
+      "reason": "HTTP 429"
+    },
+    {
+      "id": "2253",
+      "title": "영천시오감공예체험장",
+      "reason": "HTTP 429"
+    },
+    {
+      "id": "977",
+      "title": "로하스캠핑",
+      "reason": "HTTP 429"
+    },
+    {
+      "id": "1986",
+      "title": "아빠랑놀자 키즈글램핑",
+      "reason": "HTTP 429"
+    },
+    {
+      "id": "8012",
+      "title": "화순 고인돌 오토캠핑장",
+      "reason": "HTTP 429"
+    },
+    {
+      "id": "249",
+      "title": "고래숲관광농원",
+      "reason": "HTTP 429"
+    },
+    {
+      "id": "1127",
+      "title": "문경레저투어",
+      "reason": "HTTP 429"
+    },
+    {
+      "id": "7007",
+      "title": "수락 캠핑장",
+      "reason": "HTTP 429"
+    },
+    {
+      "id": "1095",
+      "title": "오션파크",
+      "reason": "HTTP 429"
+    },
+    {
+      "id": "7775",
+      "title": "에어그라운드(AIR GROUND)",
+      "reason": "HTTP 429"
+    },
+    {
+      "id": "7130",
+      "title": "다누리움 캠핑장",
+      "reason": "HTTP 429"
+    },
+    {
+      "id": "3441",
+      "title": "합천라온오토캠핑장",
+      "reason": "HTTP 429"
+    },
+    {
+      "id": "18",
+      "title": "제주 자연인 글램핑",
+      "reason": "HTTP 429"
+    },
+    {
+      "id": "3346",
+      "title": "하늘바라기 글램핑",
+      "reason": "HTTP 429"
+    },
+    {
+      "id": "7212",
+      "title": "캠플레이",
+      "reason": "HTTP 429"
+    },
+    {
+      "id": "530",
+      "title": "꿈엔들 캠프장",
+      "reason": "HTTP 429"
+    },
+    {
+      "id": "2249",
+      "title": "영천 솔롱고 글램핑",
+      "reason": "HTTP 429"
+    },
+    {
+      "id": "6956",
+      "title": "공수전리 마을휴양지",
+      "reason": "HTTP 429"
+    },
+    {
+      "id": "1999",
+      "title": "아이비오토캠핑장",
+      "reason": "HTTP 429"
+    },
+    {
+      "id": "813",
+      "title": "덕유산700휠링캠프",
+      "reason": "HTTP 429"
+    },
+    {
+      "id": "7331",
+      "title": "돌산캠핑장",
+      "reason": "HTTP 429"
+    },
+    {
+      "id": "7939",
+      "title": "도담오토캠핑장",
+      "reason": "HTTP 429"
+    },
+    {
+      "id": "7759",
+      "title": "그림책동화마을 품 캠핑장",
+      "reason": "HTTP 429"
+    },
+    {
+      "id": "971",
+      "title": "렛츠고 강화캠핑",
+      "reason": "HTTP 429"
+    },
+    {
+      "id": "2810",
+      "title": "지리산백무동파크야영장",
+      "reason": "HTTP 429"
+    },
+    {
+      "id": "7641",
+      "title": "말보로맨 오토캠핑장",
+      "reason": "HTTP 429"
+    },
+    {
+      "id": "7672",
+      "title": "칠포그린로즈야영장",
+      "reason": "HTTP 429"
+    },
+    {
+      "id": "2033",
+      "title": "안태울캠핑장",
+      "reason": "HTTP 429"
+    },
+    {
+      "id": "7164",
+      "title": "솔바람캠핑장",
+      "reason": "HTTP 429"
+    },
+    {
+      "id": "7047",
+      "title": "제이원빌리지",
+      "reason": "HTTP 429"
+    },
+    {
+      "id": "7115",
+      "title": "개울가오토캠핑장",
+      "reason": "HTTP 429"
+    },
+    {
+      "id": "392",
+      "title": "국립용화산자연휴양림",
+      "reason": "HTTP 429"
+    },
+    {
+      "id": "918",
+      "title": "둥지캠핑장",
+      "reason": "HTTP 429"
+    },
+    {
+      "id": "2961",
+      "title": "초록슈피아 캠핑장",
+      "reason": "HTTP 429"
+    },
+    {
+      "id": "1244",
+      "title": "방태산 솔마루",
+      "reason": "HTTP 429"
+    },
+    {
+      "id": "1431",
+      "title": "블루마운틴",
+      "reason": "HTTP 429"
+    },
+    {
+      "id": "2232",
+      "title": "영월별마로펜션캠핑",
+      "reason": "HTTP 429"
+    },
+    {
+      "id": "100549",
+      "title": "문 주식회사(MOON)",
+      "reason": "HTTP 429"
+    },
+    {
+      "id": "100470",
+      "title": "아산스파포레",
+      "reason": "HTTP 429"
+    },
+    {
+      "id": "360",
+      "title": "구만동오토캠핑장",
+      "reason": "HTTP 429"
+    },
+    {
+      "id": "1585",
+      "title": "상황오토캠핑장",
+      "reason": "HTTP 429"
+    },
+    {
+      "id": "1436",
+      "title": "비발디 캠핑파크",
+      "reason": "HTTP 429"
+    },
+    {
+      "id": "3386",
+      "title": "학교안 풍경캠핑장",
+      "reason": "HTTP 429"
+    },
+    {
+      "id": "837",
+      "title": "도원패밀리캠핑장",
+      "reason": "HTTP 429"
+    },
+    {
+      "id": "7179",
+      "title": "알솔레 관광농원",
+      "reason": "HTTP 429"
+    },
+    {
+      "id": "7731",
+      "title": "하이몽글램핑&캠핑장",
+      "reason": "HTTP 429"
+    },
+    {
+      "id": "755",
+      "title": "대성글램핑",
+      "reason": "HTTP 429"
+    },
+    {
+      "id": "2381",
+      "title": "용봉산캠핑장",
+      "reason": "HTTP 429"
+    },
+    {
+      "id": "1362",
+      "title": "보경사힐링캠핑장",
+      "reason": "HTTP 429"
+    },
+    {
+      "id": "1435",
+      "title": "비로야영장",
+      "reason": "HTTP 429"
+    },
+    {
+      "id": "7097",
+      "title": "파이어메이플캠핑장",
+      "reason": "HTTP 429"
+    },
+    {
+      "id": "3622",
+      "title": "힐링스토리",
+      "reason": "HTTP 429"
+    },
+    {
+      "id": "7835",
+      "title": "마노아워터캠핑장",
+      "reason": "HTTP 429"
+    },
+    {
+      "id": "6814",
+      "title": "부귀농원 가족캠프 캠핑장",
+      "reason": "HTTP 429"
+    },
+    {
+      "id": "6807",
+      "title": "벨라캠핑장",
+      "reason": "HTTP 429"
+    },
+    {
+      "id": "7121",
+      "title": "금다래캠핑장",
+      "reason": "HTTP 429"
+    },
+    {
+      "id": "1457",
+      "title": "사나래카라반캠핑",
+      "reason": "HTTP 429"
+    },
+    {
+      "id": "1617",
+      "title": "서석야영장",
+      "reason": "HTTP 429"
+    },
+    {
+      "id": "7794",
+      "title": "클라인캠프 빌리지",
+      "reason": "HTTP 429"
+    },
+    {
+      "id": "6951",
+      "title": "캡틴 카라반 글램핑",
+      "reason": "HTTP 429"
+    },
+    {
+      "id": "7915",
+      "title": "강릉 금진리321카라반",
+      "reason": "HTTP 429"
+    },
+    {
+      "id": "7665",
+      "title": "솔향기 캠프",
+      "reason": "HTTP 429"
+    },
+    {
+      "id": "7430",
+      "title": "무주 향로산 자연휴양림",
+      "reason": "HTTP 429"
+    },
+    {
+      "id": "2622",
+      "title": "자연애 품 캠핑장",
+      "reason": "HTTP 429"
+    },
+    {
+      "id": "1360",
+      "title": "병풍바위야영장",
+      "reason": "HTTP 429"
+    },
+    {
+      "id": "1660",
+      "title": "선야봉 캠핑장",
+      "reason": "HTTP 429"
+    },
+    {
+      "id": "808",
+      "title": "평택캠핑성",
+      "reason": "HTTP 429"
+    },
+    {
+      "id": "454",
+      "title": "금강송 체험 야영장",
+      "reason": "HTTP 429"
+    },
+    {
+      "id": "7612",
+      "title": "대가야캠프타운",
+      "reason": "HTTP 429"
+    },
+    {
+      "id": "1246",
+      "title": "방화동가족휴가촌 자동차야영장",
+      "reason": "HTTP 429"
+    },
+    {
+      "id": "1738",
+      "title": "속리산 사계절 캠핑장",
+      "reason": "HTTP 429"
+    },
+    {
+      "id": "449",
+      "title": "글램핑앤카라반",
+      "reason": "HTTP 429"
+    },
+    {
+      "id": "933",
+      "title": "디투어스캠프클럽",
+      "reason": "HTTP 429"
+    },
+    {
+      "id": "7257",
+      "title": "늘예솔 캠핑장",
+      "reason": "HTTP 429"
+    },
+    {
+      "id": "827",
+      "title": "도레미 캠핑장",
+      "reason": "HTTP 429"
+    },
+    {
+      "id": "791",
+      "title": "더시크릿가든 캠프지라운드",
+      "reason": "HTTP 429"
+    },
+    {
+      "id": "1670",
+      "title": "설하캠핑장",
+      "reason": "HTTP 429"
+    },
+    {
+      "id": "828",
+      "title": "도리돌 캠핑장",
+      "reason": "HTTP 429"
+    },
+    {
+      "id": "3042",
+      "title": "캠파제주",
+      "reason": "HTTP 429"
+    },
+    {
+      "id": "8159",
+      "title": "청평사 국민여가 캠핑장",
+      "reason": "HTTP 429"
+    },
+    {
+      "id": "2573",
+      "title": "인제연가리오토캠핑장펜션",
+      "reason": "HTTP 429"
+    },
+    {
+      "id": "1786",
+      "title": "송가네 오가리캠핑장",
+      "reason": "HTTP 429"
+    },
+    {
+      "id": "783",
+      "title": "대호레져글램핑",
+      "reason": "HTTP 429"
+    },
+    {
+      "id": "7525",
+      "title": "비토애[:愛]",
+      "reason": "HTTP 429"
+    },
+    {
+      "id": "2377",
+      "title": "양평 백운봉 자연휴양림",
+      "reason": "HTTP 429"
+    },
+    {
+      "id": "3186",
+      "title": "파인트리",
+      "reason": "HTTP 429"
+    },
+    {
+      "id": "1460",
+      "title": "사랑나무 캠핑장",
+      "reason": "HTTP 429"
+    },
+    {
+      "id": "2116",
+      "title": "어은돌야영장",
+      "reason": "HTTP 429"
+    },
+    {
+      "id": "7466",
+      "title": "경주생태원캠핑장",
+      "reason": "HTTP 429"
+    },
+    {
+      "id": "3110",
+      "title": "큰마당캠핑장",
+      "reason": "HTTP 429"
+    },
+    {
+      "id": "1632",
+      "title": "서천해양캠핑장",
+      "reason": "HTTP 429"
+    },
+    {
+      "id": "532",
+      "title": "꿈의대화캠핑장",
+      "reason": "HTTP 429"
+    },
+    {
+      "id": "7258",
+      "title": "아쿠아마린 글램핑",
+      "reason": "HTTP 429"
+    },
+    {
+      "id": "2177",
+      "title": "여주 카라반 체험장",
+      "reason": "HTTP 429"
+    },
+    {
       "id": "6742",
       "title": "구름아래 캠핑장",
-      "reason": "국내 좌표 확인 실패"
+      "reason": "HTTP 429"
+    },
+    {
+      "id": "8099",
+      "title": "글램핑로망",
+      "reason": "HTTP 429"
+    },
+    {
+      "id": "6999",
+      "title": "산골캠핑장",
+      "reason": "HTTP 429"
+    },
+    {
+      "id": "7800",
+      "title": "경호강변오토캠핑장",
+      "reason": "HTTP 429"
+    },
+    {
+      "id": "7828",
+      "title": "럭셔리 비토섬 제이글램핑",
+      "reason": "HTTP 429"
+    },
+    {
+      "id": "699",
+      "title": "달빛글램핑장",
+      "reason": "HTTP 429"
+    },
+    {
+      "id": "1016",
+      "title": "마방캠핑장",
+      "reason": "HTTP 429"
+    },
+    {
+      "id": "2500",
+      "title": "웰리힐리파크 오토캠핑장",
+      "reason": "HTTP 429"
+    },
+    {
+      "id": "603",
+      "title": "노동오토캠핑장",
+      "reason": "HTTP 429"
+    },
+    {
+      "id": "1009",
+      "title": "마루노리",
+      "reason": "HTTP 429"
+    },
+    {
+      "id": "3521",
+      "title": "호연재",
+      "reason": "HTTP 429"
+    },
+    {
+      "id": "7480",
+      "title": "가산수피아 캠핑장",
+      "reason": "HTTP 429"
+    },
+    {
+      "id": "7540",
+      "title": "전원일기 오토캠핑장",
+      "reason": "HTTP 429"
+    },
+    {
+      "id": "69",
+      "title": "가람펜션캠핑장",
+      "reason": "HTTP 429"
+    },
+    {
+      "id": "616",
+      "title": "녹수원글램핑",
+      "reason": "HTTP 429"
+    },
+    {
+      "id": "38",
+      "title": "DMZ 마루 캠핑",
+      "reason": "HTTP 429"
+    },
+    {
+      "id": "7026",
+      "title": "와룡자연휴양림 자동차야영장",
+      "reason": "HTTP 429"
+    },
+    {
+      "id": "1685",
+      "title": "성덕댐 수달 캠핑장",
+      "reason": "HTTP 429"
+    },
+    {
+      "id": "199",
+      "title": "거창A글램핑",
+      "reason": "HTTP 429"
+    },
+    {
+      "id": "3169",
+      "title": "트윈스캠핑장",
+      "reason": "HTTP 429"
+    },
+    {
+      "id": "7485",
+      "title": "불영계곡 캠핑장",
+      "reason": "HTTP 429"
+    },
+    {
+      "id": "100228",
+      "title": "경상북도교육청 포항산누리오토캠핑장",
+      "reason": "HTTP 429"
+    },
+    {
+      "id": "1996",
+      "title": "아우라지 글램핑",
+      "reason": "HTTP 429"
+    },
+    {
+      "id": "7251",
+      "title": "함평자연생태글램핑앤오토캠핑장지점",
+      "reason": "HTTP 429"
+    },
+    {
+      "id": "916",
+      "title": "둘레길관광농원",
+      "reason": "HTTP 429"
+    },
+    {
+      "id": "100746",
+      "title": "다도해해상국립공원 구계등야영장",
+      "reason": "HTTP 429"
+    },
+    {
+      "id": "154",
+      "title": "강원특별자치도 산림과학연구원 집다리골자연휴양림",
+      "reason": "HTTP 429"
+    },
+    {
+      "id": "7370",
+      "title": "횡성 노다지야영장 불타는 삼촌",
+      "reason": "HTTP 429"
+    },
+    {
+      "id": "2496",
+      "title": "월촌캠핑야영장 농업회사법인(주)대웅영농산업개발",
+      "reason": "HTTP 429"
+    },
+    {
+      "id": "628",
+      "title": "하늘빛수목원",
+      "reason": "HTTP 429"
+    },
+    {
+      "id": "3419",
+      "title": "한울오토캠핑장",
+      "reason": "HTTP 429"
+    },
+    {
+      "id": "555",
+      "title": "남강 캠프",
+      "reason": "HTTP 429"
+    },
+    {
+      "id": "922",
+      "title": "장선해변 캠핑장",
+      "reason": "HTTP 429"
+    },
+    {
+      "id": "2179",
+      "title": "여주참숯마을 캠핑장",
+      "reason": "HTTP 429"
+    },
+    {
+      "id": "1446",
+      "title": "비타민 캠핑장",
+      "reason": "HTTP 429"
+    },
+    {
+      "id": "1710",
+      "title": "소도캠핑장",
+      "reason": "HTTP 429"
+    },
+    {
+      "id": "7136",
+      "title": "들꽃여울캠핑장",
+      "reason": "HTTP 429"
+    },
+    {
+      "id": "7490",
+      "title": "버드하우스 캠핑장",
+      "reason": "HTTP 429"
+    },
+    {
+      "id": "3258",
+      "title": "포시즌",
+      "reason": "HTTP 429"
+    },
+    {
+      "id": "1696",
+      "title": "세라핌캠프",
+      "reason": "HTTP 429"
+    },
+    {
+      "id": "1903",
+      "title": "시목 야영장",
+      "reason": "HTTP 429"
+    },
+    {
+      "id": "2529",
+      "title": "융프라우캠핑장",
+      "reason": "HTTP 429"
+    },
+    {
+      "id": "100381",
+      "title": "산너미목장",
+      "reason": "HTTP 429"
+    },
+    {
+      "id": "7322",
+      "title": "작은쉼터야영장",
+      "reason": "HTTP 429"
+    },
+    {
+      "id": "1701",
+      "title": "센티마르 펜션 글램핑 캠핑장 1",
+      "reason": "HTTP 429"
+    },
+    {
+      "id": "7245",
+      "title": "솔내음 캠핑장",
+      "reason": "HTTP 429"
+    },
+    {
+      "id": "3071",
+      "title": "캠핑라운드",
+      "reason": "HTTP 429"
+    },
+    {
+      "id": "1270",
+      "title": "백산금빛캠프장(백산두례영농조합법인)",
+      "reason": "HTTP 429"
+    },
+    {
+      "id": "3205",
+      "title": "팔봉글램핑",
+      "reason": "HTTP 429"
+    },
+    {
+      "id": "8195",
+      "title": "낭도야영장",
+      "reason": "HTTP 429"
+    },
+    {
+      "id": "7823",
+      "title": "양주그린캠프",
+      "reason": "HTTP 429"
+    },
+    {
+      "id": "7405",
+      "title": "개차반캠핑장",
+      "reason": "HTTP 429"
+    },
+    {
+      "id": "1453",
+      "title": "사과랑 농어촌관광농원",
+      "reason": "HTTP 429"
+    },
+    {
+      "id": "100874",
+      "title": "전주 아중호수 캠핑장",
+      "reason": "HTTP 429"
+    },
+    {
+      "id": "705",
+      "title": "달콤한 캠핑장",
+      "reason": "HTTP 429"
+    },
+    {
+      "id": "7669",
+      "title": "북극곰",
+      "reason": "HTTP 429"
+    },
+    {
+      "id": "1520",
+      "title": "산장펜션 캠핑장",
+      "reason": "HTTP 429"
+    },
+    {
+      "id": "1034",
+      "title": "맑은개울 캠핑장",
+      "reason": "HTTP 429"
+    },
+    {
+      "id": "612",
+      "title": "비발디 캠핑파크 노일점",
+      "reason": "HTTP 429"
+    },
+    {
+      "id": "1648",
+      "title": "조각가 박시동 미술관",
+      "reason": "HTTP 429"
+    },
+    {
+      "id": "7224",
+      "title": "포시즌 캠핑장",
+      "reason": "HTTP 429"
+    },
+    {
+      "id": "2749",
+      "title": "졸드루야영장",
+      "reason": "HTTP 429"
+    },
+    {
+      "id": "8213",
+      "title": "무안 낙지공원 노을길 야영장",
+      "reason": "HTTP 429"
+    },
+    {
+      "id": "7058",
+      "title": "진틀펜션캠핑장",
+      "reason": "HTTP 429"
+    },
+    {
+      "id": "3116",
+      "title": "키즈글램핑GEO",
+      "reason": "HTTP 429"
+    },
+    {
+      "id": "7651",
+      "title": "칠성캠핑장",
+      "reason": "HTTP 429"
+    },
+    {
+      "id": "7585",
+      "title": "쁘띠 힐링 카라반",
+      "reason": "HTTP 429"
+    },
+    {
+      "id": "7308",
+      "title": "뮤즈캠핑장",
+      "reason": "HTTP 429"
+    },
+    {
+      "id": "7250",
+      "title": "블루마린 캠핑장",
+      "reason": "HTTP 429"
+    },
+    {
+      "id": "674",
+      "title": "다옴 햇골 캠핑장",
+      "reason": "HTTP 429"
+    },
+    {
+      "id": "7894",
+      "title": "대황강 자연휴식체험장 야영장",
+      "reason": "HTTP 429"
+    },
+    {
+      "id": "7501",
+      "title": "별을 다는 아이",
+      "reason": "HTTP 429"
     },
     {
       "id": "1353",
       "title": "별찌 야영장",
       "reason": "국내 좌표 확인 실패"
+    },
+    {
+      "id": "7771",
+      "title": "아쿠아베이(주) 글램핑",
+      "reason": "HTTP 429"
+    },
+    {
+      "id": "7925",
+      "title": "춘천별빛캠핑장",
+      "reason": "HTTP 429"
+    },
+    {
+      "id": "8069",
+      "title": "명봉산솔밭관광농원오토캠핑장",
+      "reason": "HTTP 429"
+    },
+    {
+      "id": "7428",
+      "title": "로뎀하우스",
+      "reason": "HTTP 429"
+    },
+    {
+      "id": "7344",
+      "title": "소노벨 양평",
+      "reason": "HTTP 429"
+    },
+    {
+      "id": "2341",
+      "title": "도모 횡성",
+      "reason": "HTTP 429"
+    },
+    {
+      "id": "2904",
+      "title": "청도프로방스불빛축제카라반펜션",
+      "reason": "HTTP 429"
+    },
+    {
+      "id": "2331",
+      "title": "온더락캠핑장",
+      "reason": "HTTP 429"
+    },
+    {
+      "id": "1438",
+      "title": "비비오토캠프",
+      "reason": "HTTP 429"
+    },
+    {
+      "id": "483",
+      "title": "금원산자연휴양림 야영장",
+      "reason": "HTTP 429"
+    },
+    {
+      "id": "8170",
+      "title": "스타빌",
+      "reason": "HTTP 429"
+    },
+    {
+      "id": "8023",
+      "title": "월등도 캠핑장",
+      "reason": "HTTP 429"
+    },
+    {
+      "id": "7581",
+      "title": "오페라 비앙 글램핑",
+      "reason": "HTTP 429"
+    },
+    {
+      "id": "1311",
+      "title": "벳소캠프",
+      "reason": "HTTP 429"
+    },
+    {
+      "id": "3580",
+      "title": "황토와 통나무 캠핑장",
+      "reason": "HTTP 429"
+    },
+    {
+      "id": "1557",
+      "title": "삼정오토캠핑장",
+      "reason": "HTTP 429"
+    },
+    {
+      "id": "1028",
+      "title": "만리포미소카라반캠핑장",
+      "reason": "HTTP 429"
+    },
+    {
+      "id": "1674",
+      "title": "섬지골 캠핑장",
+      "reason": "HTTP 429"
+    },
+    {
+      "id": "7027",
+      "title": "왕피천관광농원",
+      "reason": "HTTP 429"
+    },
+    {
+      "id": "8151",
+      "title": "달빛담은캠핑장",
+      "reason": "HTTP 429"
+    },
+    {
+      "id": "7082",
+      "title": "펜션600 캠핑장",
+      "reason": "HTTP 429"
+    },
+    {
+      "id": "6856",
+      "title": "연지곤지야영장",
+      "reason": "HTTP 429"
+    },
+    {
+      "id": "8188",
+      "title": "대둔산캠핑펜션오토캠핑장",
+      "reason": "HTTP 429"
+    },
+    {
+      "id": "2929",
+      "title": "청암관광농원",
+      "reason": "HTTP 429"
+    },
+    {
+      "id": "7114",
+      "title": "가평카라반캠핑농원",
+      "reason": "HTTP 429"
+    },
+    {
+      "id": "3472",
+      "title": "해피캠핑장",
+      "reason": "HTTP 429"
+    },
+    {
+      "id": "1477",
+      "title": "산내들캠핑",
+      "reason": "HTTP 429"
+    },
+    {
+      "id": "3482",
+      "title": "행복숲체험원 오토캠핑장",
+      "reason": "HTTP 429"
+    },
+    {
+      "id": "2224",
+      "title": "영우네 농어촌 관광농원",
+      "reason": "HTTP 429"
+    },
+    {
+      "id": "2774",
+      "title": "죽도야영체험장",
+      "reason": "HTTP 429"
+    },
+    {
+      "id": "7128",
+      "title": "늘푸른쉼터",
+      "reason": "HTTP 429"
+    },
+    {
+      "id": "100244",
+      "title": "폴라데이 캠핑장",
+      "reason": "HTTP 429"
+    },
+    {
+      "id": "7106",
+      "title": "포세이돈",
+      "reason": "HTTP 429"
+    },
+    {
+      "id": "7403",
+      "title": "나드리 캠핑장",
+      "reason": "HTTP 429"
+    },
+    {
+      "id": "1427",
+      "title": "불정 자연휴양림",
+      "reason": "HTTP 429"
+    },
+    {
+      "id": "8202",
+      "title": "양평숲 비룡캠핑장",
+      "reason": "HTTP 429"
+    },
+    {
+      "id": "8114",
+      "title": "일곱식구 캠핑장",
+      "reason": "HTTP 429"
+    },
+    {
+      "id": "2771",
+      "title": "주천강 자연휴양림",
+      "reason": "HTTP 429"
+    },
+    {
+      "id": "7404",
+      "title": "솔베이캠핑장",
+      "reason": "HTTP 429"
+    },
+    {
+      "id": "2278",
+      "title": "오글오글오토캠핑장",
+      "reason": "HTTP 429"
+    },
+    {
+      "id": "3307",
+      "title": "푸른숲캠핑장",
+      "reason": "HTTP 429"
+    },
+    {
+      "id": "6942",
+      "title": "(주)밀모빨강치마",
+      "reason": "HTTP 429"
+    },
+    {
+      "id": "3034",
+      "title": "케이 캠핑장(K캠핑장)",
+      "reason": "HTTP 429"
+    },
+    {
+      "id": "7955",
+      "title": "돈내미농장",
+      "reason": "HTTP 429"
+    },
+    {
+      "id": "6810",
+      "title": "별빛마을",
+      "reason": "HTTP 429"
+    },
+    {
+      "id": "7003",
+      "title": "샛별글램핑",
+      "reason": "HTTP 429"
+    },
+    {
+      "id": "8173",
+      "title": "탄금호 야영장",
+      "reason": "HTTP 429"
+    },
+    {
+      "id": "100032",
+      "title": "캠핑느루",
+      "reason": "HTTP 429"
+    },
+    {
+      "id": "7488",
+      "title": "캠프라임",
+      "reason": "HTTP 429"
+    },
+    {
+      "id": "7333",
+      "title": "안성운모석캠핑장",
+      "reason": "HTTP 429"
+    },
+    {
+      "id": "1332",
+      "title": "별밤글램핑",
+      "reason": "HTTP 429"
+    },
+    {
+      "id": "8006",
+      "title": "젤리캠핑장",
+      "reason": "HTTP 429"
+    },
+    {
+      "id": "100569",
+      "title": "해목글램핑",
+      "reason": "HTTP 429"
+    },
+    {
+      "id": "101047",
+      "title": "이루다글램핑",
+      "reason": "HTTP 429"
+    },
+    {
+      "id": "100696",
+      "title": "잭슨글램핑",
+      "reason": "HTTP 429"
+    },
+    {
+      "id": "100398",
+      "title": "반딧불이",
+      "reason": "HTTP 429"
+    },
+    {
+      "id": "101275",
+      "title": "별빛마루 관광농원",
+      "reason": "HTTP 429"
+    },
+    {
+      "id": "101188",
+      "title": "오우스 카라반 캠핑장",
+      "reason": "HTTP 429"
+    },
+    {
+      "id": "100792",
+      "title": "새말캠핑장",
+      "reason": "HTTP 429"
+    },
+    {
+      "id": "100502",
+      "title": "알프스캠핑",
+      "reason": "HTTP 429"
+    },
+    {
+      "id": "100556",
+      "title": "산산캠핑",
+      "reason": "HTTP 429"
+    },
+    {
+      "id": "100404",
+      "title": "엣더몬",
+      "reason": "HTTP 429"
+    },
+    {
+      "id": "100877",
+      "title": "토함산 마이웨이 야영장",
+      "reason": "HTTP 429"
+    },
+    {
+      "id": "100978",
+      "title": "마니또 오토캠핑장",
+      "reason": "HTTP 429"
+    },
+    {
+      "id": "100512",
+      "title": "일루 글램핑 스파",
+      "reason": "HTTP 429"
+    },
+    {
+      "id": "100781",
+      "title": "체로키캠핑장 (Cherokeycamp)",
+      "reason": "HTTP 429"
+    },
+    {
+      "id": "101588",
+      "title": "신암저수지 숲속야영장",
+      "reason": "HTTP 429"
+    },
+    {
+      "id": "101121",
+      "title": "베르아델 승마클럽",
+      "reason": "HTTP 429"
+    },
+    {
+      "id": "101092",
+      "title": "인더밸리",
+      "reason": "HTTP 429"
+    },
+    {
+      "id": "100678",
+      "title": "플로라 캠프",
+      "reason": "HTTP 429"
+    },
+    {
+      "id": "101152",
+      "title": "럭셔리글램핑라피네 주식회사",
+      "reason": "HTTP 429"
+    },
+    {
+      "id": "101070",
+      "title": "문장대 사계절캠핑장",
+      "reason": "HTTP 429"
+    },
+    {
+      "id": "100447",
+      "title": "현대야영장",
+      "reason": "HTTP 429"
+    },
+    {
+      "id": "101088",
+      "title": "금동휴양림캠프3",
+      "reason": "HTTP 429"
+    },
+    {
+      "id": "101402",
+      "title": "스테이현 캠핑장",
+      "reason": "HTTP 429"
+    },
+    {
+      "id": "100928",
+      "title": "더멍스테이",
+      "reason": "HTTP 429"
+    },
+    {
+      "id": "100967",
+      "title": "이스턴모스트캠핑",
+      "reason": "HTTP 429"
+    },
+    {
+      "id": "100774",
+      "title": "곡성 들말 야영장",
+      "reason": "HTTP 429"
+    },
+    {
+      "id": "100965",
+      "title": "청우재 캠핑장",
+      "reason": "HTTP 429"
+    },
+    {
+      "id": "100505",
+      "title": "토우마루캠핑장",
+      "reason": "HTTP 429"
+    },
+    {
+      "id": "100962",
+      "title": "인터뷰카페",
+      "reason": "HTTP 429"
+    },
+    {
+      "id": "100915",
+      "title": "선셋코스트",
+      "reason": "HTTP 429"
+    },
+    {
+      "id": "100291",
+      "title": "썬오브글램핑",
+      "reason": "HTTP 429"
+    },
+    {
+      "id": "101179",
+      "title": "오도산 관광농원",
+      "reason": "HTTP 429"
+    },
+    {
+      "id": "100837",
+      "title": "감동스테이캠프",
+      "reason": "HTTP 429"
+    },
+    {
+      "id": "100722",
+      "title": "GO(지오)글램핑",
+      "reason": "HTTP 429"
+    },
+    {
+      "id": "100921",
+      "title": "제천 클라우드글램핑",
+      "reason": "HTTP 429"
+    },
+    {
+      "id": "101257",
+      "title": "모아이 캠프",
+      "reason": "HTTP 429"
+    },
+    {
+      "id": "101246",
+      "title": "DS Camp 캠핑장",
+      "reason": "HTTP 429"
+    },
+    {
+      "id": "100866",
+      "title": "십리포힐링카라반",
+      "reason": "HTTP 429"
+    },
+    {
+      "id": "101310",
+      "title": "대봉캠핑랜드",
+      "reason": "HTTP 429"
+    },
+    {
+      "id": "100857",
+      "title": "숲속의 관광농원",
+      "reason": "HTTP 429"
+    },
+    {
+      "id": "101133",
+      "title": "캠핑7604",
+      "reason": "HTTP 429"
+    },
+    {
+      "id": "101622",
+      "title": "강천산 오토캠핑장",
+      "reason": "HTTP 429"
+    },
+    {
+      "id": "100775",
+      "title": "그로브",
+      "reason": "HTTP 429"
+    },
+    {
+      "id": "101234",
+      "title": "한코관광농원야영장",
+      "reason": "HTTP 429"
+    },
+    {
+      "id": "101312",
+      "title": "수타사 힐링 캠프",
+      "reason": "HTTP 429"
+    },
+    {
+      "id": "101453",
+      "title": "패밀리파크 캠핑장",
+      "reason": "HTTP 429"
+    },
+    {
+      "id": "100835",
+      "title": "지리산하이웨이 캠핑장",
+      "reason": "HTTP 429"
+    },
+    {
+      "id": "100906",
+      "title": "산마을 풍경",
+      "reason": "HTTP 429"
+    },
+    {
+      "id": "100814",
+      "title": "하버드카라반",
+      "reason": "HTTP 429"
+    },
+    {
+      "id": "100856",
+      "title": "산마을글램핑",
+      "reason": "HTTP 429"
+    },
+    {
+      "id": "100973",
+      "title": "유명산고모네캠핑장",
+      "reason": "HTTP 429"
+    },
+    {
+      "id": "101020",
+      "title": "에코이글루",
+      "reason": "HTTP 429"
+    },
+    {
+      "id": "101462",
+      "title": "단양 별마루캠핑장",
+      "reason": "HTTP 429"
+    },
+    {
+      "id": "100328",
+      "title": "한천관광농원야영장",
+      "reason": "HTTP 429"
+    },
+    {
+      "id": "100908",
+      "title": "승건관광농원",
+      "reason": "HTTP 429"
+    },
+    {
+      "id": "101024",
+      "title": "강화 솔비야 글램핑",
+      "reason": "HTTP 429"
+    },
+    {
+      "id": "100927",
+      "title": "별보는 마을",
+      "reason": "HTTP 429"
+    },
+    {
+      "id": "100487",
+      "title": "지리산둥지 캠핑장",
+      "reason": "HTTP 429"
+    },
+    {
+      "id": "100964",
+      "title": "캠프마징가",
+      "reason": "HTTP 429"
+    },
+    {
+      "id": "101169",
+      "title": "포천 몽롱한노을 카라반 캠핑장",
+      "reason": "HTTP 429"
+    },
+    {
+      "id": "101437",
+      "title": "갈현동화마을 오토캠핑장",
+      "reason": "HTTP 429"
+    },
+    {
+      "id": "100653",
+      "title": "네이처 카라반 글램핑",
+      "reason": "HTTP 429"
+    },
+    {
+      "id": "101131",
+      "title": "또와또 오토캠핑장",
+      "reason": "HTTP 429"
+    },
+    {
+      "id": "101468",
+      "title": "구름포해변캠핑장",
+      "reason": "HTTP 429"
+    },
+    {
+      "id": "101265",
+      "title": "스타로드",
+      "reason": "HTTP 429"
+    },
+    {
+      "id": "101460",
+      "title": "바이올린글램핑&카라반",
+      "reason": "HTTP 429"
+    },
+    {
+      "id": "101455",
+      "title": "큰마당 오토 캠핑장",
+      "reason": "HTTP 429"
+    },
+    {
+      "id": "100712",
+      "title": "윈드밸리 야영장",
+      "reason": "HTTP 429"
+    },
+    {
+      "id": "100826",
+      "title": "어게인캠핑A",
+      "reason": "HTTP 429"
+    },
+    {
+      "id": "100695",
+      "title": "숲 나들이 야영장",
+      "reason": "HTTP 429"
+    },
+    {
+      "id": "102170",
+      "title": "쉼오지캠프캠핑장",
+      "reason": "HTTP 429"
+    },
+    {
+      "id": "101187",
+      "title": "캠핑 포에버",
+      "reason": "HTTP 429"
+    },
+    {
+      "id": "101185",
+      "title": "고요새 캠핑장",
+      "reason": "HTTP 429"
+    },
+    {
+      "id": "101114",
+      "title": "고기하이캠핑장",
+      "reason": "HTTP 429"
+    },
+    {
+      "id": "100716",
+      "title": "쏘쿨이네 글램핑",
+      "reason": "HTTP 429"
+    },
+    {
+      "id": "101174",
+      "title": "달문관광 농원",
+      "reason": "HTTP 429"
+    },
+    {
+      "id": "100704",
+      "title": "옥당걸숲속관광농원",
+      "reason": "HTTP 429"
+    },
+    {
+      "id": "100514",
+      "title": "바다랑 캠핑장",
+      "reason": "HTTP 429"
+    },
+    {
+      "id": "100706",
+      "title": "벤캠프(Ben Camp)",
+      "reason": "HTTP 429"
+    },
+    {
+      "id": "7447",
+      "title": "명사십리 2야영장",
+      "reason": "HTTP 429"
+    },
+    {
+      "id": "100773",
+      "title": "밴프 야영장",
+      "reason": "HTTP 429"
+    },
+    {
+      "id": "100871",
+      "title": "클라우드 나인",
+      "reason": "HTTP 429"
+    },
+    {
+      "id": "100652",
+      "title": "서산버드랜드 야영장",
+      "reason": "HTTP 429"
+    },
+    {
+      "id": "100833",
+      "title": "방목리 BBQ 캠핑장",
+      "reason": "HTTP 429"
+    },
+    {
+      "id": "101323",
+      "title": "산청프리미엄캠핑장",
+      "reason": "HTTP 429"
+    },
+    {
+      "id": "101404",
+      "title": "도담캠핑",
+      "reason": "HTTP 429"
+    },
+    {
+      "id": "100515",
+      "title": "더 상상 글램핑",
+      "reason": "HTTP 429"
+    },
+    {
+      "id": "100918",
+      "title": "동강 산수 캠핑장",
+      "reason": "HTTP 429"
+    },
+    {
+      "id": "100657",
+      "title": "용장 글램핑",
+      "reason": "HTTP 429"
+    },
+    {
+      "id": "100810",
+      "title": "늘푸른캠핑장",
+      "reason": "HTTP 429"
+    },
+    {
+      "id": "100553",
+      "title": "우리고향 캠핑장",
+      "reason": "HTTP 429"
     },
     {
       "id": "101722",
@@ -2687,6 +5450,416 @@
       "id": "101948",
       "title": "자월도 달빛바람 천문공원 야영장",
       "reason": "목록·상세 주소 불일치"
+    },
+    {
+      "id": "102010",
+      "title": "문경호암오토캠핑장",
+      "reason": "HTTP 429"
+    },
+    {
+      "id": "102046",
+      "title": "히든 백야드(Hidden Backyard)",
+      "reason": "HTTP 429"
+    },
+    {
+      "id": "101918",
+      "title": "절골힐링캠핑장",
+      "reason": "HTTP 429"
+    },
+    {
+      "id": "101994",
+      "title": "화금지 숲속캠핑장",
+      "reason": "HTTP 429"
+    },
+    {
+      "id": "102197",
+      "title": "잉그락 풀 글램핑",
+      "reason": "HTTP 429"
+    },
+    {
+      "id": "101929",
+      "title": "자굴산 자연휴양림 야영장",
+      "reason": "HTTP 429"
+    },
+    {
+      "id": "102186",
+      "title": "파라다이스 캠핑장",
+      "reason": "HTTP 429"
+    },
+    {
+      "id": "101856",
+      "title": "그랜드파파",
+      "reason": "HTTP 429"
+    },
+    {
+      "id": "102260",
+      "title": "유정호숫길캠핑장",
+      "reason": "HTTP 429"
+    },
+    {
+      "id": "102012",
+      "title": "신불산 물길따라 글램핑",
+      "reason": "HTTP 429"
+    },
+    {
+      "id": "102014",
+      "title": "카라카리조트",
+      "reason": "HTTP 429"
+    },
+    {
+      "id": "102022",
+      "title": "우주라이크",
+      "reason": "HTTP 429"
+    },
+    {
+      "id": "101860",
+      "title": "러블레싱글램핑",
+      "reason": "HTTP 429"
+    },
+    {
+      "id": "101864",
+      "title": "배방 알프스",
+      "reason": "HTTP 429"
+    },
+    {
+      "id": "101957",
+      "title": "장성레이크 글램핑",
+      "reason": "HTTP 429"
+    },
+    {
+      "id": "101943",
+      "title": "소노글램핑",
+      "reason": "HTTP 429"
+    },
+    {
+      "id": "102040",
+      "title": "월악산 미시시피 캠핑장",
+      "reason": "HTTP 429"
+    },
+    {
+      "id": "101984",
+      "title": "여기만내캠핑장",
+      "reason": "HTTP 429"
+    },
+    {
+      "id": "102097",
+      "title": "나드리 오토캠핑장",
+      "reason": "HTTP 429"
+    },
+    {
+      "id": "101903",
+      "title": "무척팜크닉",
+      "reason": "HTTP 429"
+    },
+    {
+      "id": "101875",
+      "title": "주식회사 숲속의 달팽이",
+      "reason": "HTTP 429"
+    },
+    {
+      "id": "102125",
+      "title": "몬드캠핑장",
+      "reason": "HTTP 429"
+    },
+    {
+      "id": "102019",
+      "title": "아웃오프 글램핑",
+      "reason": "HTTP 429"
+    },
+    {
+      "id": "101897",
+      "title": "좋은 날",
+      "reason": "HTTP 429"
+    },
+    {
+      "id": "101930",
+      "title": "197캠프",
+      "reason": "HTTP 429"
+    },
+    {
+      "id": "102042",
+      "title": "송추바베큐 셀프바베큐장 흐름채",
+      "reason": "HTTP 429"
+    },
+    {
+      "id": "101976",
+      "title": "달빛소나타",
+      "reason": "HTTP 429"
+    },
+    {
+      "id": "101933",
+      "title": "편백숲 힐링캠프",
+      "reason": "HTTP 429"
+    },
+    {
+      "id": "102089",
+      "title": "개네집캠핑장",
+      "reason": "HTTP 429"
+    },
+    {
+      "id": "101952",
+      "title": "늘편한캠핑장(2)",
+      "reason": "HTTP 429"
+    },
+    {
+      "id": "102027",
+      "title": "남강사계절 야영장",
+      "reason": "HTTP 429"
+    },
+    {
+      "id": "102147",
+      "title": "어반스트림",
+      "reason": "HTTP 429"
+    },
+    {
+      "id": "101878",
+      "title": "바다캠프",
+      "reason": "HTTP 429"
+    },
+    {
+      "id": "102073",
+      "title": "코브 노마드",
+      "reason": "HTTP 429"
+    },
+    {
+      "id": "102127",
+      "title": "그린지글램핑(애월 상귀리 관광농원)",
+      "reason": "HTTP 429"
+    },
+    {
+      "id": "101992",
+      "title": "태안솔향기길캠핑장",
+      "reason": "HTTP 429"
+    },
+    {
+      "id": "101859",
+      "title": "하늘길 캠핑장",
+      "reason": "HTTP 429"
+    },
+    {
+      "id": "101905",
+      "title": "달빛글램핑",
+      "reason": "HTTP 429"
+    },
+    {
+      "id": "101965",
+      "title": "다호캠핑장",
+      "reason": "HTTP 429"
+    },
+    {
+      "id": "102190",
+      "title": "주식회사에이투젯",
+      "reason": "HTTP 429"
+    },
+    {
+      "id": "101907",
+      "title": "선택적 고립 캠핑장 1",
+      "reason": "HTTP 429"
+    },
+    {
+      "id": "101910",
+      "title": "아이엠글램핑",
+      "reason": "HTTP 429"
+    },
+    {
+      "id": "102250",
+      "title": "낙산해수욕장야영장",
+      "reason": "HTTP 429"
+    },
+    {
+      "id": "101908",
+      "title": "논산숲글램핑야영장",
+      "reason": "HTTP 429"
+    },
+    {
+      "id": "101935",
+      "title": "오동캠핑장",
+      "reason": "HTTP 429"
+    },
+    {
+      "id": "101962",
+      "title": "해울림 캠핑장",
+      "reason": "HTTP 429"
+    },
+    {
+      "id": "101927",
+      "title": "다케노모리",
+      "reason": "HTTP 429"
+    },
+    {
+      "id": "101967",
+      "title": "베리베리글램핑 관광농원",
+      "reason": "HTTP 429"
+    },
+    {
+      "id": "102084",
+      "title": "구미 낙동강 제2캠핑장",
+      "reason": "HTTP 429"
+    },
+    {
+      "id": "101912",
+      "title": "태안파인포레스트카라반캠핑장",
+      "reason": "HTTP 429"
+    },
+    {
+      "id": "101924",
+      "title": "별보러가자",
+      "reason": "HTTP 429"
+    },
+    {
+      "id": "102039",
+      "title": "내리 솔밭 캠핑장",
+      "reason": "HTTP 429"
+    },
+    {
+      "id": "102057",
+      "title": "곰돌이캠핑장",
+      "reason": "HTTP 429"
+    },
+    {
+      "id": "101949",
+      "title": "캠프 너겟",
+      "reason": "HTTP 429"
+    },
+    {
+      "id": "101944",
+      "title": "운장산해마루캠핑",
+      "reason": "HTTP 429"
+    },
+    {
+      "id": "101870",
+      "title": "팔꽁이 야영장",
+      "reason": "HTTP 429"
+    },
+    {
+      "id": "102126",
+      "title": "아산 스테이그린 바베큐장",
+      "reason": "HTTP 429"
+    },
+    {
+      "id": "102037",
+      "title": "바움글램핑",
+      "reason": "HTTP 429"
+    },
+    {
+      "id": "101853",
+      "title": "앞마당",
+      "reason": "HTTP 429"
+    },
+    {
+      "id": "102230",
+      "title": "봉아름 캠핑장",
+      "reason": "HTTP 429"
+    },
+    {
+      "id": "102107",
+      "title": "더캠프 369",
+      "reason": "HTTP 429"
+    },
+    {
+      "id": "101865",
+      "title": "NATURE80",
+      "reason": "HTTP 429"
+    },
+    {
+      "id": "101987",
+      "title": "더 그린 캠핑 양양",
+      "reason": "HTTP 429"
+    },
+    {
+      "id": "102029",
+      "title": "캠프빌리지 345",
+      "reason": "HTTP 429"
+    },
+    {
+      "id": "102210",
+      "title": "덕포진 숲속카라반파크",
+      "reason": "HTTP 429"
+    },
+    {
+      "id": "102044",
+      "title": "무니 캠핑장",
+      "reason": "HTTP 429"
+    },
+    {
+      "id": "101961",
+      "title": "망양1리 해빛뜰마을",
+      "reason": "HTTP 429"
+    },
+    {
+      "id": "101998",
+      "title": "페트라 캠(PETRA.CAMP)",
+      "reason": "HTTP 429"
+    },
+    {
+      "id": "102176",
+      "title": "농촌효테마공원",
+      "reason": "HTTP 429"
+    },
+    {
+      "id": "101985",
+      "title": "별이 빛나는 밤에 글램핑 2",
+      "reason": "HTTP 429"
+    },
+    {
+      "id": "102036",
+      "title": "돌개마실캠핑장",
+      "reason": "HTTP 429"
+    },
+    {
+      "id": "102074",
+      "title": "공룡자연 팜핑장",
+      "reason": "HTTP 429"
+    },
+    {
+      "id": "101982",
+      "title": "별캠핑장",
+      "reason": "HTTP 429"
+    },
+    {
+      "id": "102024",
+      "title": "방화동가족휴가촌 일반야영장",
+      "reason": "HTTP 429"
+    },
+    {
+      "id": "102026",
+      "title": "모닥 글램핑",
+      "reason": "HTTP 429"
+    },
+    {
+      "id": "102248",
+      "title": "남애3리 갯마을해수욕장 야영장",
+      "reason": "HTTP 429"
+    },
+    {
+      "id": "101960",
+      "title": "캠프스테이 청도",
+      "reason": "HTTP 429"
+    },
+    {
+      "id": "102063",
+      "title": "모디락 바베큐",
+      "reason": "HTTP 429"
+    },
+    {
+      "id": "101990",
+      "title": "사계글램핑",
+      "reason": "HTTP 429"
+    },
+    {
+      "id": "102166",
+      "title": "홍천제이(J)글램핑",
+      "reason": "HTTP 429"
+    },
+    {
+      "id": "101954",
+      "title": "트리플카라반캠핑",
+      "reason": "HTTP 429"
+    },
+    {
+      "id": "102028",
+      "title": "글램포레 글램핑 2호점",
+      "reason": "HTTP 429"
     },
     {
       "id": "102077",
@@ -2712,11 +5885,6 @@
       "id": "102306",
       "title": "한단디한방테마관광농원",
       "reason": "국내 좌표 확인 실패"
-    },
-    {
-      "id": "102373",
-      "title": "코코캠프 제주",
-      "reason": "The operation was aborted due to timeout"
     }
   ]
 }
