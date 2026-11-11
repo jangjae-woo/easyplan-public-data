@@ -1,5 +1,5 @@
 {
-  "checkedAt": "2026-11-10T03:52:37.207Z",
+  "checkedAt": "2026-11-11T01:30:01.729Z",
   "candidates": [
     {
       "videoId": "Vlzn-egT5w8",
@@ -1922,6 +1922,12 @@
       "status": "장소·출연자 확인 대기"
     },
     {
+      "videoId": "coqcWBemzYI",
+      "channelId": "UCoc4GqwXn6ORvfZXu2JFJlg",
+      "url": "https://www.youtube.com/watch?v=coqcWBemzYI",
+      "status": "장소·출연자 확인 대기"
+    },
+    {
       "channelId": "UCl23-Cci_SMqyGXE1T_LYUg",
       "status": "새 영상 조회 실패"
     },
@@ -1962,10 +1968,8 @@
       "status": "새 영상 조회 실패"
     },
     {
-      "videoId": "coqcWBemzYI",
       "channelId": "UCoc4GqwXn6ORvfZXu2JFJlg",
-      "url": "https://www.youtube.com/watch?v=coqcWBemzYI",
-      "status": "장소·출연자 확인 대기"
+      "status": "새 영상 조회 실패"
     },
     {
       "channelId": "UCv_LOMb4aleZaOV2aAlGHbQ",
