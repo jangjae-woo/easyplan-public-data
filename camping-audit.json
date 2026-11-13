@@ -1,5 +1,5 @@
 {
-  "checkedAt": "2026-11-12T02:19:52.453Z",
+  "checkedAt": "2026-11-13T01:53:16.086Z",
   "excluded": [
     {
       "id": "7767",
@@ -242,20 +242,20 @@
       "url": "https://gocamping.or.kr/bsite/camp/info/read.do?c_no=2955"
     },
     {
-      "id": "7604",
-      "title": "두레캠핑장",
-      "address": "경기도 가평군 청평면 상지로 171",
-      "registered": true,
-      "closed": true,
-      "url": "https://gocamping.or.kr/bsite/camp/info/read.do?c_no=7604"
-    },
-    {
       "id": "101120",
       "title": "집 밖으로",
       "address": "경기도 양평군 단월면 석산로 832",
       "registered": true,
       "closed": true,
       "url": "https://gocamping.or.kr/bsite/camp/info/read.do?c_no=101120"
+    },
+    {
+      "id": "7604",
+      "title": "두레캠핑장",
+      "address": "경기도 가평군 청평면 상지로 171",
+      "registered": true,
+      "closed": true,
+      "url": "https://gocamping.or.kr/bsite/camp/info/read.do?c_no=7604"
     },
     {
       "id": "3412",
@@ -530,20 +530,20 @@
       "url": "https://gocamping.or.kr/bsite/camp/info/read.do?c_no=2848"
     },
     {
-      "id": "1133",
-      "title": "문배골 캠핑장",
-      "address": "강원특별자치도 춘천시 남산면 서백길 691-83",
-      "registered": true,
-      "closed": true,
-      "url": "https://gocamping.or.kr/bsite/camp/info/read.do?c_no=1133"
-    },
-    {
       "id": "2351",
       "title": "와이캠핑장",
       "address": "경기도 가평군 청평면 강변로 115",
       "registered": true,
       "closed": true,
       "url": "https://gocamping.or.kr/bsite/camp/info/read.do?c_no=2351"
+    },
+    {
+      "id": "1133",
+      "title": "문배골 캠핑장",
+      "address": "강원특별자치도 춘천시 남산면 서백길 691-83",
+      "registered": true,
+      "closed": true,
+      "url": "https://gocamping.or.kr/bsite/camp/info/read.do?c_no=1133"
     },
     {
       "id": "142",
@@ -664,6 +664,14 @@
       "registered": true,
       "closed": true,
       "url": "https://gocamping.or.kr/bsite/camp/info/read.do?c_no=7402"
+    },
+    {
+      "id": "7026",
+      "title": "와룡자연휴양림 자동차야영장",
+      "address": "전북특별자치도 장수군 천천면 비룡리 632",
+      "registered": true,
+      "closed": true,
+      "url": "https://gocamping.or.kr/bsite/camp/info/read.do?c_no=7026"
     },
     {
       "id": "3586",
@@ -906,12 +914,20 @@
       "url": "https://gocamping.or.kr/bsite/camp/info/read.do?c_no=1476"
     },
     {
-      "id": "7004",
-      "title": "서산글램핑",
-      "address": "충청남도 서산시 대산읍 오지검은고지길 1-10",
+      "id": "8157",
+      "title": "태안노을숲캠핑장",
+      "address": "충청남도 태안군 남면 마검포길 311-42",
       "registered": true,
       "closed": true,
-      "url": "https://gocamping.or.kr/bsite/camp/info/read.do?c_no=7004"
+      "url": "https://gocamping.or.kr/bsite/camp/info/read.do?c_no=8157"
+    },
+    {
+      "id": "7025",
+      "title": "와룡자연휴양림 일반야영장",
+      "address": "전북특별자치도 장수군 천천면 비룡로 632",
+      "registered": true,
+      "closed": true,
+      "url": "https://gocamping.or.kr/bsite/camp/info/read.do?c_no=7025"
     },
     {
       "id": "7946",
@@ -920,6 +936,14 @@
       "registered": true,
       "closed": true,
       "url": "https://gocamping.or.kr/bsite/camp/info/read.do?c_no=7946"
+    },
+    {
+      "id": "7004",
+      "title": "서산글램핑",
+      "address": "충청남도 서산시 대산읍 오지검은고지길 1-10",
+      "registered": true,
+      "closed": true,
+      "url": "https://gocamping.or.kr/bsite/camp/info/read.do?c_no=7004"
     },
     {
       "id": "1548",
@@ -1074,20 +1098,20 @@
       "url": "https://gocamping.or.kr/bsite/camp/info/read.do?c_no=7628"
     },
     {
-      "id": "8189",
-      "title": "거북선마을 캠핑장",
-      "address": "경상남도 사천시 용현면 사천대교로 75-61",
-      "registered": true,
-      "closed": true,
-      "url": "https://gocamping.or.kr/bsite/camp/info/read.do?c_no=8189"
-    },
-    {
       "id": "1317",
       "title": "하이드온부쉬",
       "address": "강원특별자치도 춘천시 서면 경춘로 1068",
       "registered": true,
       "closed": true,
       "url": "https://gocamping.or.kr/bsite/camp/info/read.do?c_no=1317"
+    },
+    {
+      "id": "8189",
+      "title": "거북선마을 캠핑장",
+      "address": "경상남도 사천시 용현면 사천대교로 75-61",
+      "registered": true,
+      "closed": true,
+      "url": "https://gocamping.or.kr/bsite/camp/info/read.do?c_no=8189"
     },
     {
       "id": "6785",
@@ -1178,6 +1202,14 @@
       "url": "https://gocamping.or.kr/bsite/camp/info/read.do?c_no=6841"
     },
     {
+      "id": "101520",
+      "title": "국립김천숲속야영장",
+      "address": "경상북도 김천시 대덕면 조룡길 865",
+      "registered": true,
+      "closed": true,
+      "url": "https://gocamping.or.kr/bsite/camp/info/read.do?c_no=101520"
+    },
+    {
       "id": "7390",
       "title": "연포분교야영장",
       "address": "강원특별자치도 정선군 신동읍 연포길 544-6 연포분교",
@@ -1192,14 +1224,6 @@
       "registered": true,
       "closed": true,
       "url": "https://gocamping.or.kr/bsite/camp/info/read.do?c_no=2181"
-    },
-    {
-      "id": "101520",
-      "title": "국립김천숲속야영장",
-      "address": "경상북도 김천시 대덕면 조룡길 865",
-      "registered": true,
-      "closed": true,
-      "url": "https://gocamping.or.kr/bsite/camp/info/read.do?c_no=101520"
     },
     {
       "id": "7078",
@@ -1234,20 +1258,20 @@
       "url": "https://gocamping.or.kr/bsite/camp/info/read.do?c_no=3047"
     },
     {
-      "id": "2503",
-      "title": "위정캠핑장",
-      "address": "경상북도 영덕군 창수면 영양창수로 3032-9",
-      "registered": true,
-      "closed": true,
-      "url": "https://gocamping.or.kr/bsite/camp/info/read.do?c_no=2503"
-    },
-    {
       "id": "966",
       "title": "러브팩토리펜션캠핑장",
       "address": "강원특별자치도 정선군 남면 광락로 521",
       "registered": true,
       "closed": true,
       "url": "https://gocamping.or.kr/bsite/camp/info/read.do?c_no=966"
+    },
+    {
+      "id": "2503",
+      "title": "위정캠핑장",
+      "address": "경상북도 영덕군 창수면 영양창수로 3032-9",
+      "registered": true,
+      "closed": true,
+      "url": "https://gocamping.or.kr/bsite/camp/info/read.do?c_no=2503"
     },
     {
       "id": "3610",
@@ -1378,20 +1402,20 @@
       "url": "https://gocamping.or.kr/bsite/camp/info/read.do?c_no=1491"
     },
     {
-      "id": "7383",
-      "title": "청풍명월",
-      "address": "강원특별자치도 영월군 무릉도원면 도원운학로 591",
-      "registered": true,
-      "closed": true,
-      "url": "https://gocamping.or.kr/bsite/camp/info/read.do?c_no=7383"
-    },
-    {
       "id": "2729",
       "title": "제주파인비치 카라반",
       "address": "제주특별자치도 서귀포시 남원읍 태위로 976-10",
       "registered": true,
       "closed": true,
       "url": "https://gocamping.or.kr/bsite/camp/info/read.do?c_no=2729"
+    },
+    {
+      "id": "7383",
+      "title": "청풍명월",
+      "address": "강원특별자치도 영월군 무릉도원면 도원운학로 591",
+      "registered": true,
+      "closed": true,
+      "url": "https://gocamping.or.kr/bsite/camp/info/read.do?c_no=7383"
     },
     {
       "id": "2695",
@@ -1586,20 +1610,20 @@
       "url": "https://gocamping.or.kr/bsite/camp/info/read.do?c_no=582"
     },
     {
-      "id": "7867",
-      "title": "숲속 캠핑장",
-      "address": "전북특별자치도 진안군 부귀면 귀상로 792-23",
-      "registered": true,
-      "closed": true,
-      "url": "https://gocamping.or.kr/bsite/camp/info/read.do?c_no=7867"
-    },
-    {
       "id": "7601",
       "title": "하와이언캠프",
       "address": "인천광역시 옹진군 영흥면 영흥서로446번길 46",
       "registered": true,
       "closed": true,
       "url": "https://gocamping.or.kr/bsite/camp/info/read.do?c_no=7601"
+    },
+    {
+      "id": "7867",
+      "title": "숲속 캠핑장",
+      "address": "전북특별자치도 진안군 부귀면 귀상로 792-23",
+      "registered": true,
+      "closed": true,
+      "url": "https://gocamping.or.kr/bsite/camp/info/read.do?c_no=7867"
     },
     {
       "id": "851",
@@ -1618,20 +1642,20 @@
       "url": "https://gocamping.or.kr/bsite/camp/info/read.do?c_no=2912"
     },
     {
-      "id": "869",
-      "title": "동광녹색체험휴양마을",
-      "address": "제주특별자치도 서귀포시 안덕면 동광본동로 14-14",
-      "registered": true,
-      "closed": true,
-      "url": "https://gocamping.or.kr/bsite/camp/info/read.do?c_no=869"
-    },
-    {
       "id": "7971",
       "title": "솔미캠핑장",
       "address": "강원특별자치도 정선군 임계면 반천고양로 12",
       "registered": true,
       "closed": true,
       "url": "https://gocamping.or.kr/bsite/camp/info/read.do?c_no=7971"
+    },
+    {
+      "id": "869",
+      "title": "동광녹색체험휴양마을",
+      "address": "제주특별자치도 서귀포시 안덕면 동광본동로 14-14",
+      "registered": true,
+      "closed": true,
+      "url": "https://gocamping.or.kr/bsite/camp/info/read.do?c_no=869"
     },
     {
       "id": "6864",
@@ -2210,14 +2234,6 @@
       "url": "https://gocamping.or.kr/bsite/camp/info/read.do?c_no=100761"
     },
     {
-      "id": "100806",
-      "title": "우프캠프",
-      "address": "경기도 화성시 만세구 향남읍 양석골길 40-39",
-      "registered": true,
-      "closed": true,
-      "url": "https://gocamping.or.kr/bsite/camp/info/read.do?c_no=100806"
-    },
-    {
       "id": "100700",
       "title": "칠갑산관광농원",
       "address": "충청남도 청양군 화성면 구숫골길 105-19",
@@ -2226,12 +2242,12 @@
       "url": "https://gocamping.or.kr/bsite/camp/info/read.do?c_no=100700"
     },
     {
-      "id": "100373",
-      "title": "도그랜드 애견글램핑 카라반&자담치킨",
-      "address": "경기도 가평군 조종면 운악청계로 238-84",
+      "id": "100806",
+      "title": "우프캠프",
+      "address": "경기도 화성시 만세구 향남읍 양석골길 40-39",
       "registered": true,
       "closed": true,
-      "url": "https://gocamping.or.kr/bsite/camp/info/read.do?c_no=100373"
+      "url": "https://gocamping.or.kr/bsite/camp/info/read.do?c_no=100806"
     },
     {
       "id": "100867",
@@ -2248,6 +2264,14 @@
       "registered": true,
       "closed": true,
       "url": "https://gocamping.or.kr/bsite/camp/info/read.do?c_no=100651"
+    },
+    {
+      "id": "100373",
+      "title": "도그랜드 애견글램핑 카라반&자담치킨",
+      "address": "경기도 가평군 조종면 운악청계로 238-84",
+      "registered": true,
+      "closed": true,
+      "url": "https://gocamping.or.kr/bsite/camp/info/read.do?c_no=100373"
     },
     {
       "id": "100446",
@@ -2586,6 +2610,14 @@
       "url": "https://gocamping.or.kr/bsite/camp/info/read.do?c_no=102252"
     },
     {
+      "id": "102246",
+      "title": "원포해수욕장 야영장",
+      "address": "강원특별자치도 양양군 현남면 원포리 1-10",
+      "registered": true,
+      "closed": true,
+      "url": "https://gocamping.or.kr/bsite/camp/info/read.do?c_no=102246"
+    },
+    {
       "id": "102261",
       "title": "천진 여름해변 야영장",
       "address": "강원특별자치도 고성군 토성면 천진리 111-18 공유수면",
@@ -2600,6 +2632,22 @@
       "registered": true,
       "closed": true,
       "url": "https://gocamping.or.kr/bsite/camp/info/read.do?c_no=102199"
+    },
+    {
+      "id": "102352",
+      "title": "태안오션뷰캠핑장",
+      "address": "충청남도 태안군 원북면 구례포길 47-84, 태안오션뷰캠핑장",
+      "registered": true,
+      "closed": true,
+      "url": "https://gocamping.or.kr/bsite/camp/info/read.do?c_no=102352"
+    },
+    {
+      "id": "102343",
+      "title": "마검포힐링캠핑장-A",
+      "address": "충청남도 태안군 남면 신온리 952-105 외 1필지",
+      "registered": true,
+      "closed": true,
+      "url": "https://gocamping.or.kr/bsite/camp/info/read.do?c_no=102343"
     },
     {
       "id": "102247",
@@ -2824,11 +2872,6 @@
     {
       "id": "102317",
       "title": "대진1리 해맞이 캠핑장",
-      "reason": "국내 좌표 확인 실패"
-    },
-    {
-      "id": "102343",
-      "title": "마검포힐링캠핑장-A",
       "reason": "국내 좌표 확인 실패"
     },
     {
