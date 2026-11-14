@@ -1,5 +1,5 @@
 {
-  "checkedAt": "2026-11-13T01:53:16.086Z",
+  "checkedAt": "2026-11-14T01:30:01.315Z",
   "excluded": [
     {
       "id": "7767",
@@ -498,20 +498,20 @@
       "url": "https://gocamping.or.kr/bsite/camp/info/read.do?c_no=2326"
     },
     {
-      "id": "1291",
-      "title": "뱀사골자동차야영장",
-      "address": "전북특별자치도 남원시 산내면 와운길 10",
-      "registered": true,
-      "closed": true,
-      "url": "https://gocamping.or.kr/bsite/camp/info/read.do?c_no=1291"
-    },
-    {
       "id": "7563",
       "title": "트리앤캠프스토리",
       "address": "강원특별자치도 양구군 양구읍 성곡로 849",
       "registered": true,
       "closed": true,
       "url": "https://gocamping.or.kr/bsite/camp/info/read.do?c_no=7563"
+    },
+    {
+      "id": "1291",
+      "title": "뱀사골자동차야영장",
+      "address": "전북특별자치도 남원시 산내면 와운길 10",
+      "registered": true,
+      "closed": true,
+      "url": "https://gocamping.or.kr/bsite/camp/info/read.do?c_no=1291"
     },
     {
       "id": "3014",
@@ -682,20 +682,20 @@
       "url": "https://gocamping.or.kr/bsite/camp/info/read.do?c_no=3586"
     },
     {
-      "id": "2934",
-      "title": "청옥야영장",
-      "address": "경상북도 봉화군 소천면 청옥로 167",
-      "registered": true,
-      "closed": true,
-      "url": "https://gocamping.or.kr/bsite/camp/info/read.do?c_no=2934"
-    },
-    {
       "id": "7148",
       "title": "물고기 관광농원",
       "address": "경기도 김포시 감정동 276-2",
       "registered": true,
       "closed": true,
       "url": "https://gocamping.or.kr/bsite/camp/info/read.do?c_no=7148"
+    },
+    {
+      "id": "2934",
+      "title": "청옥야영장",
+      "address": "경상북도 봉화군 소천면 청옥로 167",
+      "registered": true,
+      "closed": true,
+      "url": "https://gocamping.or.kr/bsite/camp/info/read.do?c_no=2934"
     },
     {
       "id": "794",
@@ -1002,6 +1002,14 @@
       "url": "https://gocamping.or.kr/bsite/camp/info/read.do?c_no=7927"
     },
     {
+      "id": "167",
+      "title": "강촌하늘아래",
+      "address": "강원특별자치도 춘천시 남산면 풀무골1길 71",
+      "registered": true,
+      "closed": true,
+      "url": "https://gocamping.or.kr/bsite/camp/info/read.do?c_no=167"
+    },
+    {
       "id": "101021",
       "title": "도마치 자연그대로 캠핑장",
       "address": "경기도 포천시 이동면 화동로 2318-34",
@@ -1016,14 +1024,6 @@
       "registered": true,
       "closed": true,
       "url": "https://gocamping.or.kr/bsite/camp/info/read.do?c_no=8101"
-    },
-    {
-      "id": "167",
-      "title": "강촌하늘아래",
-      "address": "강원특별자치도 춘천시 남산면 풀무골1길 71",
-      "registered": true,
-      "closed": true,
-      "url": "https://gocamping.or.kr/bsite/camp/info/read.do?c_no=167"
     },
     {
       "id": "7314",
@@ -1186,6 +1186,14 @@
       "url": "https://gocamping.or.kr/bsite/camp/info/read.do?c_no=8120"
     },
     {
+      "id": "101520",
+      "title": "국립김천숲속야영장",
+      "address": "경상북도 김천시 대덕면 조룡길 865",
+      "registered": true,
+      "closed": true,
+      "url": "https://gocamping.or.kr/bsite/camp/info/read.do?c_no=101520"
+    },
+    {
       "id": "6943",
       "title": "(주)밀모빨강치마자동차야영장",
       "address": "전북특별자치도 무주군 적상면 밀모길 79-14",
@@ -1202,14 +1210,6 @@
       "url": "https://gocamping.or.kr/bsite/camp/info/read.do?c_no=6841"
     },
     {
-      "id": "101520",
-      "title": "국립김천숲속야영장",
-      "address": "경상북도 김천시 대덕면 조룡길 865",
-      "registered": true,
-      "closed": true,
-      "url": "https://gocamping.or.kr/bsite/camp/info/read.do?c_no=101520"
-    },
-    {
       "id": "7390",
       "title": "연포분교야영장",
       "address": "강원특별자치도 정선군 신동읍 연포길 544-6 연포분교",
@@ -1224,6 +1224,14 @@
       "registered": true,
       "closed": true,
       "url": "https://gocamping.or.kr/bsite/camp/info/read.do?c_no=2181"
+    },
+    {
+      "id": "7864",
+      "title": "가로림글램핑 & 풀빌라펜션",
+      "address": "충청남도 서산시 팔봉면 범머리길 80",
+      "registered": true,
+      "closed": true,
+      "url": "https://gocamping.or.kr/bsite/camp/info/read.do?c_no=7864"
     },
     {
       "id": "7078",
@@ -1314,14 +1322,6 @@
       "url": "https://gocamping.or.kr/bsite/camp/info/read.do?c_no=1045"
     },
     {
-      "id": "6990",
-      "title": "밤골야영장",
-      "address": "강원특별자치도 영월군 무릉도원면 무릉법흥로 940",
-      "registered": true,
-      "closed": true,
-      "url": "https://gocamping.or.kr/bsite/camp/info/read.do?c_no=6990"
-    },
-    {
       "id": "7905",
       "title": "용문산 해와달",
       "address": "경기도 양평군 옥천면 용천로306번길 21-33",
@@ -1330,12 +1330,28 @@
       "url": "https://gocamping.or.kr/bsite/camp/info/read.do?c_no=7905"
     },
     {
+      "id": "6990",
+      "title": "밤골야영장",
+      "address": "강원특별자치도 영월군 무릉도원면 무릉법흥로 940",
+      "registered": true,
+      "closed": true,
+      "url": "https://gocamping.or.kr/bsite/camp/info/read.do?c_no=6990"
+    },
+    {
       "id": "728",
       "title": "대기리산촌체험학교야영장",
       "address": "강원특별자치도 강릉시 왕산면 왕산로 1327",
       "registered": true,
       "closed": true,
       "url": "https://gocamping.or.kr/bsite/camp/info/read.do?c_no=728"
+    },
+    {
+      "id": "2579",
+      "title": "인제 아리캠핑장",
+      "address": "강원특별자치도 인제군 인제읍 광치령로 306",
+      "registered": true,
+      "closed": true,
+      "url": "https://gocamping.or.kr/bsite/camp/info/read.do?c_no=2579"
     },
     {
       "id": "3028",
@@ -1352,14 +1368,6 @@
       "registered": true,
       "closed": true,
       "url": "https://gocamping.or.kr/bsite/camp/info/read.do?c_no=7926"
-    },
-    {
-      "id": "2579",
-      "title": "인제 아리캠핑장",
-      "address": "강원특별자치도 인제군 인제읍 광치령로 306",
-      "registered": true,
-      "closed": true,
-      "url": "https://gocamping.or.kr/bsite/camp/info/read.do?c_no=2579"
     },
     {
       "id": "7198",
@@ -1394,20 +1402,20 @@
       "url": "https://gocamping.or.kr/bsite/camp/info/read.do?c_no=7411"
     },
     {
-      "id": "1491",
-      "title": "산사랑글램핑펜션",
-      "address": "강원특별자치도 원주시 소초면 구룡사로 127-1",
-      "registered": true,
-      "closed": true,
-      "url": "https://gocamping.or.kr/bsite/camp/info/read.do?c_no=1491"
-    },
-    {
       "id": "2729",
       "title": "제주파인비치 카라반",
       "address": "제주특별자치도 서귀포시 남원읍 태위로 976-10",
       "registered": true,
       "closed": true,
       "url": "https://gocamping.or.kr/bsite/camp/info/read.do?c_no=2729"
+    },
+    {
+      "id": "1491",
+      "title": "산사랑글램핑펜션",
+      "address": "강원특별자치도 원주시 소초면 구룡사로 127-1",
+      "registered": true,
+      "closed": true,
+      "url": "https://gocamping.or.kr/bsite/camp/info/read.do?c_no=1491"
     },
     {
       "id": "7383",
@@ -1530,20 +1538,20 @@
       "url": "https://gocamping.or.kr/bsite/camp/info/read.do?c_no=7414"
     },
     {
-      "id": "47",
-      "title": "JB캠핑하우스",
-      "address": "경기도 파주시 적성면 감악산로 1270-74",
-      "registered": true,
-      "closed": true,
-      "url": "https://gocamping.or.kr/bsite/camp/info/read.do?c_no=47"
-    },
-    {
       "id": "7988",
       "title": "광덕그린농원 야영장",
       "address": "강원특별자치도 화천군 사내면 검단길 213-31",
       "registered": true,
       "closed": true,
       "url": "https://gocamping.or.kr/bsite/camp/info/read.do?c_no=7988"
+    },
+    {
+      "id": "47",
+      "title": "JB캠핑하우스",
+      "address": "경기도 파주시 적성면 감악산로 1270-74",
+      "registered": true,
+      "closed": true,
+      "url": "https://gocamping.or.kr/bsite/camp/info/read.do?c_no=47"
     },
     {
       "id": "3203",
@@ -1698,20 +1706,20 @@
       "url": "https://gocamping.or.kr/bsite/camp/info/read.do?c_no=7343"
     },
     {
-      "id": "3036",
-      "title": "캐나디언 카누클럽 야영장",
-      "address": "강원특별자치도 홍천군 서면 마곡길 113-28",
-      "registered": true,
-      "closed": true,
-      "url": "https://gocamping.or.kr/bsite/camp/info/read.do?c_no=3036"
-    },
-    {
       "id": "3114",
       "title": "클럽레스피아",
       "address": "강원특별자치도 홍천군 구룡밭길 24-30",
       "registered": true,
       "closed": true,
       "url": "https://gocamping.or.kr/bsite/camp/info/read.do?c_no=3114"
+    },
+    {
+      "id": "3036",
+      "title": "캐나디언 카누클럽 야영장",
+      "address": "강원특별자치도 홍천군 서면 마곡길 113-28",
+      "registered": true,
+      "closed": true,
+      "url": "https://gocamping.or.kr/bsite/camp/info/read.do?c_no=3036"
     },
     {
       "id": "7389",
