@@ -1,5 +1,5 @@
 {
-  "checkedAt": "2026-11-14T01:30:01.315Z",
+  "checkedAt": "2026-11-15T01:06:30.495Z",
   "excluded": [
     {
       "id": "7767",
@@ -570,20 +570,20 @@
       "url": "https://gocamping.or.kr/bsite/camp/info/read.do?c_no=839"
     },
     {
-      "id": "1611",
-      "title": "서대산 드림 캠핑파크",
-      "address": "충청남도 금산군 추부면 성당로 247",
-      "registered": true,
-      "closed": true,
-      "url": "https://gocamping.or.kr/bsite/camp/info/read.do?c_no=1611"
-    },
-    {
       "id": "3487",
       "title": "향림오토캠핑장",
       "address": "경상남도 밀양시 산내면 얼음골로 134-25",
       "registered": true,
       "closed": true,
       "url": "https://gocamping.or.kr/bsite/camp/info/read.do?c_no=3487"
+    },
+    {
+      "id": "1611",
+      "title": "서대산 드림 캠핑파크",
+      "address": "충청남도 금산군 추부면 성당로 247",
+      "registered": true,
+      "closed": true,
+      "url": "https://gocamping.or.kr/bsite/camp/info/read.do?c_no=1611"
     },
     {
       "id": "384",
@@ -1018,20 +1018,20 @@
       "url": "https://gocamping.or.kr/bsite/camp/info/read.do?c_no=101021"
     },
     {
-      "id": "8101",
-      "title": "주전패밀리캠핑장",
-      "address": "울산광역시 동구 주전해안길 300 (주전동)",
-      "registered": true,
-      "closed": true,
-      "url": "https://gocamping.or.kr/bsite/camp/info/read.do?c_no=8101"
-    },
-    {
       "id": "7314",
       "title": "국립중앙과학관",
       "address": "대전광역시 유성구 대덕대로 481 (구성동)",
       "registered": true,
       "closed": true,
       "url": "https://gocamping.or.kr/bsite/camp/info/read.do?c_no=7314"
+    },
+    {
+      "id": "8101",
+      "title": "주전패밀리캠핑장",
+      "address": "울산광역시 동구 주전해안길 300 (주전동)",
+      "registered": true,
+      "closed": true,
+      "url": "https://gocamping.or.kr/bsite/camp/info/read.do?c_no=8101"
     },
     {
       "id": "7836",
@@ -1170,12 +1170,12 @@
       "url": "https://gocamping.or.kr/bsite/camp/info/read.do?c_no=3263"
     },
     {
-      "id": "100295",
-      "title": "원산도비치캠핑장",
-      "address": "충청남도 보령시 오천면 원산도4길 59",
+      "id": "101520",
+      "title": "국립김천숲속야영장",
+      "address": "경상북도 김천시 대덕면 조룡길 865",
       "registered": true,
       "closed": true,
-      "url": "https://gocamping.or.kr/bsite/camp/info/read.do?c_no=100295"
+      "url": "https://gocamping.or.kr/bsite/camp/info/read.do?c_no=101520"
     },
     {
       "id": "8120",
@@ -1186,12 +1186,12 @@
       "url": "https://gocamping.or.kr/bsite/camp/info/read.do?c_no=8120"
     },
     {
-      "id": "101520",
-      "title": "국립김천숲속야영장",
-      "address": "경상북도 김천시 대덕면 조룡길 865",
+      "id": "100295",
+      "title": "원산도비치캠핑장",
+      "address": "충청남도 보령시 오천면 원산도4길 59",
       "registered": true,
       "closed": true,
-      "url": "https://gocamping.or.kr/bsite/camp/info/read.do?c_no=101520"
+      "url": "https://gocamping.or.kr/bsite/camp/info/read.do?c_no=100295"
     },
     {
       "id": "6943",
@@ -1410,20 +1410,20 @@
       "url": "https://gocamping.or.kr/bsite/camp/info/read.do?c_no=2729"
     },
     {
-      "id": "1491",
-      "title": "산사랑글램핑펜션",
-      "address": "강원특별자치도 원주시 소초면 구룡사로 127-1",
-      "registered": true,
-      "closed": true,
-      "url": "https://gocamping.or.kr/bsite/camp/info/read.do?c_no=1491"
-    },
-    {
       "id": "7383",
       "title": "청풍명월",
       "address": "강원특별자치도 영월군 무릉도원면 도원운학로 591",
       "registered": true,
       "closed": true,
       "url": "https://gocamping.or.kr/bsite/camp/info/read.do?c_no=7383"
+    },
+    {
+      "id": "1491",
+      "title": "산사랑글램핑펜션",
+      "address": "강원특별자치도 원주시 소초면 구룡사로 127-1",
+      "registered": true,
+      "closed": true,
+      "url": "https://gocamping.or.kr/bsite/camp/info/read.do?c_no=1491"
     },
     {
       "id": "2695",
@@ -1498,20 +1498,20 @@
       "url": "https://gocamping.or.kr/bsite/camp/info/read.do?c_no=2142"
     },
     {
-      "id": "101410",
-      "title": "문암해변캠핑장",
-      "address": "강원특별자치도 삼척시 근덕면 초곡리 319-1",
-      "registered": true,
-      "closed": true,
-      "url": "https://gocamping.or.kr/bsite/camp/info/read.do?c_no=101410"
-    },
-    {
       "id": "7135",
       "title": "두밀숲캠핑장",
       "address": "경기도 가평군 가평읍 태봉두밀로 655-9",
       "registered": true,
       "closed": true,
       "url": "https://gocamping.or.kr/bsite/camp/info/read.do?c_no=7135"
+    },
+    {
+      "id": "101410",
+      "title": "문암해변캠핑장",
+      "address": "강원특별자치도 삼척시 근덕면 초곡리 319-1",
+      "registered": true,
+      "closed": true,
+      "url": "https://gocamping.or.kr/bsite/camp/info/read.do?c_no=101410"
     },
     {
       "id": "548",
